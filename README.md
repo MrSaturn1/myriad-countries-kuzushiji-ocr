@@ -74,6 +74,7 @@ ocr/
   EVALUATION.md, reference/, claude/, lightpass/   the OCR comparison and its data
   jobs.tsv, page_plan.tsv, copy_map.tsv            which scan each page was read from
 scripts/                  the pipeline (below)
+tools/ndlkotenocr-lite/   NDL古典籍OCR-Lite (git submodule)
 童絵解万国噺 (1861) - NDL 207-1695/              source notes and IIIF manifests (scans not included)
 童絵解万国噺 (1861) - Waseda 文庫11 a0380/       source notes (scans not included)
 童絵解万国噺 二編 (1861) - Osaka Pref Lib 乙-342/  source notes and IIIF manifests (scans not included)
@@ -115,9 +116,11 @@ repository root with `python3 -I`.
    `p0001.jpg`, `p0002.jpg`… Use the highest resolution available; Lite's
    accuracy depends on it.
 2. **OCR with NDL古典籍OCR-Lite** (runs on a laptop CPU):
+   It is included as a git submodule, pinned to the version used here (`ede4283`,
+   July 2026). Clone with `git clone --recursive`, or run the setup script, which
+   fetches it and builds a virtualenv in `tools/venv`:
    ```
-   git clone https://github.com/ndl-lab/ndlkotenocr-lite tools/ndlkotenocr-lite
-   python3 -m venv tools/venv && tools/venv/bin/pip install -r tools/ndlkotenocr-lite/requirements.txt
+   sh scripts/setup_tools.sh
    cd tools/ndlkotenocr-lite/src
    ../../venv/bin/python ocr.py --sourcedir "<scan folder>/vol1" --output <out folder>/vol1
    ```
@@ -163,5 +166,6 @@ Other useful pieces:
 - The 1861 book is in the public domain. The scans in `docs/scans/` are
   downscaled copies of the National Diet Library's public-domain images
   (credit: 国立国会図書館デジタルコレクション).
-- NDL古典籍OCR-Lite and ver.3 are by the National Diet Library (CC BY 4.0) and
-  are not included here.
+- NDL古典籍OCR-Lite and ver.3 are by the National Diet Library (CC BY 4.0).
+  Lite is linked as a submodule in `tools/ndlkotenocr-lite`; ver.3 is installed
+  on the GPU pod by `scripts/runpod_ndl_v3.py`.

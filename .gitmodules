@@ -1,0 +1,3 @@
+[submodule "tools/ndlkotenocr-lite"]
+	path = tools/ndlkotenocr-lite
+	url = https://github.com/ndl-lab/ndlkotenocr-lite.git
