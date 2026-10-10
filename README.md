@@ -44,12 +44,17 @@ Please keep in mind:
 - **The translation was made by an AI model (Claude Opus 5.5) and has not
   been reviewed by a specialist** in Edo Japanese. It reads well and the glossary keeps names
   consistent, but expect mistakes.
-- Uncertain readings are marked **[?]** (76 of them) and text unreadable in every
-  copy is marked **[…]** (19). Robun's history is often wrong or invented; it is
-  translated as written, with 83 short translator's notes where a reader might
+- Uncertain readings are marked **[?]** (85 of them) and text unreadable in every
+  copy is marked **[…]** (21). Robun's history is often wrong or invented; it is
+  translated as written, with 82 short translator's notes where a reader might
   be puzzled.
 - The 98% figure comes from five spreads. The rest of the book went through the
   same process but was not scored.
+- One independent check exists: a partial human translation of about 28 spreads
+  (Part 3 and the start of Part 4) by u/CauliflowerFew7729 on
+  [r/translator](https://www.reddit.com/r/translator/comments/1po1srl/), made before this one and found after it. The two
+  agree closely on the story, names and numbers; theirs caught four points this
+  one missed, now fixed with credit (details in `ocr/EVALUATION.md`).
 - Part 4 ends "to be continued". Robun promised a Part 5, which is not in these
   copies.
 
@@ -158,6 +163,14 @@ Other useful pieces:
 - Lite reads characters better and ver.3 orders them better. Neither copes
   with the ▲/△ marks these books use to continue text in another block of the
   page, so the correction pass fixes block order by hand.
+
+## Thanks
+
+Thanks to u/CauliflowerFew7729, who translated about a third of the book by hand
+in [this r/translator thread](https://www.reddit.com/r/translator/comments/1po1srl/), and to u/Teppenwolf456 and the other
+r/translator members who corrected and discussed it. Their work supplied four
+corrections to this translation (credited in the translator's notes) and is the
+only independent check on it so far.
 
 ## Licence
 

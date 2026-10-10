@@ -67,6 +67,20 @@ OCR got 67%. Claude Opus 5.5 then translated the corrected text. The
 Japanese transcriptions are in `ocr/final/`, and the evaluation is in
 `ocr/EVALUATION.md`.
 
+## Thanks
+
+In late 2025, before this translation was made, u/CauliflowerFew7729 translated
+about a third of the book by hand (Part Three and the opening of Part Four) in
+[a thread on Reddit's r/translator](https://www.reddit.com/r/translator/comments/1po1srl/), with corrections from
+u/Teppenwolf456, a native Japanese speaker, and help from other members of
+r/translator. That translation was made independently and only came to light
+after this one was finished. Where the two overlap, about 28 spreads, they agree
+closely on the story, the names and the numbers. Theirs also caught four things
+this one missed, which have been corrected here with credit: the Dutch source
+Kramers in the Part Three preface, Columbus's standing in Spain as a guest
+retainer, the real lookout Rodrigo de Triana, and the printed form *Harumata*
+for Bermuda. Many thanks to them both.
+
 ## Conventions
 
 - Each section is one opening of the book: two facing pages. The heading names

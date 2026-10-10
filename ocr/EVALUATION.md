@@ -39,6 +39,17 @@ ignore reading order (the tools order lines very differently):
   (read from the other library's scan).
 - miwo was not tested (phone-only; skipped).
 
+## Independent check against a human translation
+After the translation was finished, a partial human translation turned up:
+u/CauliflowerFew7729 on r/translator (https://www.reddit.com/r/translator/comments/1po1srl/), about 28 spreads of Parts 3–4
+from the Waseda copy, partly checked by u/Teppenwolf456 (native speaker). Read
+side by side, the two agree closely on plot, names and numbers. The human version
+caught four points this pipeline missed (葛拉墨兒 = Kramers; きやへぶん = 客分;
+Rodrigo de Triana; printed はるまた for Bermuda), now corrected. This pipeline's
+version was ahead on a few others (Yayoi is spring; 野路の玉川 begins たづね, not
+たづる; the Musashi poem ends なぞ). Both versions flag the same few spots as
+uncertain.
+
 ## Pipeline used for the whole book
 1. `scripts/page_plan.py` — NDL copy as primary; Waseda half-pages missing from
    it added → `ocr/jobs.tsv` (92 jobs).
