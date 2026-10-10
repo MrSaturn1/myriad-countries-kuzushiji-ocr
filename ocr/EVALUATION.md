@@ -20,12 +20,12 @@ ignore reading order (the tools order lines very differently):
 
 | Method | char F | bigram F |
 |---|---|---|
-| **Correction pass** (Lite + v3 merged, checked against the image by Claude) | **0.98** | **0.96** |
+| **Correction pass** (Lite + v3 merged, checked against the image by Claude Opus 5.5) | **0.98** | **0.96** |
 | NDL古典籍OCR-Lite on NDL copy (~4500 px) | 0.95 | 0.91 |
 | NDL古典籍OCR-Lite on Waseda copy (2592 px) | 0.95 | 0.90 |
 | NDL古典籍OCR ver.3 on Waseda copy | 0.92 | 0.84 |
 | NDL古典籍OCR ver.3 on NDL copy | 0.92 | 0.84 |
-| Claude reading the image alone | 0.67 | 0.33 |
+| Claude Opus 5.5 reading the image alone | 0.67 | 0.33 |
 
 ## Findings
 - **Lite reads characters best**; ver.3 (the "full" GPU version, run on RunPod)

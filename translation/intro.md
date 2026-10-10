@@ -5,7 +5,7 @@ Written ("translated") by **Kanagaki Robun** (仮名垣魯文, 1829–1894)
 Pictures by **Ichimōsai Yoshitora** (一孟斎芳虎, Utagawa Yoshitora)
 Edo, Man'en 2 / Bunkyū 1 (1861) · published by Kinkyōdō (錦橋堂) and Tsujiokaya Bunsuke; later issued by Yamadaya Shōjirō
 
-English translation, 2026.
+English translation, 2026, made with Claude Opus 5.5 (Anthropic's AI model) and not yet reviewed by a specialist.
 
 ---
 
@@ -58,11 +58,12 @@ reader might otherwise be puzzled.
 
 The Japanese was transcribed from the scans first. Two OCR programs from the
 National Diet Library (NDL古典籍OCR-Lite and the full NDL古典籍OCR ver.3) read
-each page. Their readings were merged, and every disagreement was checked by
-eye against enlarged crops of the scans, with the second library copy used
-wherever the first was worn. On five test spreads scored against careful
+each page. Their readings were merged, and Claude Opus 5.5 checked every
+disagreement against enlarged crops of the scans, using the second library
+copy wherever the first was worn. On five test spreads scored against careful
 reference transcriptions, this process got about 98% of characters right.
-Either OCR program alone got 92–95%, and reading by eye alone got 67%. The
+Either OCR program alone got 92–95%, and Claude reading the images with no
+OCR got 67%. Claude Opus 5.5 then translated the corrected text. The
 Japanese transcriptions are in `ocr/final/`, and the evaluation is in
 `ocr/EVALUATION.md`.
 

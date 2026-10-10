@@ -31,18 +31,18 @@ Library's public-domain copy.
 | OCR, characters | [NDL古典籍OCR-Lite](https://github.com/ndl-lab/ndlkotenocr-lite) (CPU) | 0.95 char F |
 | OCR, reading order | [NDL古典籍OCR ver.3](https://github.com/ndl-lab/ndlkotenocr_cli) (GPU, rented on RunPod, about $0.09 in total) | 0.92 char F |
 | Merge | `scripts/merge_ocr.py`: Lite's characters in ver.3's reading order, both readings kept where they differ | – |
-| Correction | Claude (Anthropic's model) checking every disagreement against enlarged crops of the scan, using a second library's copy for worn spots | **0.98 char F**, 0.96 bigram F |
-| Translation | Claude, following `translation/STYLE.md` and a shared glossary | not scored |
+| Correction | Claude Opus 5.5 (Anthropic) checking every disagreement against enlarged crops of the scan, using a second library's copy for worn spots | **0.98 char F**, 0.96 bigram F |
+| Translation | Claude Opus 5.5, following `translation/STYLE.md` and a shared glossary | not scored |
 
 Accuracy was measured on five test spreads against careful reference
-transcriptions (`ocr/EVALUATION.md`). For comparison, Claude reading the
-images with no OCR scored 0.67. The scores are order-insensitive character
+transcriptions (`ocr/EVALUATION.md`). For comparison, Claude Opus 5.5 reading
+the images with no OCR scored 0.67. The scores are order-insensitive character
 and bigram F-measures (`scripts/score_ocr.py`).
 
 Please keep in mind:
 
-- **The translation was made by an AI model and has not been reviewed by a
-  specialist** in Edo Japanese. It reads well and the glossary keeps names
+- **The translation was made by an AI model (Claude Opus 5.5) and has not
+  been reviewed by a specialist** in Edo Japanese. It reads well and the glossary keeps names
   consistent, but expect mistakes.
 - Uncertain readings are marked **[?]** (76 of them) and text unreadable in every
   copy is marked **[…]** (19). Robun's history is often wrong or invented; it is
@@ -136,8 +136,8 @@ repository root with `python3 -I`.
 4. **Merge.** `scripts/merge_ocr.py LITE.json V3.json OUT.tsv` pairs each ver.3
    line with the Lite line whose box overlaps it most, and keeps both readings
    where they differ.
-5. **Correct.** Give a vision-capable model (we used Claude, through Claude Code
-   subagents, one batch of about four spreads each) `ocr/CORRECTION_PASS.md`, a
+5. **Correct.** Give a vision-capable model (we used Claude Opus 5.5, through Claude
+   Code subagents, one batch of about four spreads each) `ocr/CORRECTION_PASS.md`, a
    scan and its merged draft. Rewrite the "Known traits of this book" section for
    your book. If a second library's copy exists, `scripts/match_copies.py` and
    `scripts/page_plan.py` show how this project matched the two copies' pages
