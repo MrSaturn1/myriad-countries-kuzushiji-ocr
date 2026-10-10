@@ -1,0 +1,387 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            3717,
+            313
+          ],
+          [
+            3717,
+            816
+          ],
+          [
+            3919,
+            313
+          ],
+          [
+            3919,
+            816
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "童絵",
+        "isTextline": "true",
+        "confidence": 0.814
+      },
+      {
+        "boundingBox": [
+          [
+            3444,
+            665
+          ],
+          [
+            3444,
+            900
+          ],
+          [
+            3629,
+            665
+          ],
+          [
+            3629,
+            900
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "解",
+        "isTextline": "true",
+        "confidence": 0.722
+      },
+      {
+        "boundingBox": [
+          [
+            3721,
+            2027
+          ],
+          [
+            3721,
+            2475
+          ],
+          [
+            3846,
+            2027
+          ],
+          [
+            3846,
+            2475
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "大物いたし本",
+        "isTextline": "true",
+        "confidence": 0.762
+      },
+      {
+        "boundingBox": [
+          [
+            2472,
+            506
+          ],
+          [
+            2472,
+            967
+          ],
+          [
+            2634,
+            506
+          ],
+          [
+            2634,
+            967
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "万国",
+        "isTextline": "true",
+        "confidence": 0.694
+      },
+      {
+        "boundingBox": [
+          [
+            2347,
+            1037
+          ],
+          [
+            2347,
+            1270
+          ],
+          [
+            2548,
+            1037
+          ],
+          [
+            2548,
+            1270
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "噺",
+        "isTextline": "true",
+        "confidence": 0.518
+      },
+      {
+        "boundingBox": [
+          [
+            2111,
+            373
+          ],
+          [
+            2111,
+            502
+          ],
+          [
+            2213,
+            373
+          ],
+          [
+            2213,
+            502
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "も",
+        "isTextline": "true",
+        "confidence": 0.319
+      },
+      {
+        "boundingBox": [
+          [
+            1932,
+            466
+          ],
+          [
+            1932,
+            690
+          ],
+          [
+            2083,
+            466
+          ],
+          [
+            2083,
+            690
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "竹男",
+        "isTextline": "true",
+        "confidence": 0.732
+      },
+      {
+        "boundingBox": [
+          [
+            1697,
+            690
+          ],
+          [
+            1697,
+            1058
+          ],
+          [
+            1885,
+            690
+          ],
+          [
+            1885,
+            1058
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "四編",
+        "isTextline": "true",
+        "confidence": 0.748
+      },
+      {
+        "boundingBox": [
+          [
+            1224,
+            303
+          ],
+          [
+            1224,
+            745
+          ],
+          [
+            1388,
+            303
+          ],
+          [
+            1388,
+            745
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "仮名垣一",
+        "isTextline": "true",
+        "confidence": 0.806
+      },
+      {
+        "boundingBox": [
+          [
+            1034,
+            519
+          ],
+          [
+            1034,
+            1089
+          ],
+          [
+            1191,
+            519
+          ],
+          [
+            1191,
+            1089
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "魯文訳",
+        "isTextline": "true",
+        "confidence": 0.765
+      },
+      {
+        "boundingBox": [
+          [
+            812,
+            306
+          ],
+          [
+            812,
+            766
+          ],
+          [
+            963,
+            306
+          ],
+          [
+            963,
+            766
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "一猛斎",
+        "isTextline": "true",
+        "confidence": 0.82
+      },
+      {
+        "boundingBox": [
+          [
+            637,
+            521
+          ],
+          [
+            637,
+            1022
+          ],
+          [
+            785,
+            521
+          ],
+          [
+            785,
+            1022
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "芳虎画",
+        "isTextline": "true",
+        "confidence": 0.802
+      },
+      {
+        "boundingBox": [
+          [
+            711,
+            1890
+          ],
+          [
+            711,
+            2307
+          ],
+          [
+            827,
+            1890
+          ],
+          [
+            827,
+            2307
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "大惣かし本",
+        "isTextline": "true",
+        "confidence": 0.74
+      },
+      {
+        "boundingBox": [
+          [
+            582,
+            1874
+          ],
+          [
+            582,
+            2370
+          ],
+          [
+            713,
+            1874
+          ],
+          [
+            713,
+            2370
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "錦橋堂",
+        "isTextline": "true",
+        "confidence": 0.763
+      },
+      {
+        "boundingBox": [
+          [
+            422,
+            2217
+          ],
+          [
+            422,
+            2586
+          ],
+          [
+            569,
+            2217
+          ],
+          [
+            569,
+            2586
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "寿梓",
+        "isTextline": "true",
+        "confidence": 0.779
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 4540,
+    "img_height": 4077,
+    "img_path": "童絵解万国噺 (1861) - NDL 207-1695/vol4/p0003.jpg",
+    "img_name": "p0003.jpg"
+  }
+}

@@ -1,0 +1,11 @@
+## R
+[margin] 万国二
+[margin] 二
+[caption] ○合衆国《がつしゆうこく》
+[caption] 民家《みんか》
+[caption] 耕作《かうさく》の図《づ》
+[caption] ○百姓《ひやくしやう》
+## order
+R caption (3 columns, centre-left) → R bottom-right figure label
+## notes
+Full-page picture: a farmer of the United States sitting by his horse — "farming in a United States commoner's household"; only the caption and the label ○百姓 "farmer" are text. Furigana of 民家/耕作 are small and slightly uncertain.

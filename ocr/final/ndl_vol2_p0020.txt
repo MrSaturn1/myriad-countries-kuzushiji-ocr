@@ -1,0 +1,83 @@
+## R
+[margin] 万国二
+[margin] 十七
+[main] （つゞき）もつて一トきりとす四年すぐれば
+べつにけんじんをえらびそのしよくを
+ゆづれりもしかはりをつとむべきもの
+なければみな〳〵のすゝめによりて
+これまでのとう
+りやうさいにんすもし四
+年たゝずして
+びやうしするか
+又はじぶんより
+しよくをじたい
+すれば
+そへたる
+とうりやう
+をもつてこれを
+つとめ
+しむ
+る
+の
+ち
+〳〵
+の
+とうりやうもみな
+かくのごとしたゞの
+やくにんは廿五才
+いじやうの人を
+〔えらび?〕■■
+## L
+[margin] 万国二
+[margin] 十八
+[margin] ㊃ (circled 四 above the frame)
+[caption] 〇合衆国内《がつしゆうこくない》田家《でんか》の図
+[caption] 「ぼうやおとつさんが
+おみやをかつて
+おいでじやから
+まち〳〵しておいでヨ
+[main] くにのおきては
+■■■■■
+〔さだめて?〕
+まつりごときは
+めてよろしその
+くにのかぜ〔う?〕
+ほうにかな
+ひてたみむつ
+ましくゆたか
+なりと〔の?〕
+■■まづしき
+ものをす
+くふには■■
+■ま■き
+■■■■
+ざれば■■
+ま〔づ?〕しき
+みの■
+き■■■
+■■■■
+■■■
+■■の金
+■■
+あたへ▲
+[main] ▲ますますまづしくならざるやうに
+ふせぐとぞくわじをふせぐには
+おほ
+く
+かはら
+い〔し?〕を
+もつていへを
+つくり〔と?〕うづくるま
+みづでつぽうな
+どのうつわをまう
+けひじやうにそなふ
+かみなりのおつるを
+ふせぐにはてつ
+のさほをかど
+にたてゝこれを
+ふせぐひんきう
+なるものは（つぎ）
+## order
+R bottom つゞき → R bottom-left (short columns squeezed under the figures' feet) → L bottom strip, ending あたへ▲ → ▲ L top block → つぎ box; caption and child's dialogue (L middle) are separate.
+## notes
+Continuation on the US presidency: four-year terms, after which another able man is chosen, or the sitting president is re-elected by general recommendation if there is no successor; if he dies or resigns within four years the vice-president serves, and all later presidents likewise; other officials must be 25 or older. The L page says the country's laws and government are excellent, people live harmoniously and prosperously, the poor are given money so they do not sink further, houses are built of tile and stone against fire with fire-pumps and water-guns ready, iron lightning rods are set on roof corners; picture of a farmhouse in the United States with a mother telling her child its father will bring a present. The L bottom strip is badly worn in the NDL copy and only partly legible in the Waseda copy (same spread), hence the many ■; the short R columns read のち〳〵の are tentative, as is the last R column (〔えらび?〕).

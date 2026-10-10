@@ -1,0 +1,85 @@
+## R
+[margin] 万国初
+[main] 〔つゞき〕そうりやうの
+太子《たいし》うまれつき
+こゝろざしかたくな
+にてそのひとゝ
+なりとくかを
+おさむるのうつ
+わにあらず
+またみかどの
+しらざるに
+じやうして
+そのくにを
+かけおちし
+ければだい
+いちの
+くわん
+にんとの
+ことを
+うつたふ
+はゝみかど
+おほいに
+いかり
+その
+ゆくゑ
+をたづね
+さがし
+[caption] ○魯西亜《おろしや》の妃《きさき》帝位《ていゐ》に即く
+[main] △ざるは
+なく
+たうじ
+わが
+くにゝ
+ひとしき
+ていこく
+となり
+けるは
+めでた
+かり
+## L
+[margin] 万国初
+[margin] ■
+[main] 〔いで?〕
+〔て?〕
+きび
+しく
+がう
+もんし
+みかど
+みづから
+これを
+ちう
+すとぞ
+[main] ○かくておろしやの
+きさきくらゐをつぎて
+よります〳〵くにを
+したがへゐせんゑう
+らつぱしうに
+ふるひくにとみ
+たみうるほひ
+かうえきのみち
+さかんにしてつひに
+ゑうらつぱぜんしうの
+めいしゆとなりその
+つぎの太子《たいし》に
+くらゐをゆづり
+給ふべいとる三世せん
+ていもちゆうめいとく▲
+[main] ▲けんびのみかどにして
+ちゝはゝみかどのぎやうを
+つぎくにたみをかたくまもり
+なほしよこくをへいぢ
+なしければゑう
+らつぱのもろ〳〵の
+王もおろしやこくに
+なびきしたがは△
+[main] けること
+どもなり
+めで
+たし
+〳〵
+## order
+R top 〔つゞき〕 → L top-right short columns (above the clouds) → L top ○かくて… ▲ → L middle ▲ … △ → R bottom △ → L bottom (めでたし〳〵, end of the Russia story)
+## notes
+End of the Russia episode: the crown prince (Alexei), stubborn and unfit to rule, fled the country; his father the emperor, enraged, had him hunted down, tortured and executed; Empress Katarina succeeded, extended Russian power over Europe, enriched the people and trade, and passed the throne to the next prince べいとる (printed 三世), under whom the kings of Europe submitted and Russia became an empire equal to "ours" — めでたし〳〵. Caption: "The Russian empress ascends the throne." Unsure: the first two short columns at the L top gutter (faint, 〔いで?〕〔て?〕); 太子《たいし》 furigana read from small marks; ゐせん, なりとくかを as in Lite; ていこく printed with a と-like こ; page numbers cut off.

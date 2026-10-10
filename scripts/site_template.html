@@ -1,0 +1,311 @@
+<title>Picture Tales of the Myriad Countries</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:wght@500;600&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&family=Shippori+Mincho:wght@500;700&display=swap">
+<style>
+/* Layout: a fixed index of the book's openings at left; each opening is a two-column spread,
+   the scan held in view on the left while its English runs on the right, like reading with the book propped open beside you. */
+:root {
+  --paper: #eceeee;     /* cool washi grey */
+  --leaf: #f6f7f6;      /* raised surfaces */
+  --ink: #19202a;
+  --muted: #5a6470;
+  --rule: #ccd2d7;
+  --bero: #24508e;      /* Prussian blue, the imported pigment of 1850s–60s prints */
+  --kihada: #8f6210;    /* uncertainty marks */
+  --shade: rgba(16, 22, 32, .88);
+  --f-display: "Shippori Mincho", "Hiragino Mincho ProN", "Yu Mincho", Georgia, serif;
+  --f-body: "Literata", "Iowan Old Style", Georgia, serif;
+  --f-label: "IBM Plex Sans Condensed", "Arial Narrow", system-ui, sans-serif;
+  --nav-w: 17.5rem;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #11151b; --leaf: #181d25; --ink: #dde3ea; --muted: #97a1ad; --rule: #2b333e;
+    --bero: #8fb2e9; --kihada: #dcab4d; --shade: rgba(5, 7, 10, .92); color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #11151b; --leaf: #181d25; --ink: #dde3ea; --muted: #97a1ad; --rule: #2b333e;
+  --bero: #8fb2e9; --kihada: #dcab4d; --shade: rgba(5, 7, 10, .92); color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 1rem; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+body {
+  background: var(--paper); color: var(--ink);
+  font: 400 1.0625rem/1.65 var(--f-body);
+  -webkit-font-smoothing: antialiased;
+}
+a { color: var(--bero); text-underline-offset: .18em; text-decoration-thickness: 1px; }
+:focus-visible { outline: 2px solid var(--bero); outline-offset: 3px; border-radius: 2px; }
+
+/* ---------- shell ---------- */
+.shell { display: grid; grid-template-columns: var(--nav-w) minmax(0, 1fr); }
+nav.index {
+  position: sticky; top: 0; height: 100vh; overflow-y: auto;
+  border-right: 1px solid var(--rule); padding: 1.5rem 1rem 3rem 1.25rem;
+  font: 400 .875rem/1.4 var(--f-label);
+}
+.index .brand { display: block; font: 700 1.05rem/1.25 var(--f-display); color: var(--ink); text-decoration: none; margin-bottom: 1.25rem; }
+.index .brand span { display: block; font: 500 .8rem var(--f-label); color: var(--muted); letter-spacing: .04em; margin-top: .2rem; }
+.index ol, .index ul { list-style: none; margin: 0; padding: 0; }
+.navpart { border-top: 1px solid var(--rule); padding-block: .55rem; }
+.navpart summary { cursor: pointer; list-style: none; display: grid; gap: .1rem; }
+.navpart summary::-webkit-details-marker { display: none; }
+.navpart summary a, .navpart.solo a { font-weight: 600; color: var(--ink); text-decoration: none; text-transform: uppercase; letter-spacing: .07em; font-size: .78rem; }
+.navpart summary span { color: var(--muted); font-size: .8rem; }
+.navpart ol { margin-top: .45rem; display: grid; gap: .05rem; }
+.navpart ol a { display: block; padding: .22rem .5rem; margin-left: -.5rem; color: var(--muted); text-decoration: none; border-radius: 3px; }
+.navpart ol a:hover { color: var(--ink); background: var(--leaf); }
+.navpart ol a[aria-current="true"] { color: var(--bero); background: var(--leaf); font-weight: 600; }
+.navpart sup.q { color: var(--kihada); }
+
+.topbar { display: none; }
+main { min-width: 0; padding-inline: clamp(1rem, 4vw, 3.5rem); }
+
+/* ---------- title page ---------- */
+.title {
+  display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 2rem 3rem;
+  padding-block: clamp(2.5rem, 7vw, 5rem) 2.5rem; border-bottom: 1px solid var(--rule); max-width: 68rem;
+}
+.title .jt {
+  grid-column: 2; grid-row: 1 / span 3; writing-mode: vertical-rl;
+  font: 700 clamp(2.6rem, 6vw, 4.6rem)/1 var(--f-display); color: var(--bero); letter-spacing: .12em;
+  margin: 0; align-self: start;
+}
+.title .jt small { font-size: .38em; letter-spacing: .25em; color: var(--muted); margin-block-start: .6em; display: inline-block; }
+.title h1 {
+  font: 700 clamp(2.3rem, 5.4vw, 4.2rem)/1.05 var(--f-display); margin: 0; letter-spacing: -.01em;
+  text-wrap: balance; max-width: 13ch;
+}
+.title .credits { font: 500 .95rem/1.55 var(--f-label); color: var(--muted); letter-spacing: .02em; margin: 0; }
+.title .credits b { color: var(--ink); font-weight: 600; }
+.resume { font: 500 .9rem var(--f-label); margin: 0; }
+.resume[hidden] { display: none !important; }
+
+.front { display: grid; grid-template-columns: minmax(0, 38rem) minmax(0, 22rem); gap: 2rem 4rem; padding-block: 2.5rem 4rem; max-width: 68rem; }
+.front .intro h2 { font: 700 1.35rem/1.3 var(--f-display); margin: 2rem 0 .5rem; }
+.front .intro h2:first-child { margin-top: 0; }
+.front .intro code { font: .85em var(--f-label); }
+.toc h2 { font: 600 .75rem var(--f-label); text-transform: uppercase; letter-spacing: .12em; color: var(--muted); margin: 0 0 .75rem; }
+.toc ol { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--rule); }
+.toc li { border-bottom: 1px solid var(--rule); }
+.toc a { display: grid; gap: .1rem; padding: .7rem 0; text-decoration: none; color: var(--ink); font: 500 1.05rem/1.3 var(--f-display); }
+.toc a:hover { color: var(--bero); }
+.tockick { font: 600 .72rem var(--f-label); text-transform: uppercase; letter-spacing: .1em; color: var(--bero); }
+.toc .legend { margin-top: 1.5rem; font: 400 .85rem/1.5 var(--f-label); color: var(--muted); display: grid; gap: .35rem; }
+
+/* ---------- parts ---------- */
+.parthead { padding-block: 4.5rem 2rem; border-top: 3px double var(--rule); max-width: 68rem; }
+.parthead .kicker { font: 600 .8rem var(--f-label); text-transform: uppercase; letter-spacing: .14em; color: var(--bero); margin: 0 0 .5rem; }
+.parthead .kicker span { font: 700 1rem var(--f-display); letter-spacing: .3em; margin-left: .4rem; }
+.parthead h2 { font: 700 clamp(1.8rem, 3.6vw, 2.7rem)/1.12 var(--f-display); margin: 0 0 1rem; text-wrap: balance; max-width: 24ch; }
+.partnote { color: var(--muted); font-size: .95rem; max-width: 40rem; }
+.partnote p { margin: .4rem 0; }
+
+.spread {
+  display: grid; grid-template-columns: minmax(0, 1.08fr) minmax(0, 1fr); gap: 2.75rem;
+  padding-block: 2.75rem; border-top: 1px solid var(--rule); max-width: 92rem;
+}
+.scan { margin: 0; position: sticky; top: 1.25rem; align-self: start; }
+.zoom { display: block; padding: 0; border: 0; background: none; cursor: zoom-in; width: 100%; }
+.zoom img { display: block; width: 100%; height: auto; border-radius: 2px; box-shadow: 0 1px 0 var(--rule), 0 10px 30px -18px rgba(0,0,0,.45); background: var(--leaf); }
+.awaybox { display: grid; gap: .6rem; align-content: center; aspect-ratio: 3 / 2; max-width: 100%; padding: 1.5rem;
+  background: var(--leaf); border: 1px dashed var(--rule); border-radius: 2px; color: var(--muted); text-decoration: none; font: 400 .92rem/1.5 var(--f-label); }
+.awaybox:hover { border-color: var(--bero); }
+.awaykick { font: 600 .72rem var(--f-label); text-transform: uppercase; letter-spacing: .12em; color: var(--bero); }
+.awaygo { font-weight: 600; color: var(--bero); }
+.scan figcaption { font: 500 .78rem var(--f-label); color: var(--muted); letter-spacing: .03em; margin-top: .55rem; }
+
+.text { min-width: 0; max-width: 38rem; }
+.text h3 { font: 600 1.25rem/1.3 var(--f-body); margin: 0 0 1rem; text-wrap: balance; }
+.text h3 .where { display: block; font: 600 .72rem var(--f-label); text-transform: uppercase; letter-spacing: .12em; color: var(--bero); margin-bottom: .2rem; }
+.text p { margin: 0 0 1em; }
+.text ul { padding-left: 1.2rem; margin: 0 0 1em; }
+.text li { margin-bottom: .35em; }
+.text blockquote { margin: 0 0 1em; padding-left: 1.25rem; font-style: italic; }
+.text blockquote p { margin: 0; }
+p.tn, span.tn { font-size: .88rem; line-height: 1.55; color: var(--muted); }
+.tn b { font: 600 .7rem var(--f-label); text-transform: uppercase; letter-spacing: .1em; color: var(--bero); margin-right: .25rem; }
+p.tn { padding-top: .1rem; }
+sup.q { font: 600 .7em var(--f-label); color: var(--kihada); cursor: help; margin-left: .05em; }
+.gap { color: var(--kihada); font-family: var(--f-label); font-size: .9em; cursor: help; }
+
+/* Japanese transcription: one column per printed column, right page first */
+details.ja { margin-top: 1.75rem; border-top: 1px solid var(--rule); padding-top: .9rem; }
+details.ja summary { cursor: pointer; font: 600 .78rem var(--f-label); text-transform: uppercase; letter-spacing: .1em; color: var(--muted); width: max-content; }
+details.ja summary:hover { color: var(--bero); }
+details.ja[open] summary { color: var(--bero); margin-bottom: .9rem; }
+.jscroll {
+  writing-mode: vertical-rl; height: 25em; overflow-x: auto; overflow-y: hidden;
+  font: 500 1rem/1.75 var(--f-display); background: var(--leaf); border-radius: 3px;
+  padding: 1rem; scrollbar-width: thin;
+}
+.jpage { padding-block-end: 1.25rem; }
+.jpage + .jpage { padding-block-start: 1.25rem; border-block-start: 1px dashed var(--rule); }
+.jpage p { margin: 0; margin-block-end: .9em; }
+.jpage p.cap { color: var(--bero); font-size: .85em; }
+.unc { color: var(--kihada); text-emphasis: dot var(--kihada); -webkit-text-emphasis: dot var(--kihada); cursor: help; }
+.gapj { color: var(--muted); }
+
+/* ---------- glossary ---------- */
+.glossary { padding-block: 4.5rem 5rem; border-top: 3px double var(--rule); max-width: 68rem; }
+.glossary > h2 { font: 700 clamp(1.8rem, 3.6vw, 2.7rem)/1.12 var(--f-display); margin: 0 0 .5rem; }
+.glossary h2 + p { color: var(--muted); max-width: 40rem; }
+.glossary .body h2 { font: 600 .8rem var(--f-label); text-transform: uppercase; letter-spacing: .12em; color: var(--bero); margin: 2.5rem 0 .75rem; }
+.glossary .body h3 { font: 700 1.1rem var(--f-display); margin: 2rem 0 .5rem; }
+.tablewrap { overflow-x: auto; }
+.glossary table { border-collapse: collapse; width: 100%; font-size: .92rem; line-height: 1.45; }
+.glossary th { text-align: left; font: 600 .72rem var(--f-label); text-transform: uppercase; letter-spacing: .08em; color: var(--muted); padding: .5rem .75rem .5rem 0; border-bottom: 1px solid var(--ink); }
+.glossary td { padding: .5rem .75rem .5rem 0; border-bottom: 1px solid var(--rule); vertical-align: top; }
+.glossary td:first-child { font-weight: 600; min-width: 9rem; }
+.glossary td:nth-child(2) { font-family: var(--f-display); min-width: 10rem; }
+footer { padding-block: 2rem 4rem; border-top: 1px solid var(--rule); font: 400 .85rem/1.55 var(--f-label); color: var(--muted); max-width: 68rem; }
+
+/* ---------- lightbox ---------- */
+dialog.lb { border: 0; padding: 0; margin: 0; width: 100vw; height: 100vh; max-width: none; max-height: none; background: var(--shade); }
+dialog.lb::backdrop { background: var(--shade); }
+.lb .stage { width: 100%; height: 100%; overflow: auto; display: grid; place-items: center; cursor: zoom-in; }
+.lb img { max-width: 96vw; max-height: 92vh; width: auto; height: auto; }
+.lb.full .stage { cursor: zoom-out; place-items: start; }
+.lb.full img { max-width: none; max-height: none; }
+.lb .close {
+  position: fixed; top: calc(env(safe-area-inset-top, 0px) + .75rem); right: .75rem; z-index: 2;
+  font: 600 .8rem var(--f-label); letter-spacing: .08em; text-transform: uppercase;
+  background: var(--leaf); color: var(--ink); border: 1px solid var(--rule); border-radius: 3px; padding: .45rem .8rem; cursor: pointer;
+}
+.lb .hint { position: fixed; bottom: calc(env(safe-area-inset-bottom, 0px) + .75rem); left: 50%; transform: translateX(-50%); font: 500 .78rem var(--f-label); color: #c9d0d8; }
+
+/* ---------- narrow screens ---------- */
+@media (max-width: 1100px) {
+  .shell { grid-template-columns: minmax(0, 1fr); }
+  .topbar {
+    display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+    position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5;
+    background: var(--paper); border-bottom: 1px solid var(--rule); padding: .6rem 1rem;
+    font: 700 .95rem var(--f-display);
+  }
+  .topbar button { font: 600 .78rem var(--f-label); text-transform: uppercase; letter-spacing: .08em; background: var(--leaf); color: var(--ink); border: 1px solid var(--rule); border-radius: 3px; padding: .4rem .75rem; cursor: pointer; }
+  html { scroll-padding-top: 3.5rem; }
+  nav.index { position: fixed; z-index: 6; inset: 0 auto 0 0; width: min(20rem, 86vw); height: auto; background: var(--paper);
+    padding-top: calc(env(safe-area-inset-top, 0px) + 1.25rem); transform: translateX(-102%); transition: transform .2s ease; box-shadow: 0 0 40px rgba(0,0,0,.25); }
+  nav.index.open { transform: none; }
+  .scan { top: 4rem; }
+}
+@media (max-width: 820px) {
+  .title { grid-template-columns: minmax(0, 1fr); }
+  .title .jt { grid-column: 1; grid-row: auto; writing-mode: horizontal-tb; font-size: 2.2rem; letter-spacing: .08em; }
+  .title .jt small { margin: 0 0 0 .6em; }
+  .front { grid-template-columns: minmax(0, 1fr); }
+  .spread { grid-template-columns: minmax(0, 1fr); gap: 1.5rem; padding-block: 2rem; }
+  .scan { position: static; }
+  .parthead { padding-block: 3rem 1.5rem; }
+}
+@media (prefers-reduced-motion: reduce) { nav.index { transition: none; } }
+</style>
+
+<div class="topbar"><span>Picture Tales of the Myriad Countries</span><button type="button" id="navbtn" aria-expanded="false" aria-controls="index">Contents</button></div>
+<div class="shell">
+  <nav class="index" id="index" aria-label="Contents">
+    <a class="brand" href="#top">Picture Tales of the Myriad Countries<span lang="ja">童絵解万国噺 · 1861</span></a>
+    <ul>{{NAV}}</ul>
+  </nav>
+  <main id="top">
+    <section class="title">
+      <h1>Picture Tales of the Myriad Countries</h1>
+      <p class="jt" lang="ja">童絵解万国噺<small>初編〜四編</small></p>
+      <p class="credits">Written by <b>Kanagaki Robun</b> · pictures by <b>Ichimōsai Yoshitora</b><br>Edo, 1861 · Parts One to Four · English translation, 2026</p>
+      <p class="resume" id="resume" hidden>Continue reading at <a href="#" id="resumelink"></a></p>
+    </section>
+    <section class="front">
+      <div class="intro">{{INTRO}}</div>
+      <aside class="toc">
+        <h2>Contents</h2>
+        <ol>{{TOC}}</ol>
+        <div class="legend">
+          <span><sup class="q">?</sup> uncertain reading</span>
+          <span><span class="gap">[…]</span> unreadable in every copy</span>
+          <span>Select a scan to enlarge it.</span>
+          <span>Code and data: <a href="{{REPO}}">GitHub</a></span>
+        </div>
+      </aside>
+    </section>
+    {{BODY}}
+    <section class="glossary" id="glossary">
+      <h2>Glossary</h2>
+      <p>The English forms used in the translation, with the forms Robun printed.</p>
+      <div class="body">{{GLOSSARY}}</div>
+    </section>
+    <footer>Scans: <a href="https://dl.ndl.go.jp/pid/2559375">National Diet Library</a> (国立国会図書館デジタルコレクション, 207-1695, public domain). Pages found only in the Waseda copy link to the <a href="https://www.wul.waseda.ac.jp/kotenseki/html/bunko11/bunko11_a0380/index.html">Waseda University Library Kotenseki Sōgō Database</a> (早稲田大学図書館古典籍総合データベース, 文庫11 a0380). The Osaka Prefectural Nakanoshima Library copy (乙-342) was consulted for worn passages in Part Two. Japanese transcriptions made with NDL古典籍OCR-Lite and NDL古典籍OCR ver.3, corrected by eye against the scans.</footer>
+  </main>
+</div>
+
+<dialog class="lb" id="lb" aria-label="Enlarged scan">
+  <button class="close" type="button" id="lbclose">Close</button>
+  <div class="stage" id="lbstage"><img id="lbimg" alt=""></div>
+  <p class="hint">Select the image to view at full size</p>
+</dialog>
+
+<script>
+(() => {
+  const store = {
+    get(k) { try { return localStorage.getItem(k); } catch { return null; } },
+    set(k, v) { try { localStorage.setItem(k, v); } catch {} },
+  };
+
+  // Lightbox
+  const lb = document.getElementById('lb'), lbimg = document.getElementById('lbimg');
+  document.querySelectorAll('.zoom').forEach(b => b.addEventListener('click', () => {
+    lbimg.src = b.dataset.src; lbimg.alt = b.querySelector('img').alt;
+    lb.classList.remove('full');
+    if (lb.showModal) lb.showModal(); else lb.setAttribute('open', '');
+  }));
+  const closeLb = () => { lb.close ? lb.close() : lb.removeAttribute('open'); };
+  document.getElementById('lbclose').addEventListener('click', closeLb);
+  document.getElementById('lbstage').addEventListener('click', e => {
+    if (e.target === lbimg) lb.classList.toggle('full'); else closeLb();
+  });
+
+  // Contents drawer on narrow screens
+  const nav = document.getElementById('index'), navbtn = document.getElementById('navbtn');
+  navbtn.addEventListener('click', () => {
+    const open = nav.classList.toggle('open');
+    navbtn.setAttribute('aria-expanded', open);
+  });
+  nav.addEventListener('click', e => {
+    if (e.target.closest('a')) { nav.classList.remove('open'); navbtn.setAttribute('aria-expanded', 'false'); }
+  });
+
+  // Highlight the current opening in the index and remember it
+  const links = new Map();
+  nav.querySelectorAll('ol a').forEach(a => links.set(a.getAttribute('href').slice(1), a));
+  let current = null;
+  const io = new IntersectionObserver(entries => {
+    entries.forEach(en => {
+      if (!en.isIntersecting) return;
+      const id = en.target.id, a = links.get(id);
+      if (!a || id === current) return;
+      if (current && links.get(current)) links.get(current).removeAttribute('aria-current');
+      current = id;
+      a.setAttribute('aria-current', 'true');
+      const d = a.closest('details');
+      if (d && !d.open) d.open = true;
+      if (!nav.classList.contains('open')) a.scrollIntoView({ block: 'nearest' });
+      store.set('lastSpread', id);
+    });
+  }, { rootMargin: '-35% 0px -60% 0px' });
+  document.querySelectorAll('.spread').forEach(s => io.observe(s));
+
+  // Offer to resume where the reader left off
+  const last = store.get('lastSpread');
+  if (last && links.has(last) && !location.hash) {
+    const r = document.getElementById('resume'), rl = document.getElementById('resumelink');
+    const part = links.get(last).closest('details').querySelector('summary a').textContent;
+    rl.href = '#' + last;
+    rl.innerHTML = part + ', ' + links.get(last).innerHTML;
+    r.hidden = false;
+  }
+})();
+</script>

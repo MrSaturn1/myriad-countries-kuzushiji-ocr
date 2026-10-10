@@ -1,0 +1,31 @@
+## R
+[margin] 万〔国?〕〔六?〕
+[main] 〔つゞき〕くらゐにつきたるのちぞくこくの
+王の〔むすこ?〕をふたりむかへておつ
+とゝなす女王ちやうにのぞみ
+てまつりごとをきく▲
+[main] ▲ときはふたりのむこぎみも
+又そのみぎひだりに
+ありしよ△
+[caption] 英吉利《いぎりす》の女王《によわう》諸侯《しよかう》の礼《れい》を
+## L
+[margin] 万〔国?〕（以下切れ）
+[caption] 請《う》〔く?〕る図
+[main] △だい
+めうの
+めん〳〵
+とじやう
+する
+ときは
+女王の
+まへに
+ちか
+づき
+ひざ
+まづき
+て
+〔次へ〕
+## order
+R top つゞき ▲ → R middle (beside the standing figure) ▲ … △ → L bottom △ 次へ; caption runs R bottom → L bottom right (英吉利の女王諸侯の礼を請くる図)
+## notes
+After taking the throne, the queen of England marries two princes of a vassal-state king and governs with her two consorts standing at her right and left; when the daimyo (lords) come to court they approach and kneel before the queen. Caption: "The Queen of England receiving the homage of her lords." Unsure: 〔むすこ〕 (cursive ligature), the furigana/okurigana of 請, and the margin 柱/leaf numbers (cut at the binding).

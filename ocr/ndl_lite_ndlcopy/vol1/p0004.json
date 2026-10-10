@@ -1,0 +1,537 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            3859,
+            721
+          ],
+          [
+            3859,
+            932
+          ],
+          [
+            3938,
+            721
+          ],
+          [
+            3938,
+            932
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "おきな",
+        "isTextline": "true",
+        "confidence": 0.46
+      },
+      {
+        "boundingBox": [
+          [
+            3704,
+            705
+          ],
+          [
+            3704,
+            928
+          ],
+          [
+            3843,
+            705
+          ],
+          [
+            3843,
+            928
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "童",
+        "isTextline": "true",
+        "confidence": 0.365
+      },
+      {
+        "boundingBox": [
+          [
+            3488,
+            705
+          ],
+          [
+            3488,
+            932
+          ],
+          [
+            3585,
+            705
+          ],
+          [
+            3585,
+            932
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "赤",
+        "isTextline": "true",
+        "confidence": 0.307
+      },
+      {
+        "boundingBox": [
+          [
+            3753,
+            1316
+          ],
+          [
+            3753,
+            1856
+          ],
+          [
+            3865,
+            1316
+          ],
+          [
+            3865,
+            1856
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "□□□□□□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.606
+      },
+      {
+        "boundingBox": [
+          [
+            3477,
+            1041
+          ],
+          [
+            3477,
+            1264
+          ],
+          [
+            3668,
+            1041
+          ],
+          [
+            3668,
+            1264
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "初",
+        "isTextline": "true",
+        "confidence": 0.306
+      },
+      {
+        "boundingBox": [
+          [
+            3478,
+            1230
+          ],
+          [
+            3478,
+            1372
+          ],
+          [
+            3622,
+            1230
+          ],
+          [
+            3622,
+            1372
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "編",
+        "isTextline": "true",
+        "confidence": 0.389
+      },
+      {
+        "boundingBox": [
+          [
+            3908,
+            2235
+          ],
+          [
+            3908,
+            3041
+          ],
+          [
+            4054,
+            2235
+          ],
+          [
+            4054,
+            3041
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "仮名垣魯文訳一",
+        "isTextline": "true",
+        "confidence": 0.825
+      },
+      {
+        "boundingBox": [
+          [
+            3720,
+            2241
+          ],
+          [
+            3720,
+            3023
+          ],
+          [
+            3866,
+            2241
+          ],
+          [
+            3866,
+            3023
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "孟斎芳虎画",
+        "isTextline": "true",
+        "confidence": 0.815
+      },
+      {
+        "boundingBox": [
+          [
+            2846,
+            1083
+          ],
+          [
+            2846,
+            1471
+          ],
+          [
+            3016,
+            1083
+          ],
+          [
+            3016,
+            1471
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "下之巻",
+        "isTextline": "true",
+        "confidence": 0.596
+      },
+      {
+        "boundingBox": [
+          [
+            2757,
+            2399
+          ],
+          [
+            2757,
+            2834
+          ],
+          [
+            2907,
+            2399
+          ],
+          [
+            2907,
+            2834
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "山田屋",
+        "isTextline": "true",
+        "confidence": 0.673
+      },
+      {
+        "boundingBox": [
+          [
+            2576,
+            2595
+          ],
+          [
+            2576,
+            3002
+          ],
+          [
+            2730,
+            2595
+          ],
+          [
+            2730,
+            3002
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "蔵板",
+        "isTextline": "true",
+        "confidence": 0.606
+      },
+      {
+        "boundingBox": [
+          [
+            1889,
+            841
+          ],
+          [
+            1889,
+            3168
+          ],
+          [
+            2019,
+            841
+          ],
+          [
+            2019,
+            3168
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "梅松愛させ給ふ菅神の詠歌に。海と山千里を隔すむ人も。",
+        "isTextline": "true",
+        "confidence": 0.848
+      },
+      {
+        "boundingBox": [
+          [
+            1737,
+            840
+          ],
+          [
+            1737,
+            3166
+          ],
+          [
+            1868,
+            840
+          ],
+          [
+            1868,
+            3166
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "物言かはす文字の機とつらね給ひしも宜なる哉文化盛興",
+        "isTextline": "true",
+        "confidence": 0.861
+      },
+      {
+        "boundingBox": [
+          [
+            1570,
+            824
+          ],
+          [
+            1570,
+            3192
+          ],
+          [
+            1701,
+            824
+          ],
+          [
+            1701,
+            3192
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "の徳たる。居ながらにして。海外萬里の情態を精通し臥寐て",
+        "isTextline": "true",
+        "confidence": 0.849
+      },
+      {
+        "boundingBox": [
+          [
+            1398,
+            822
+          ],
+          [
+            1398,
+            3189
+          ],
+          [
+            1529,
+            822
+          ],
+          [
+            1529,
+            3189
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "諸蛮の治乱を覈明す。泰平の恩沢。仰尊むべきことになん",
+        "isTextline": "true",
+        "confidence": 0.846
+      },
+      {
+        "boundingBox": [
+          [
+            1237,
+            836
+          ],
+          [
+            1237,
+            3162
+          ],
+          [
+            1371,
+            836
+          ],
+          [
+            1371,
+            3162
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "然と雖。漢蘭の異文外藩の宇音我童蒙婦女の為に",
+        "isTextline": "true",
+        "confidence": 0.876
+      },
+      {
+        "boundingBox": [
+          [
+            1064,
+            827
+          ],
+          [
+            1064,
+            3173
+          ],
+          [
+            1205,
+            827
+          ],
+          [
+            1205,
+            3173
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "一読安からず。茲に於て。皇国仮宇に解和げ。万里外の情",
+        "isTextline": "true",
+        "confidence": 0.856
+      },
+      {
+        "boundingBox": [
+          [
+            911,
+            837
+          ],
+          [
+            911,
+            3166
+          ],
+          [
+            1037,
+            837
+          ],
+          [
+            1037,
+            3166
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "一景を諸書の中より抜翠して万国話と号るものは。春日",
+        "isTextline": "true",
+        "confidence": 0.824
+      },
+      {
+        "boundingBox": [
+          [
+            734,
+            837
+          ],
+          [
+            734,
+            2653
+          ],
+          [
+            879,
+            837
+          ],
+          [
+            879,
+            2653
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "一秋夜の長きに倦の。御伽草紙といはまく而已",
+        "isTextline": "true",
+        "confidence": 0.795
+      },
+      {
+        "boundingBox": [
+          [
+            560,
+            913
+          ],
+          [
+            560,
+            1566
+          ],
+          [
+            680,
+            913
+          ],
+          [
+            680,
+            1566
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "万廷二辛酉春",
+        "isTextline": "true",
+        "confidence": 0.7
+      },
+      {
+        "boundingBox": [
+          [
+            539,
+            1991
+          ],
+          [
+            539,
+            2892
+          ],
+          [
+            717,
+            1991
+          ],
+          [
+            717,
+            2892
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "仮名垣魯文記",
+        "isTextline": "true",
+        "confidence": 0.783
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 4596,
+    "img_height": 4401,
+    "img_path": "童絵解万国噺 (1861) - NDL 207-1695/vol1/p0004.jpg",
+    "img_name": "p0004.jpg"
+  }
+}

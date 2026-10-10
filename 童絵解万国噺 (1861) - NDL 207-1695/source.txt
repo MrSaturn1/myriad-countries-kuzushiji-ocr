@@ -1,0 +1,26 @@
+Title:        童絵解万国噺 16巻 (Osana etoki bankoku banashi), 4編16巻 bound in 4 冊 (one 冊 per 編)
+Author:       仮名垣魯文 作 / Illustrator: 歌川芳虎 (一孟斎芳虎) 画
+Publisher:    辻岡屋文助 (錦橋堂), Edo, 文久1 [1861]
+Institution:  National Diet Library (国立国会図書館), Japan — NDL Digital Collections
+Call number:  207-1695   (NDL bib ID 000007279079)
+Contents:     vol1 = 初編 (pid 2559375, 25 images)
+              vol2 = 二編 (pid 2559376, 26 images)
+              vol3 = 三編 (pid 2559377, 24 images)
+              vol4 = 四編 (pid 2559378, 25 images)
+              Each image = one opening (spread) incl. covers, colour chart and scale bar; files p0001.jpg… in IIIF canvas order.
+              This copy keeps the original per-編 binding with title pages (見返し), publisher's catalogue
+              and colour frontispiece spreads that are missing from the rebound Waseda 文庫11 a0380 copy.
+Source pages: https://dl.ndl.go.jp/pid/2559375
+              https://dl.ndl.go.jp/pid/2559376
+              https://dl.ndl.go.jp/pid/2559377
+              https://dl.ndl.go.jp/pid/2559378
+DOIs:         10.11501/2559375 … 10.11501/2559378
+Manifests:    https://dl.ndl.go.jp/api/iiif/2559375/manifest.json   (copy: manifest_vol1.json)
+              https://dl.ndl.go.jp/api/iiif/2559376/manifest.json   (copy: manifest_vol2.json)
+              https://dl.ndl.go.jp/api/iiif/2559377/manifest.json   (copy: manifest_vol3.json)
+              https://dl.ndl.go.jp/api/iiif/2559378/manifest.json   (copy: manifest_vol4.json)
+Images:       IIIF Image API {service}/full/full/0/default.jpg (full resolution, ~4500 x 4100-4400 px JPEG)
+Rights:       Manifest "Access Restrictions: PDM" (Public Domain Mark; インターネット公開 / 保護期間満了).
+              Attribution: 国立国会図書館 National Diet Library, JAPAN.
+              Terms: https://dl.ndl.go.jp/ja/help_iiif#api-%E3%81%AE%E5%88%A9%E7%94%A8%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6
+Downloaded:   2026-10-08 with scripts/download_iiif.py (100 images, all verified JPEG)

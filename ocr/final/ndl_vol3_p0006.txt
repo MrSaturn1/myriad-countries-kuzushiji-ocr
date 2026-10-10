@@ -1,0 +1,13 @@
+## R
+[margin] 〔万国三?〕
+[margin] 〔二?〕
+## L
+[margin] 万国三
+[margin] 〔三?〕
+[caption] 詰聖東《わしんとん》妻《つま》加礼留《かれる》
+[caption] 英吉利《いぎりす》の官人《〔くわんにん?〕》阿修羅《あ〔しゆ?〕ら》
+[caption] 米理幹《めりけん》男《せがれ》詰聖東《わしんとん》
+## order
+Full-page colour picture (no running text): L top-right cartouche (詰聖東妻…) → L top-left cartouche (英吉利の官人…) → L lower-left cartouche (米理幹男…). R page has no labels.
+## notes
+Colour frontispiece of part 3 naming characters: Washington (詰聖東), son of Meriken (米理幹), in black coat and sword; Washington's wife Karel(?) (加礼留), the tall lady on R; and an English official named 阿修羅, the scowling man with the sabre on L, while dark-skinned men in blue coats grapple with muskets on R. Furigana read from small worn kana in both copies (Waseda vol2/p0006 used to confirm): 加礼留《かれる》 fairly sure (か written as hentaigana like ゥ); 男《せがれ》, 官人《くわんにん》 and 阿修羅《あしゆら》 uncertain in their middle kana. 詰 (言+吉) is as printed for わしん. Page numbers (lower outer margins) are cut at the binding: two strokes visible on R, possibly three on L.

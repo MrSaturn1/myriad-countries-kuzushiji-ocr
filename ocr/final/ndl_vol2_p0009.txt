@@ -1,0 +1,71 @@
+## R
+[margin] 万国二
+[margin] 七
+[main] 〔つゞき〕じん
+あめ
+りかの
+みな
+みの
+かたにいたりてくにをひらき
+なづけてしんおらんだと▲
+[main] ▲いふそのゝち
+いぎりす人
+おらん
+だ人を
+おひ
+はらひ
+そのちを
+うばひあらためて△
+[main] △ねうよるくとなづく
+そのころすへしあこくの
+ひとしんおらんだの
+〔みな?〕
+〔みに?〕
+ま〔な?〕へ
+○こ〔く?〕
+を
+ねふ
+ゆる
+せい
+といふ▲△
+[main] ▲△しかるに
+そのゝち
+みなおらん
+だにうばはれたりいぎり
+すはまたお
+らんだをおひ
+はらひそのち
+をおうりやう
+すこゝに
+いぎりすの
+人に名を
+ういる
+れむ
+といふ
+[caption] ○英人女王《えいじんによわう》に
+申《まう》して新《しん》
+## L
+[margin] 万国二
+[margin] 〔五?〕
+[caption] 国《くに》を開《ひら》かん
+とす
+[main] もの
+あり
+その
+ちへ
+〔むけ?〕
+ての
+だい
+せう
+なり
+し
+とき⊗
+[main] ⊗〔か?〕い
+ぞくを
+いけ
+どる
+ことおゝければ〔つぎへ〕
+## order
+R top-right つゞき (A) ▲ → R top-centre (B) △ → R bottom-right (C) ▲△ → R bottom-centre (D) → across the gutter into the L bottom row ⊗ → L bottom-left framed column つぎへ; separate picture caption ○英人女王に申して新 (R centre-left) → 国を開かんとす (L, beside the queen)
+## notes
+Continues from the previous spread ("…the Dutch"): Dutch settlers went to the south of America and named their colony New Netherland (しんおらんだ); the English drove the Dutch out and renamed it New York (ねうよるく); Swedes (すへしあ) settled near New Netherland; the Dutch then took it all, the English expelled the Dutch again, and an Englishman named William (ういるれむ), sent as commander to that land, captured many pirates/bandits (〔か?〕いぞく). The caption says an Englishman petitioned the Queen to open a new country. The short columns at the foot of block C are uncertain even in the clearer Waseda copy (ねふゆるせい may be New Jersey); ▲△ is a stacked solid-over-hollow triangle mark; page numbers 七 (R) and 五? (L) are as printed/visible.

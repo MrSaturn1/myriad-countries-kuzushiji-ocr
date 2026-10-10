@@ -1,0 +1,34 @@
+## R
+[margin] 万国初　二
+[caption] 阿蘭陀國《おらんだこく》
+[main] 此国《このくに》は人民《じんみん》専《もつぱ》ら枝藝《ぎげい》に
+妙《めう》をえ通商《つうしやう》をことゝし能《よく》天文《てんもん》
+地理《ちり》に通《つう》じ格物究理《かくぶつきうり》の
+学《がく》に達《たつ》じ諸国《しよこく》の産物《さんぶつ》
+異類奇品《ゐるいきひん》を
+集《あつめ》て
+互市《ごし》
+の大利《たいり》
+を究む
+[caption] 大清國南京人《たいしんこくなんきんじん》
+## L
+[margin] 一
+[margin] 万国〔二?〕
+[caption] (inverted/mirrored Roman-letter band across top of balloon; pseudo-Latin, not transcribed)
+[caption] 北亞墨利加合衆國《きたあめりかがつしゆうこく》
+華盛都府《わしんとんふ》
+風船之圖《ふうせんのづ》
+[main] 昔々《むかし〳〵》の赤本《あかほん》に。脚色《しくみ》も浅《あさ》き朝比奈《あさひな》が。
+島巡《しまめぐ》りてふ戯作《げさく》あり。足長手長《あしながてなが》の
+春日《ながきひ》を。慰《なぐさ》む小人《こびと》の童子等《どうじら》が。宜《よき》
+翫《もてあそ》びなりけるが。物換《ものかは》り星移《ほしうつ》り。
+當時《いまどき》の千歳児《せんざいじ》は。
+飴《あめ》の棒《ぼう》の甘口《あまくち》な。
+事ではゆかぬと品《しな》を替《かへ》。萬国噺《ばんこくばなし》の
+聴取学文《きゝとりがくもん》國字《かな》に譯《やく》して取次《とりつぎ》の請《うけ》
+賣《うり》をなすものならじ
+[main] 辛酉春　假名垣魯文記
+## order
+R 柱 → R caption 阿蘭陀國 → R main → R caption 大清國南京人 → L box caption (風船之圖) → L preface → L signature
+## notes
+Right: Holland — its people excel in crafts, trade, astronomy, geography and natural science, and gather rare goods from every land to profit by commerce (figures: a Dutchman and a Nanjing Chinese). Left: Robun's preface (spring 1861) over a picture of a Washington balloon — old picture books about Asahina's island tours no longer satisfy today's children, so he retells "world tales" in kana. Unsure: left-page 柱 number (〔二?〕), furigana of 宜 (よき) and 脚色 (しくみ), first kana of わしんとんふ; Roman lettering on the balloon band left untranscribed.

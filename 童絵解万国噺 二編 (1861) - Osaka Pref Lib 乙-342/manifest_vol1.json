@@ -1,0 +1,1203 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "ja": [
+      "童絵解万国噺 1"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "ja": [
+          "資料ID"
+        ]
+      },
+      "value": {
+        "ja": [
+          "01-0007771"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "貴重書区分"
+        ]
+      },
+      "value": {
+        "ja": [
+          "貴重書"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "文庫区分"
+        ]
+      },
+      "value": {
+        "ja": [
+          "近世後期小説類"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "角書"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "書名漢字"
+        ]
+      },
+      "value": {
+        "ja": [
+          "童絵解万国噺 1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "書名読み"
+        ]
+      },
+      "value": {
+        "ja": [
+          "おさなえときばんこくばなし"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "別書名"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "別書名読み"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "書名関連情報"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "叢書名"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "叢書名読み"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "目録書名"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "著者"
+        ]
+      },
+      "value": {
+        "ja": [
+          "仮名垣魯文作 ; 歌川芳虎画"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "著者名１"
+        ]
+      },
+      "value": {
+        "ja": [
+          "仮名垣魯文作"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "著者名２"
+        ]
+      },
+      "value": {
+        "ja": [
+          "歌川芳虎画"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "著者名３"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "著者名４"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "著者名５"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "著者名６"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "著者名読み１"
+        ]
+      },
+      "value": {
+        "ja": [
+          "かながきろぶん"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "著者名読み２"
+        ]
+      },
+      "value": {
+        "ja": [
+          "うたがわよしとら"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "著者名読み３"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "著者名読み４"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "著者名読み５"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "著者名読み６"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "出版地"
+        ]
+      },
+      "value": {
+        "ja": [
+          "江戸"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "出版者"
+        ]
+      },
+      "value": {
+        "ja": [
+          "錦橋堂"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "年代表記"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "出版年（元号）"
+        ]
+      },
+      "value": {
+        "ja": [
+          "万延2年"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "出版年（西暦）"
+        ]
+      },
+      "value": {
+        "ja": [
+          "1861年"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "大きさ"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "分類１"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "分類２"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "四庫分類（部）"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "四庫分類（類）"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "巻数"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "巻冊数"
+        ]
+      },
+      "value": {
+        "ja": [
+          "2編2冊"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "刊写区分"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          "袋入"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "内容細目"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "記事"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "所蔵注記"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "請求記号"
+        ]
+      },
+      "value": {
+        "ja": [
+          "乙/342/#"
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "関連資料"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "書誌ID"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "ja": [
+          "遷移先"
+        ]
+      },
+      "value": {
+        "ja": [
+          ""
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "ja": [
+        "帰属"
+      ]
+    },
+    "value": {
+      "ja": [
+        "大阪府立図書館"
+      ]
+    }
+  },
+  "viewingDirection": "right-to-left",
+  "items": [
+    {
+      "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/1",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "1"
+        ]
+      },
+      "width": 2480,
+      "height": 1653,
+      "items": [
+        {
+          "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/1/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/1/page/1/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/contents/8951d6f1d4654ed58df74e53c404bc36.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 2480,
+                "height": 1653,
+                "service": [
+                  {
+                    "@id": "https://da.library.pref.osaka.jp/api/contents/8951d6f1d4654ed58df74e53c404bc36.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/2",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "2"
+        ]
+      },
+      "width": 2480,
+      "height": 1653,
+      "items": [
+        {
+          "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/2/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/2/page/1/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/contents/86c9b6cda8b440d1bcfa5c77851e43fc.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 2480,
+                "height": 1653,
+                "service": [
+                  {
+                    "@id": "https://da.library.pref.osaka.jp/api/contents/86c9b6cda8b440d1bcfa5c77851e43fc.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/3",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "3"
+        ]
+      },
+      "width": 2480,
+      "height": 1653,
+      "items": [
+        {
+          "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/3/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/3/page/1/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/contents/a5710e6943d545509d4ec9807b62be8d.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 2480,
+                "height": 1653,
+                "service": [
+                  {
+                    "@id": "https://da.library.pref.osaka.jp/api/contents/a5710e6943d545509d4ec9807b62be8d.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/4",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "4"
+        ]
+      },
+      "width": 2480,
+      "height": 1653,
+      "items": [
+        {
+          "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/4/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/4/page/1/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/contents/b0029686f7ff4180864eab6dc45d97c1.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 2480,
+                "height": 1653,
+                "service": [
+                  {
+                    "@id": "https://da.library.pref.osaka.jp/api/contents/b0029686f7ff4180864eab6dc45d97c1.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/5",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "5"
+        ]
+      },
+      "width": 2480,
+      "height": 1653,
+      "items": [
+        {
+          "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/5/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/5/page/1/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/contents/64c7e9ea0d0f449d9ef12c713f5d316f.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 2480,
+                "height": 1653,
+                "service": [
+                  {
+                    "@id": "https://da.library.pref.osaka.jp/api/contents/64c7e9ea0d0f449d9ef12c713f5d316f.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/6",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "6"
+        ]
+      },
+      "width": 2480,
+      "height": 1653,
+      "items": [
+        {
+          "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/6/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/6/page/1/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/contents/69a04c47735f442e92fc54677944b10c.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 2480,
+                "height": 1653,
+                "service": [
+                  {
+                    "@id": "https://da.library.pref.osaka.jp/api/contents/69a04c47735f442e92fc54677944b10c.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/7",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "7"
+        ]
+      },
+      "width": 2480,
+      "height": 1653,
+      "items": [
+        {
+          "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/7/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/7/page/1/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/contents/fcd36119cbfd40df9b19cc6c3f3e0ae3.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 2480,
+                "height": 1653,
+                "service": [
+                  {
+                    "@id": "https://da.library.pref.osaka.jp/api/contents/fcd36119cbfd40df9b19cc6c3f3e0ae3.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/8",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "8"
+        ]
+      },
+      "width": 2480,
+      "height": 1653,
+      "items": [
+        {
+          "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/8/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/8/page/1/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/contents/7cc60ee5a5324e91b374978a7665767e.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 2480,
+                "height": 1653,
+                "service": [
+                  {
+                    "@id": "https://da.library.pref.osaka.jp/api/contents/7cc60ee5a5324e91b374978a7665767e.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/9",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "9"
+        ]
+      },
+      "width": 2480,
+      "height": 1653,
+      "items": [
+        {
+          "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/9/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/9/page/1/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/contents/5e3b332100b644c5827e398c965b0663.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 2480,
+                "height": 1653,
+                "service": [
+                  {
+                    "@id": "https://da.library.pref.osaka.jp/api/contents/5e3b332100b644c5827e398c965b0663.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/10",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "10"
+        ]
+      },
+      "width": 2480,
+      "height": 1653,
+      "items": [
+        {
+          "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/10/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/10/page/1/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/contents/9a63c46cb8ce42a6aa2690db6d845981.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 2480,
+                "height": 1653,
+                "service": [
+                  {
+                    "@id": "https://da.library.pref.osaka.jp/api/contents/9a63c46cb8ce42a6aa2690db6d845981.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/11",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "11"
+        ]
+      },
+      "width": 2480,
+      "height": 1653,
+      "items": [
+        {
+          "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/11/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/11/page/1/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/contents/9ea0f9c0250b49829b91bb92b2804581.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 2480,
+                "height": 1653,
+                "service": [
+                  {
+                    "@id": "https://da.library.pref.osaka.jp/api/contents/9ea0f9c0250b49829b91bb92b2804581.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/12",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "12"
+        ]
+      },
+      "width": 2480,
+      "height": 1653,
+      "items": [
+        {
+          "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/12/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/12/page/1/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/contents/f1898227fdd24fd3ae70ff19e723b5da.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 2480,
+                "height": 1653,
+                "service": [
+                  {
+                    "@id": "https://da.library.pref.osaka.jp/api/contents/f1898227fdd24fd3ae70ff19e723b5da.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/13",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "13"
+        ]
+      },
+      "width": 2480,
+      "height": 1653,
+      "items": [
+        {
+          "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/13/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/13/page/1/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/contents/241a17ab958445dea466b75d73b890bd.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 2480,
+                "height": 1653,
+                "service": [
+                  {
+                    "@id": "https://da.library.pref.osaka.jp/api/contents/241a17ab958445dea466b75d73b890bd.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/14",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "14"
+        ]
+      },
+      "width": 2480,
+      "height": 1653,
+      "items": [
+        {
+          "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/14/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/14/page/1/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/contents/53e7527196d148bfb123a56b943fe80b.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 2480,
+                "height": 1653,
+                "service": [
+                  {
+                    "@id": "https://da.library.pref.osaka.jp/api/contents/53e7527196d148bfb123a56b943fe80b.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/15",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "15"
+        ]
+      },
+      "width": 2480,
+      "height": 1653,
+      "items": [
+        {
+          "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/15/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/15/page/1/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/contents/34570a08f8d24090bffa791e2c1a93a5.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 2480,
+                "height": 1653,
+                "service": [
+                  {
+                    "@id": "https://da.library.pref.osaka.jp/api/contents/34570a08f8d24090bffa791e2c1a93a5.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/16",
+      "type": "Canvas",
+      "label": {
+        "ja": [
+          "16"
+        ]
+      },
+      "width": 2480,
+      "height": 1653,
+      "items": [
+        {
+          "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/16/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/16/page/1/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://da.library.pref.osaka.jp/api/items/01-0007771/contents/e9e63358252743c4864022419e7d1dc0.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 2480,
+                "height": 1653,
+                "service": [
+                  {
+                    "@id": "https://da.library.pref.osaka.jp/api/contents/e9e63358252743c4864022419e7d1dc0.jp2",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                ]
+              },
+              "target": "https://da.library.pref.osaka.jp/api/items/01-0007771/canvas/16"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

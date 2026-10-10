@@ -1,0 +1,287 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            831,
+            797
+          ],
+          [
+            831,
+            1287
+          ],
+          [
+            917,
+            797
+          ],
+          [
+            917,
+            1287
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "衆国人波士",
+        "isTextline": "true",
+        "confidence": 0.762
+      },
+      {
+        "boundingBox": [
+          [
+            684,
+            792
+          ],
+          [
+            684,
+            1336
+          ],
+          [
+            791,
+            792
+          ],
+          [
+            791,
+            1336
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "の街巷遊行",
+        "isTextline": "true",
+        "confidence": 0.805
+      },
+      {
+        "boundingBox": [
+          [
+            530,
+            927
+          ],
+          [
+            530,
+            1365
+          ],
+          [
+            637,
+            927
+          ],
+          [
+            637,
+            1365
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "往還の図",
+        "isTextline": "true",
+        "confidence": 0.815
+      },
+      {
+        "boundingBox": [
+          [
+            3838,
+            2935
+          ],
+          [
+            3838,
+            3126
+          ],
+          [
+            3906,
+            2935
+          ],
+          [
+            3906,
+            3126
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "おなじく",
+        "isTextline": "true",
+        "confidence": 0.526
+      },
+      {
+        "boundingBox": [
+          [
+            3750,
+            2929
+          ],
+          [
+            3750,
+            3061
+          ],
+          [
+            3831,
+            2929
+          ],
+          [
+            3831,
+            3061
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "○仝",
+        "isTextline": "true",
+        "confidence": 0.646
+      },
+      {
+        "boundingBox": [
+          [
+            3662,
+            3020
+          ],
+          [
+            3662,
+            3131
+          ],
+          [
+            3717,
+            3020
+          ],
+          [
+            3717,
+            3131
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "つま",
+        "isTextline": "true",
+        "confidence": 0.32
+      },
+      {
+        "boundingBox": [
+          [
+            3584,
+            3006
+          ],
+          [
+            3584,
+            3126
+          ],
+          [
+            3663,
+            3006
+          ],
+          [
+            3663,
+            3126
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "妻",
+        "isTextline": "true",
+        "confidence": 0.582
+      },
+      {
+        "boundingBox": [
+          [
+            2939,
+            2906
+          ],
+          [
+            2939,
+            3071
+          ],
+          [
+            3028,
+            2906
+          ],
+          [
+            3028,
+            3071
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "○商",
+        "isTextline": "true",
+        "confidence": 0.518
+      },
+      {
+        "boundingBox": [
+          [
+            2793,
+            3018
+          ],
+          [
+            2793,
+            3143
+          ],
+          [
+            2879,
+            3018
+          ],
+          [
+            2879,
+            3143
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "官",
+        "isTextline": "true",
+        "confidence": 0.425
+      },
+      {
+        "boundingBox": [
+          [
+            2026,
+            2873
+          ],
+          [
+            2026,
+            3019
+          ],
+          [
+            2097,
+            2873
+          ],
+          [
+            2097,
+            3019
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "○官",
+        "isTextline": "true",
+        "confidence": 0.349
+      },
+      {
+        "boundingBox": [
+          [
+            1836,
+            2963
+          ],
+          [
+            1836,
+            3083
+          ],
+          [
+            1911,
+            2963
+          ],
+          [
+            1911,
+            3083
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "南女",
+        "isTextline": "true",
+        "confidence": 0.384
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 4582,
+    "img_height": 4316,
+    "img_path": "童絵解万国噺 (1861) - NDL 207-1695/vol2/p0006.jpg",
+    "img_name": "p0006.jpg"
+  }
+}

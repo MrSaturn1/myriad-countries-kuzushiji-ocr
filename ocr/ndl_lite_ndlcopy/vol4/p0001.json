@@ -1,0 +1,62 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1729,
+            320
+          ],
+          [
+            1729,
+            706
+          ],
+          [
+            1980,
+            320
+          ],
+          [
+            1980,
+            706
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "町々町",
+        "isTextline": "true",
+        "confidence": 0.761
+      },
+      {
+        "boundingBox": [
+          [
+            452,
+            378
+          ],
+          [
+            452,
+            1506
+          ],
+          [
+            728,
+            378
+          ],
+          [
+            728,
+            1506
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "萬国啾",
+        "isTextline": "true",
+        "confidence": 0.499
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 4540,
+    "img_height": 4077,
+    "img_path": "童絵解万国噺 (1861) - NDL 207-1695/vol4/p0001.jpg",
+    "img_name": "p0001.jpg"
+  }
+}

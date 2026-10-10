@@ -1,0 +1,25 @@
+## L
+[margin] 万国初
+[margin] 十五
+[caption] ○魯西亜《おろしや》帝《てい》樵夫《きこり》に身《み》をやつしてさんだむに仕ふ
+[main]
+つゞき
+みづからさし
+づして六十
+もんに大づゝを
+かけるいくさ
+ぶねをつく
+らしむまた
+こゝろを
+もろ〳〵の〔がく?〕
+もんにとゞめ
+一チげいのすこし
+なることゝいへどもいた
+づらにみすごすことなく
+みづからこれをこゝろみある
+ひはゐだうのじゆつをきは
+むるにいたる又大ふねつぎへ
+## order
+L top (つゞき … 又大ふね つぎへ) → caption
+## notes
+Peter personally directs the building of warships mounting sixty cannon, devotes himself to every branch of learning, never neglects even a minor skill but tries it himself, and even masters medicine; caption: the Russian emperor, disguised as a woodcutter, works at Zaandam (さんだむ). Unsure: end of column 9 (printed like "のぐ", read as がく of がくもん); "こゝろを" has a faint ゝ.

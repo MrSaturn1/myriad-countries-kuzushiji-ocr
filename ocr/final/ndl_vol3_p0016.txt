@@ -1,0 +1,84 @@
+## R
+[margin] 万国三
+[caption] 米理幹
+[caption] 巴利那
+[caption] 話聖東
+[caption] 「こゝへ〔きて〕
+[main] つゞき ひがしへいだす
+べしとめいずにまじん
+これにそむきて
+にしへ〳〵とふねを
+やるにそのはやき
+ことひちやうの
+ごとく〔う〕みみち
+三千五百より
+をたゞはん
+とき〔ほど〕の▲
+[main] ▲あめりのえだじまに
+ふねをよせこつせんとして
+かのまじんはかきけすごとく
+うせにけりそのうちに
+よも◬
+[main] ⊠かたるにみな〳〵みの毛けをよ
+だゝせしたをまいておそれおのゝき
+めりけんがだいたんなるをふかくおそ
+れてそんきやうしぢよめいのおんを
+はいしやせり。かくて
+めりけんふう
+ふをはじ
+め◀
+◀あま
+たの流
+人はきた
+あめりかなる
+ひぎり△
+[main] △す
+りやうぶんひるぎ
+にやといへるちに
+じやうりくなしほん
+こくのやくにんのさし
+づにまかしていへゐを
+しゆつらひ
+おの〳〵かうさく
+しよくぎやう
+のみちをもつ
+なりはひとし
+あめりかせかい
+## L
+[caption] 「どつこい きたり〔はり〕 〔さう〕〳〵
+[caption] 「アリヤ〳〵 ハタ〳〵
+[main] ◬あけたれ
+ばめりけんふう
+ふはきぜつ
+せしあまた
+のものを
+よび⊗
+[main] ⊗〔き〕つけくすり
+をあたへてかいほうなし
+かのまじんの事を⊠
+[main] の人とはなり
+ぬこれまさ
+にわが〔てう〕の◉
+[main] ◉享保年間《きやうほうねんかん》
+〔ほん〕にていまをさること
+とほからずさるほどに
+めりけんふうふはあ
+めりかしうひるぎ
+にや部内〔郡〕〔ふわいる〕
+あきすのちにすま
+ゐてもつ△
+[main] △ぱらしんでんかいほつの
+ことをぎやうとしあまたのるにんにさしづ
+をくわへめきしこといへるちのかな山を
+ひらかせあまたの
+かねをほりいださ
+するにそのりえき
+ばくたいなればわづかのうち
+にいへとみていまはしんせかい
+だいゝちのがうかとはなり
+にけるしかるにつまのはりな
+女はこのちにわたりて つぎへ
+## order
+R top (つゞき) ▲ → R lower-middle ▲あめりのえだじまに…よも ◬ → L upper-middle ◬あけたれば…よび ⊗ → L top-left ⊗きつけくすり…事を ⊠ → R bottom-right ⊠かたるに…はじめ ◀ → ◀あまたの流人…ひぎり △ → R bottom-middle △す りやうぶん…あめりかせかい → L bottom-right の人とはなり…わがてうの ◉ → ◉享保年間…すまゐてもつ △ → L bottom-left △ぱらしんでん…わたりて つぎへ
+## notes
+The demon, ordered to go east, rows west instead, covering 3,500 ri in half an hour, lands the ship on an island of America and vanishes; Merriken (めりけん) and Paulina (はりな/巴利那) revive the crew, the convicts land at Virginia (ひるぎにや) in English territory, and Merriken settles in Virginia (Fairfax?), clears new land, has the convicts open gold mines at Mexico (めきしこ) and becomes the New World's richest man; it says this happened in Japan's Kyōhō era. Washington (話聖東) appears as a picture label. Uncertain: the speech balloons, とき〔ほど〕の, the place-name column にや部内〔郡〕〔ふわいる〕/あきす, わが〔てう〕, and the first glyph of 〔き〕つけくすり; ◬ ⊗ ⊠ ◀ ◉ stand for the printed continuation marks.

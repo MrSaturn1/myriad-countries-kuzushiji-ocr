@@ -1,0 +1,187 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            4109,
+            731
+          ],
+          [
+            4109,
+            1057
+          ],
+          [
+            4195,
+            731
+          ],
+          [
+            4195,
+            1057
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "万国三",
+        "isTextline": "true",
+        "confidence": 0.344
+      },
+      {
+        "boundingBox": [
+          [
+            3864,
+            2058
+          ],
+          [
+            3864,
+            2253
+          ],
+          [
+            3953,
+            2058
+          ],
+          [
+            3953,
+            2253
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "船子",
+        "isTextline": "true",
+        "confidence": 0.714
+      },
+      {
+        "boundingBox": [
+          [
+            3103,
+            2264
+          ],
+          [
+            3103,
+            2569
+          ],
+          [
+            3206,
+            2264
+          ],
+          [
+            3206,
+            2569
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "巴利那",
+        "isTextline": "true",
+        "confidence": 0.761
+      },
+      {
+        "boundingBox": [
+          [
+            485,
+            791
+          ],
+          [
+            485,
+            1024
+          ],
+          [
+            573,
+            791
+          ],
+          [
+            573,
+            1024
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "おとにやく",
+        "isTextline": "true",
+        "confidence": 0.321
+      },
+      {
+        "boundingBox": [
+          [
+            1259,
+            2482
+          ],
+          [
+            1259,
+            2810
+          ],
+          [
+            1374,
+            2482
+          ],
+          [
+            1374,
+            2810
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "米理幹",
+        "isTextline": "true",
+        "confidence": 0.793
+      },
+      {
+        "boundingBox": [
+          [
+            467,
+            1913
+          ],
+          [
+            467,
+            2123
+          ],
+          [
+            564,
+            1913
+          ],
+          [
+            564,
+            2123
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "水主",
+        "isTextline": "true",
+        "confidence": 0.723
+      },
+      {
+        "boundingBox": [
+          [
+            550,
+            2341
+          ],
+          [
+            550,
+            2500
+          ],
+          [
+            647,
+            2341
+          ],
+          [
+            647,
+            2500
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "□□□□□□□□□□□□□□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.306
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 4526,
+    "img_height": 4217,
+    "img_path": "童絵解万国噺 (1861) - NDL 207-1695/vol3/p0014.jpg",
+    "img_name": "p0014.jpg"
+  }
+}

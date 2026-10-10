@@ -1,0 +1,36 @@
+## R
+[margin] 万国初
+[margin] 十七
+[main] 〔つゞき〕おろ
+しやくわうてい
+といひそへがうを
+たてまつりてごらう
+でといひ一千七百二十△
+## L
+[margin] 万国初
+[main] ▲一ねん
+十月廿二日
+たいへいの
+まつりをおこなひ帝国《ていこく》の
+位爵《ゐしやく》をあめが下にふれ
+しらすふろいせんおらんだすうへ
+しや。まづそのめいにしたがつて
+ほかのくに〴〵もそれにつゞいてそん
+がうをしやうすみかどすでに
+くにをおほいにひらきたみの
+ふうぞくをなをしよこしまなるものを△
+[main] △ばつしてみやこみなとにあまた
+びんぎのふねをそなへようがい
+をかまへしよこくとかうえき
+の定《てい》やくをさだめ一千七百
+二十四年五月きさきかたりなのこうを
+しやうして女ていのくらゐにつかしめ同
+十一月ちやうあいのおんむすめあんな
+をすうへしやこく王のよめとなす
+さるほどにみかどはやまひのために
+せいりきやゝげんずるをおぼへ一千七百二十四ねん
+〔つぎへ〕
+## order
+R mid-left block 〔つゞき〕 △ → L top-right block ▲ → (ends △) L top-left block △ → 〔つぎへ〕
+## notes
+The (Peter the Great) story continues: he was given the titles "Emperor of Russia" and "the Great" (ごらうで), on 22 October 1721 held a peace festival and proclaimed the imperial title, which Prussia, Holland and Sweden recognised first and other countries followed; he reformed customs, punished wrongdoers, built ships and harbours, set trade treaties, in May 1724 crowned his consort Katarina (かたりな) empress, in November married his daughter Anna (あんな) to a "king of Sweden", and in 1724 felt his strength failing from illness. Unsure: furigana on 位爵 and 定 are small; the △/▲ marks differ in fill.

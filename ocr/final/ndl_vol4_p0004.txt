@@ -1,0 +1,32 @@
+## R
+[main] 〔をさ?〕な絵解《ゑとき》
+[main] 萬國《まんこく》はなし
+[main] 四へん
+[main] 下の巻
+[main] 魯文作
+[main] よし虎画
+[main] 錦橋堂
+[main] ざうはん
+[caption] コンペイトウ
+[caption] サケノドウグ
+[caption] シヨクタイ
+## L
+[margin] 一
+[margin] 〔萬國?〕四
+[main] 太祖二霊天より下降給ひ海水を畫《かきさく》りて
+[main] 以て國土を造建し玉ふ五大洲中開拓人
+[main] 烟の年暦頗る遅速ありと雖四海皆兄
+[main] 弟にして日月父母たるの正理豈異ること有
+[main] らんや。閣龍氏《ころんぶす》新世界を検出し。墨利屈氏《めりきゆし》
+[main] 次で全州成れり。南北亜墨利加《なんぼくあめりか》則ち是なり。
+[main] 而て西客此地に至り。人種盛んに産業そな
+[main] はり。物として足ざるなし。茲に北洲合衆国人話《わ》
+[main] 聖東《しんとん》業阿尓熱《げおるげ》なる者。性三徳を兼備し。忠
+[main] には生命を顧ず。政には國體を失はず。遂に英国の
+[main] 苛政を脱さしめ。獨立建国の威を後世に傳ふるに〔至?〕■
+[main] 其功業を稗史に綴りて。童蒙画説となす〔にと?〕■
+[main] 文久元辛酉秋　假名垣魯文誌
+## order
+R title page (title, volume, author/artist/publisher, object labels) → L preface (illustrated top, text below, columns right to left)
+## notes
+Title page of 万国噺 part 4, lower volume (Robun author, Yoshitora artist, Kinkyōdō publisher), with labelled Western objects: a sweet dish (コンペイトウ), a wine vessel and a candle-stand; on the left, Robun's preface (autumn of Bunkyū 1, 1861): the gods made the land; Columbus (閣龍) found the New World, Amerigo (墨利屈) followed, and North and South America took shape; George Washington (話聖東業阿尓熱) freed the colonies from British misrule and founded an independent nation. Unsure: the faded first title character(s) (probably をさな = 童), the furigana げおるげ, and the worn ends of the last two text columns (also smudged in the Waseda copy, whose left page matches; its right page is a different fan picture).

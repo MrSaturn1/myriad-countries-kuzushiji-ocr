@@ -1,0 +1,96 @@
+## R
+[margin] 〔万国四?〕 ■
+[caption] 仙女
+[main] つゞき まひあがりゆくゑも
+しれずなりになりにける
+あだむすはわしのゆく
+かたをはるかにうち見やり
+これなん仙女の
+しんとくに
+よれるところとれい
+はいなし身のうち
+大〔い?〕に▲
+[main] ▲つかれ
+たればたにゝくだり
+てはや川のしみづ
+にのんどをうるほし
+つゝ日はにし山に
+おちんと
+する
+に◬
+## L
+[margin] 〔万国四?〕 ■
+[caption] 阿丹土
+[main] ◬ひと
+まつこゝを
+さりてのち
+ひとをやとひ
+てふたゝび
+きたりておろ
+ちのしがいを
+かたづけんと山を
+くだりたにをこへ
+からうじてさとに
+いでおのがすみかへ
+たちかへりそのよのうちにむら
+おさのいへにいたりてけふのわざ
+はひはゝをおろちにのまれしこと
+より仙女のたすけにおろちを
+たいぢそくじにあたをむくひ
+たるいち〔ぶ?〕しゞうをかたるにぞ
+むらおさきゝてはゝおやの
+ふりよのさいごをいたみつゝあゝ
+だむすがじやくねんにて仙女
+のちからをあはすともさまでの
+〔ど?〕くじやをやす〳〵とたいぢなし
+たるはたらきはぼんにんなら
+ずとしたをまきそのかう
+しんをかんじけるかくてつぎの⊠
+[main] ⊠あさむらおさはさと人のこら
+ずよびつとへあだむすが
+かたりしむねをみな〳〵につげ
+しらしなんぢらあだむすを
+あないとしかしこのたにゝくだり
+ゆきてかのうわばみのし
+がいにちかつきかれしば
+をもてやきすてよト
+めいすにみな〳〵こゝろ
+えてあだむすに
+あないさせかの山に
+わけのぼりおろち
+のたふれしたに
+くだりちかづきてこれを
+見るにそのたけ
+小山をま
+〔ど?〕ふに
+にたり
+ふとき
+ことうす
+に〔ひと?〕しく
+ぜんしん
+あまたきず
+つけられ
+あけに
+そみて
+死しゐたれば
+これを見る
+もの
+みのけ
+たちあゝ
+だむす
+がはた
+ら
+き
+〔を?〕
+〔感?〕
+せう
+せざるはなかり
+けるかくてさと
+人はたくはへたる
+かれしばに
+ひと
+[caption] つゞく
+## order
+(Whole spread printed sideways: rotate the scan 90° counter-clockwise; the eagle page R then sits on top, the Adams page L below.) R つゞき block beside the eagle (…大いに▲) → R ▲ block left of the 仙女 label (…するに◬) → L ◬ top-left block (ひとまつこゝを…かくてつぎの⊠) → L ⊠ block at lower right under the immortal's skirt, continuing in short columns along the bottom past Adams's sword (…かれしばにひと) → つゞく box at bottom left.
+## notes
+The eagle soars out of sight; Adams (あだむす/あゝだむす, 阿丹土) bows in thanks for the immortal's (仙女) divine power, goes down to a valley to drink, and as the sun sets leaves to come back with hired men for the serpent's corpse; he struggles back to the village and that night tells the village headman (むらおさ) the whole story of his mother being swallowed and his revenge with the immortal's help; the headman, marvelling, next morning gathers all the villagers, who go with Adams to the valley, find the serpent (its length could wrap a small hill, its girth like a mortar, its whole body slashed and blood-red) lying dead, are awed by Adams's feat, and set fire to the brushwood they brought (かれしばにひと|もし → 火ともし, completed by p0017's 〔ろ?〕し, which is therefore も). ◬ = solid triangle over hollow triangle, ⊠ = crossed box. だ is printed in a ゞ-like form, hence あだむす (both copies). Unsure: 大〔い?〕に; いち〔ぶ?〕しゞう; 〔ど?〕くじや; めいすに (as printed); 〔ど?〕ふに (perhaps まとふ "wrap around"); に〔ひと?〕しく; the one-glyph columns 〔を?〕 (printed like と) and 〔感?〕 (cursive, read かん by OCR) before せう; margins (柱 and page numbers) cut at the fold — neighbours are numbered 十一/十二 (p0015) and 十三/十四 (p0017), so this spread carries no number of its own or a cut 又-number. Waseda vol2/p0034 (same block) used throughout as ALT_SCAN; NDL OCR Lite on both rotated copies used as drafts.

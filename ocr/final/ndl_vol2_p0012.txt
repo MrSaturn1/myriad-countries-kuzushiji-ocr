@@ -1,0 +1,90 @@
+## R
+[margin] 万国二　七
+[main] つゞき　をしへなければつひに
+とりけものにひとしきを
+うれひ給ひてたみの
+ためにくにのぬし
+をたて▲
+[main] ▲たみをたもち
+まもらしむもとくにのぬしを
+た〔つ?〕るこゝろはたみを
+あらくしへたげて
+くにのぬしに▲△
+[main] ▲△そなへるために
+あらざるなりわがあめ
+りかはもとより
+かしらぶんの
+ものは⊗
+[main] ⊗なかりしが
+いぎりす人きたるに
+およびてわが
+どちに王とし⧗
+[main] ▲ゝめ
+あまねく
+天下につけ
+てこのうへ
+やむことを
+えざるに
+いでゝわが〔つを?〕
+にあらざる〔と?〕
+しらしむりと
+十二のかでうに
+いぎりすの
+びふんを
+こと〴〵
+しるしてまた
+いはくみぎの△
+[main] △でう〳〵わが
+あめり
+かの
+とし
+よりらたび〳〵
+かんげんすれどもいぎりす王いつ
+せつもちひずわがじんみんもいかん
+ともすることなししかればみづから
+## L
+[margin] 万国二　■
+[main] ⧗わがたみをけらいとすわが
+くにびともまたよろこびて思ふには
+かならずわがじんみんをたもち
+あひしやましめざるべしとその
+まつりごとおほいなるがいあるに
+あらざればなをしのびてした
+がふべししかるにいぎりす王
+わがじんみんをあらくしへ
+たげることさいさんにいたる
+しかれどもわがじんみん
+なをしのびしのんでこれ
+までこらへたれどもいぎり
+す王つひにせんぴをあら
+たむるこゝろさらになしその
+いきほひざして見るにしのぶべからずゆへに
+たいせうをたててぶきをそなへみづから
+あやうきをすくふのはかりごとをなすいぎ
+りす王のわがじんみんをしへたげることは
+各国〔部?〕のうちにはいまだこと〴〵くしら
+ざる人もあらんかゆへにこんど
+十二のかでうをした▲
+[main] くにをたてみづからたいせうを
+おきわがじんみんをたもち
+まもらんとすしからばいぎ
+りす王もわがくにをいかん⊗
+⊗ともすること
+あたふまじとかきてくに〴〵へふれ
+まはしけるにいぎりす王みぎのげきぶんを
+見てあめりかしんせかい十三がこくのたみしゆうをあは
+してひとつとなるをしり大いにいかりてふたゝびいくさ
+ぶねのかずをましあめりかのさかいうちへらんにふす
+あめりか人これをふせぎあらそふこと一ヶねんあまり
+なれどもかちまけいまだけつせずそのうちにふらん
+すこくよりかせいをいだしてあめりかをたすくるにぞ
+こゝにおいててきみかたともにたゝかふこと六七ねんなりされ
+どもいぎりす王あめりかこくにはかづ事ならざるを
+しりわぼくを▲
+[main] ▲こはしむあめりかのとしよりたち〔さち?〕さう
+だんしていふやうわがあめりかの
+[caption] つゞく
+## order
+R top つゞき (…をたて▲) → ▲たみをたもち…くにのぬしに▲△ → ▲△そなへるために…ものは⊗ → ⊗なかりしが…王とし⧗ → L top ⧗わがたみを…かでうをした▲ → R bottom ▲ゝめ…いはくみぎの△ → △でう〳〵わが…しかればみづから → L lower くにをたて…いかん⊗ → ⊗ともすること…しりわぼくを▲ → L far-left ▲こはしむ…わがあめりかの (box つゞく)
+## notes
+The Americans' declaration: a ruler is set up to protect the people, not to oppress them; America had no chiefs until the English came and made themselves king, and despite patient endurance and repeated pleas from the elders the English king never mended his ways, so the colonies listed his wrongs in twelve articles, made known to all lands that they would found their own country and choose their own commander. The English king, enraged that the thirteen colonies of the New World (しんせかい) had united, sent more warships; after a year of inconclusive war France (ふらんすこく) sent troops to help America, and after six or seven years of fighting the English king, unable to win, sought peace, and the American elders deliberated. Unsure: いでゝわが〔つを〕 (expected つみ "our fault"), しらしむりと, 各国〔部〕, and たち〔さち〕さう before だんして (expected さうだん "deliberation").

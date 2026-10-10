@@ -1,0 +1,26 @@
+## L
+[margin] 万国初
+[margin] 〔七?〕
+[main] 〔つゞき〕手のひらを
+王のごぜんにさしい〔だ?〕
+すときに女王の手のゆびを
+もつてそのひとの手のひらをぐつとおす
+しよこうその手を〔かき?〕てしりぞくこれいぎ
+りすのおもきれいぎなりみやこをろん
+どんといふていむす川のうへにありいへ
+なみくしのはのごとくじんみんあまたすま
+ゐていたつてはんじやうのちなりこの川に
+またがりて大はしありながさ百八十丈はゞ
+四丈三ところにとうらうだいをまうけて
+よるはこれに火をともしおうらいのひとの
+たよりとすまたきしのうへにおゝづゝの
+たいばをきづきあだをふせぐのようい
+にそなふすかしよにかうえきばを
+たてくにのきんぶつもうせんこくもの
+すゞなまりてつそのほかあさをなどの
+しな〳〵をもつてばんこくのあきんどゝ
+かうえきをなすそのあきなひ〔つゞく〕
+## order
+L single block: つゞき box at top right → つゞく box at the end of the last column (left page only; the right page belongs to another job)
+## notes
+Continues the court etiquette of England (a lord presents his palm to the queen, who presses it with her finger, then he withdraws), then describes the capital London on the Thames: houses packed like comb teeth, a great bridge 180 jō long with three lamp platforms, cannon batteries on the banks, and several trading places where England's goods (wool cloth, grain, tin, lead, iron, hemp) are traded with merchants of all nations. Unsure: the verb in しよこうその手を〔かき〕て, dakuten on さしい〔だ〕, and the cut page number.

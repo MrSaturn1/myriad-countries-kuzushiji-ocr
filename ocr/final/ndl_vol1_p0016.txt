@@ -1,0 +1,48 @@
+## L
+[margin] 万国
+[margin] ■
+[caption] ○魯西亜《おろしや》帝《てい》宝庫《ほうこ》を開《ひら》いて英吉利《いぎりす》の故舩《こせん》を見る図《づ》
+[main]
+つゞき
+うまれつき
+せかいの人に
+すぐれたれば
+このふねをなにとぞして
+つくりいださんとする
+こゝろふかくひとりつら〳〵
+おもふやうくにのうちに
+おほぶねをそなふる
+ときはけはしきみねに
+のぼり川やさわをわたる
+のくらうなくたゞちに
+うみ川をよこぎりがく
+もんのみちさかんに
+あきらかなるもろ〳〵
+のくにとよしみをつうじ
+てわがくにのたみをたすけ▲
+▲ますべし
+とすなはちおらん
+だのふなだいく
+さいわひくにのうち
+にゐたるゆへこれを
+とうりやうとなし
+おほいにふねを
+つくりこれにのりて
+あるかんげるといふ
+くにゝわたりかう
+ゑきをはじめ又
+くにのたみむくつ
+けくいやしげなる
+ふうぞくを△
+△わづかのうちに〔直?〕し
+ひとがらよろしきふう
+となせりみかどもろ〳〵
+のしんかにおほする
+やうわがくにはゑう
+らつぱしうのうちに
+ありながらほかのくに
+のごとくもろ〳〵のつぎへ
+## order
+L top (つゞき … たすけ▲) → L middle (▲ますべし … ふうぞくを△) → caption → L bottom (△わづか … つぎへ)
+## notes
+Peter, gifted beyond other men, resolves to build great ships to cross mountains, rivers and seas, to open relations with learned countries; he makes a Dutch (おらんだ) shipwright master builder, sails to Archangel (あるかんげる) to begin trade, quickly refines his people's rough customs, and tells his ministers that Russia, though in Europe (ゑうらつぱ), should, like other countries… Caption: the Russian emperor opens his treasury and views an old English (英吉利) ship. Unsure: the kanji read as 直 in "〔直?〕し"; page number cut by the binding.

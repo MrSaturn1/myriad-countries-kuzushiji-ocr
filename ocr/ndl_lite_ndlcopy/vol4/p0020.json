@@ -1,0 +1,2737 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            4075,
+            367
+          ],
+          [
+            4075,
+            1007
+          ],
+          [
+            4135,
+            367
+          ],
+          [
+            4135,
+            1007
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "〽いぐきあまりあるとき",
+        "isTextline": "true",
+        "confidence": 0.782
+      },
+      {
+        "boundingBox": [
+          [
+            3946,
+            379
+          ],
+          [
+            3946,
+            605
+          ],
+          [
+            4003,
+            379
+          ],
+          [
+            4003,
+            605
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "たうごく",
+        "isTextline": "true",
+        "confidence": 0.734
+      },
+      {
+        "boundingBox": [
+          [
+            3883,
+            376
+          ],
+          [
+            3883,
+            604
+          ],
+          [
+            3945,
+            376
+          ],
+          [
+            3945,
+            604
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "十三部は",
+        "isTextline": "true",
+        "confidence": 0.744
+      },
+      {
+        "boundingBox": [
+          [
+            3825,
+            382
+          ],
+          [
+            3825,
+            541
+          ],
+          [
+            3887,
+            382
+          ],
+          [
+            3887,
+            541
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "いぎり",
+        "isTextline": "true",
+        "confidence": 0.666
+      },
+      {
+        "boundingBox": [
+          [
+            4003,
+            364
+          ],
+          [
+            4003,
+            1015
+          ],
+          [
+            4071,
+            364
+          ],
+          [
+            4071,
+            1015
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "つらくおもふやうそも〳〵",
+        "isTextline": "true",
+        "confidence": 0.827
+      },
+      {
+        "boundingBox": [
+          [
+            3848,
+            623
+          ],
+          [
+            3848,
+            881
+          ],
+          [
+            3933,
+            623
+          ],
+          [
+            3933,
+            881
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "阿丹土",
+        "isTextline": "true",
+        "confidence": 0.767
+      },
+      {
+        "boundingBox": [
+          [
+            3762,
+            380
+          ],
+          [
+            3762,
+            778
+          ],
+          [
+            3830,
+            380
+          ],
+          [
+            3830,
+            778
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "すこくにぞくす",
+        "isTextline": "true",
+        "confidence": 0.691
+      },
+      {
+        "boundingBox": [
+          [
+            3705,
+            380
+          ],
+          [
+            3705,
+            569
+          ],
+          [
+            3771,
+            380
+          ],
+          [
+            3771,
+            569
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "がゆへに",
+        "isTextline": "true",
+        "confidence": 0.653
+      },
+      {
+        "boundingBox": [
+          [
+            3642,
+            376
+          ],
+          [
+            3642,
+            571
+          ],
+          [
+            3712,
+            376
+          ],
+          [
+            3712,
+            571
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "ろんどん",
+        "isTextline": "true",
+        "confidence": 0.657
+      },
+      {
+        "boundingBox": [
+          [
+            3584,
+            377
+          ],
+          [
+            3584,
+            570
+          ],
+          [
+            3649,
+            377
+          ],
+          [
+            3649,
+            570
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "ふより",
+        "isTextline": "true",
+        "confidence": 0.586
+      },
+      {
+        "boundingBox": [
+          [
+            3526,
+            378
+          ],
+          [
+            3526,
+            568
+          ],
+          [
+            3593,
+            378
+          ],
+          [
+            3593,
+            568
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "やくにん",
+        "isTextline": "true",
+        "confidence": 0.663
+      },
+      {
+        "boundingBox": [
+          [
+            3471,
+            375
+          ],
+          [
+            3471,
+            592
+          ],
+          [
+            3528,
+            375
+          ],
+          [
+            3528,
+            592
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "きたりて",
+        "isTextline": "true",
+        "confidence": 0.699
+      },
+      {
+        "boundingBox": [
+          [
+            3410,
+            367
+          ],
+          [
+            3410,
+            731
+          ],
+          [
+            3475,
+            367
+          ],
+          [
+            3475,
+            731
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "くにのせいじを",
+        "isTextline": "true",
+        "confidence": 0.77
+      },
+      {
+        "boundingBox": [
+          [
+            3353,
+            368
+          ],
+          [
+            3353,
+            757
+          ],
+          [
+            3412,
+            368
+          ],
+          [
+            3412,
+            757
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "つかさどれども",
+        "isTextline": "true",
+        "confidence": 0.8
+      },
+      {
+        "boundingBox": [
+          [
+            3296,
+            372
+          ],
+          [
+            3296,
+            759
+          ],
+          [
+            3354,
+            372
+          ],
+          [
+            3354,
+            759
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "もとよりくにゝ",
+        "isTextline": "true",
+        "confidence": 0.824
+      },
+      {
+        "boundingBox": [
+          [
+            3241,
+            371
+          ],
+          [
+            3241,
+            760
+          ],
+          [
+            3298,
+            371
+          ],
+          [
+            3298,
+            760
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "きみなければ",
+        "isTextline": "true",
+        "confidence": 0.828
+      },
+      {
+        "boundingBox": [
+          [
+            3184,
+            372
+          ],
+          [
+            3184,
+            786
+          ],
+          [
+            3242,
+            372
+          ],
+          [
+            3242,
+            786
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "りんごくたこくの",
+        "isTextline": "true",
+        "confidence": 0.816
+      },
+      {
+        "boundingBox": [
+          [
+            3120,
+            372
+          ],
+          [
+            3120,
+            786
+          ],
+          [
+            3189,
+            372
+          ],
+          [
+            3189,
+            786
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "王侯預らや",
+        "isTextline": "true",
+        "confidence": 0.813
+      },
+      {
+        "boundingBox": [
+          [
+            3057,
+            370
+          ],
+          [
+            3057,
+            759
+          ],
+          [
+            3122,
+            370
+          ],
+          [
+            3122,
+            759
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "もすればへいを",
+        "isTextline": "true",
+        "confidence": 0.784
+      },
+      {
+        "boundingBox": [
+          [
+            2996,
+            369
+          ],
+          [
+            2996,
+            802
+          ],
+          [
+            3061,
+            369
+          ],
+          [
+            3061,
+            802
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "むけくにをかす",
+        "isTextline": "true",
+        "confidence": 0.77
+      },
+      {
+        "boundingBox": [
+          [
+            2939,
+            369
+          ],
+          [
+            2939,
+            789
+          ],
+          [
+            2999,
+            369
+          ],
+          [
+            2999,
+            789
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "めんきざしあり",
+        "isTextline": "true",
+        "confidence": 0.816
+      },
+      {
+        "boundingBox": [
+          [
+            2883,
+            371
+          ],
+          [
+            2883,
+            767
+          ],
+          [
+            2939,
+            371
+          ],
+          [
+            2939,
+            767
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "われいやしくも",
+        "isTextline": "true",
+        "confidence": 0.815
+      },
+      {
+        "boundingBox": [
+          [
+            2818,
+            396
+          ],
+          [
+            2818,
+            872
+          ],
+          [
+            2879,
+            396
+          ],
+          [
+            2879,
+            872
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "たうどくのたみと",
+        "isTextline": "true",
+        "confidence": 0.77
+      },
+      {
+        "boundingBox": [
+          [
+            2750,
+            641
+          ],
+          [
+            2750,
+            897
+          ],
+          [
+            2813,
+            641
+          ],
+          [
+            2813,
+            897
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "うまれて",
+        "isTextline": "true",
+        "confidence": 0.658
+      },
+      {
+        "boundingBox": [
+          [
+            2692,
+            745
+          ],
+          [
+            2692,
+            861
+          ],
+          [
+            2744,
+            745
+          ],
+          [
+            2744,
+            861
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "ざる",
+        "isTextline": "true",
+        "confidence": 0.41
+      },
+      {
+        "boundingBox": [
+          [
+            2705,
+            929
+          ],
+          [
+            2705,
+            1226
+          ],
+          [
+            2802,
+            929
+          ],
+          [
+            2802,
+            1226
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "拂郎基林",
+        "isTextline": "true",
+        "confidence": 0.79
+      },
+      {
+        "boundingBox": [
+          [
+            2400,
+            397
+          ],
+          [
+            2400,
+            518
+          ],
+          [
+            2518,
+            397
+          ],
+          [
+            2518,
+            518
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "めに",
+        "isTextline": "true",
+        "confidence": 0.323
+      },
+      {
+        "boundingBox": [
+          [
+            2624,
+            778
+          ],
+          [
+            2624,
+            1142
+          ],
+          [
+            2691,
+            778
+          ],
+          [
+            2691,
+            1142
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "をりにおめ〳〵",
+        "isTextline": "true",
+        "confidence": 0.68
+      },
+      {
+        "boundingBox": [
+          [
+            2561,
+            815
+          ],
+          [
+            2561,
+            1125
+          ],
+          [
+            2624,
+            815
+          ],
+          [
+            2624,
+            1125
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "見るにしの",
+        "isTextline": "true",
+        "confidence": 0.634
+      },
+      {
+        "boundingBox": [
+          [
+            2492,
+            829
+          ],
+          [
+            2492,
+            1102
+          ],
+          [
+            2561,
+            829
+          ],
+          [
+            2561,
+            1102
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "ばんやその",
+        "isTextline": "true",
+        "confidence": 0.618
+      },
+      {
+        "boundingBox": [
+          [
+            2414,
+            846
+          ],
+          [
+            2414,
+            1062
+          ],
+          [
+            2493,
+            846
+          ],
+          [
+            2493,
+            1062
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "ときに",
+        "isTextline": "true",
+        "confidence": 0.669
+      },
+      {
+        "boundingBox": [
+          [
+            4059,
+            2754
+          ],
+          [
+            4059,
+            3018
+          ],
+          [
+            4134,
+            2754
+          ],
+          [
+            4134,
+            3018
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "武ぶを",
+        "isTextline": "true",
+        "confidence": 0.689
+      },
+      {
+        "boundingBox": [
+          [
+            3940,
+            2845
+          ],
+          [
+            3940,
+            3008
+          ],
+          [
+            4009,
+            2845
+          ],
+          [
+            4009,
+            3008
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "軍陣",
+        "isTextline": "true",
+        "confidence": 0.599
+      },
+      {
+        "boundingBox": [
+          [
+            3870,
+            2841
+          ],
+          [
+            3870,
+            2985
+          ],
+          [
+            3938,
+            2841
+          ],
+          [
+            3938,
+            2985
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "の",
+        "isTextline": "true",
+        "confidence": 0.544
+      },
+      {
+        "boundingBox": [
+          [
+            3818,
+            2873
+          ],
+          [
+            3818,
+            3014
+          ],
+          [
+            3874,
+            2873
+          ],
+          [
+            3874,
+            3014
+          ]
+        ],
+        "id": 34,
+        "isVertical": "true",
+        "text": "かけ",
+        "isTextline": "true",
+        "confidence": 0.356
+      },
+      {
+        "boundingBox": [
+          [
+            3760,
+            2840
+          ],
+          [
+            3760,
+            3019
+          ],
+          [
+            3822,
+            2840
+          ],
+          [
+            3822,
+            3019
+          ]
+        ],
+        "id": 35,
+        "isVertical": "true",
+        "text": "ひきを",
+        "isTextline": "true",
+        "confidence": 0.631
+      },
+      {
+        "boundingBox": [
+          [
+            3697,
+            2809
+          ],
+          [
+            3697,
+            3032
+          ],
+          [
+            3756,
+            2809
+          ],
+          [
+            3756,
+            3032
+          ]
+        ],
+        "id": 36,
+        "isVertical": "true",
+        "text": "もつぱら",
+        "isTextline": "true",
+        "confidence": 0.695
+      },
+      {
+        "boundingBox": [
+          [
+            3625,
+            2789
+          ],
+          [
+            3625,
+            3010
+          ],
+          [
+            3692,
+            2789
+          ],
+          [
+            3692,
+            3010
+          ]
+        ],
+        "id": 37,
+        "isVertical": "true",
+        "text": "にちやう",
+        "isTextline": "true",
+        "confidence": 0.645
+      },
+      {
+        "boundingBox": [
+          [
+            3575,
+            2817
+          ],
+          [
+            3575,
+            3013
+          ],
+          [
+            3626,
+            2817
+          ],
+          [
+            3626,
+            3013
+          ]
+        ],
+        "id": 38,
+        "isVertical": "true",
+        "text": "れんし",
+        "isTextline": "true",
+        "confidence": 0.575
+      },
+      {
+        "boundingBox": [
+          [
+            3512,
+            2822
+          ],
+          [
+            3512,
+            3021
+          ],
+          [
+            3571,
+            2822
+          ],
+          [
+            3571,
+            3021
+          ]
+        ],
+        "id": 39,
+        "isVertical": "true",
+        "text": "しうと",
+        "isTextline": "true",
+        "confidence": 0.694
+      },
+      {
+        "boundingBox": [
+          [
+            3461,
+            2889
+          ],
+          [
+            3461,
+            3036
+          ],
+          [
+            3515,
+            2889
+          ],
+          [
+            3515,
+            3036
+          ]
+        ],
+        "id": 40,
+        "isVertical": "true",
+        "text": "がとし",
+        "isTextline": "true",
+        "confidence": 0.494
+      },
+      {
+        "boundingBox": [
+          [
+            3277,
+            2899
+          ],
+          [
+            3277,
+            3018
+          ],
+          [
+            3321,
+            2899
+          ],
+          [
+            3321,
+            3018
+          ]
+        ],
+        "id": 41,
+        "isVertical": "true",
+        "text": "たく",
+        "isTextline": "true",
+        "confidence": 0.407
+      },
+      {
+        "boundingBox": [
+          [
+            3208,
+            2853
+          ],
+          [
+            3208,
+            3031
+          ],
+          [
+            3270,
+            2853
+          ],
+          [
+            3270,
+            3031
+          ]
+        ],
+        "id": 42,
+        "isVertical": "true",
+        "text": "はへたる",
+        "isTextline": "true",
+        "confidence": 0.619
+      },
+      {
+        "boundingBox": [
+          [
+            3139,
+            2753
+          ],
+          [
+            3139,
+            2993
+          ],
+          [
+            3203,
+            2753
+          ],
+          [
+            3203,
+            2993
+          ]
+        ],
+        "id": 43,
+        "isVertical": "true",
+        "text": "かのんもる",
+        "isTextline": "true",
+        "confidence": 0.628
+      },
+      {
+        "boundingBox": [
+          [
+            3071,
+            2813
+          ],
+          [
+            3071,
+            3036
+          ],
+          [
+            3137,
+            2813
+          ],
+          [
+            3137,
+            3036
+          ]
+        ],
+        "id": 44,
+        "isVertical": "true",
+        "text": "ちいる",
+        "isTextline": "true",
+        "confidence": 0.704
+      },
+      {
+        "boundingBox": [
+          [
+            1652,
+            336
+          ],
+          [
+            1652,
+            545
+          ],
+          [
+            1717,
+            336
+          ],
+          [
+            1717,
+            545
+          ]
+        ],
+        "id": 45,
+        "isVertical": "true",
+        "text": "のぞみ",
+        "isTextline": "true",
+        "confidence": 0.66
+      },
+      {
+        "boundingBox": [
+          [
+            1581,
+            335
+          ],
+          [
+            1581,
+            603
+          ],
+          [
+            1653,
+            335
+          ],
+          [
+            1653,
+            603
+          ]
+        ],
+        "id": 46,
+        "isVertical": "true",
+        "text": "なばくにの",
+        "isTextline": "true",
+        "confidence": 0.696
+      },
+      {
+        "boundingBox": [
+          [
+            1410,
+            344
+          ],
+          [
+            1410,
+            782
+          ],
+          [
+            1471,
+            344
+          ],
+          [
+            1471,
+            782
+          ]
+        ],
+        "id": 47,
+        "isVertical": "true",
+        "text": "ことなからしめんと",
+        "isTextline": "true",
+        "confidence": 0.774
+      },
+      {
+        "boundingBox": [
+          [
+            1282,
+            348
+          ],
+          [
+            1282,
+            822
+          ],
+          [
+            1351,
+            348
+          ],
+          [
+            1351,
+            822
+          ]
+        ],
+        "id": 48,
+        "isVertical": "true",
+        "text": "ひまあるごとによび",
+        "isTextline": "true",
+        "confidence": 0.823
+      },
+      {
+        "boundingBox": [
+          [
+            1212,
+            347
+          ],
+          [
+            1212,
+            601
+          ],
+          [
+            1283,
+            347
+          ],
+          [
+            1283,
+            601
+          ]
+        ],
+        "id": 49,
+        "isVertical": "true",
+        "text": "つどへ矢い",
+        "isTextline": "true",
+        "confidence": 0.72
+      },
+      {
+        "boundingBox": [
+          [
+            1526,
+            337
+          ],
+          [
+            1526,
+            675
+          ],
+          [
+            1591,
+            337
+          ],
+          [
+            1591,
+            675
+          ]
+        ],
+        "id": 50,
+        "isVertical": "true",
+        "text": "ためにあだを",
+        "isTextline": "true",
+        "confidence": 0.77
+      },
+      {
+        "boundingBox": [
+          [
+            1466,
+            339
+          ],
+          [
+            1466,
+            772
+          ],
+          [
+            1530,
+            339
+          ],
+          [
+            1530,
+            772
+          ]
+        ],
+        "id": 51,
+        "isVertical": "true",
+        "text": "ふせぎおりさるゝ",
+        "isTextline": "true",
+        "confidence": 0.815
+      },
+      {
+        "boundingBox": [
+          [
+            1351,
+            339
+          ],
+          [
+            1351,
+            940
+          ],
+          [
+            1417,
+            339
+          ],
+          [
+            1417,
+            940
+          ]
+        ],
+        "id": 52,
+        "isVertical": "true",
+        "text": "むら〳〵のわかものばらを",
+        "isTextline": "true",
+        "confidence": 0.767
+      },
+      {
+        "boundingBox": [
+          [
+            1139,
+            341
+          ],
+          [
+            1139,
+            710
+          ],
+          [
+            1206,
+            341
+          ],
+          [
+            1206,
+            710
+          ]
+        ],
+        "id": 53,
+        "isVertical": "true",
+        "text": "をだんじ太郎",
+        "isTextline": "true",
+        "confidence": 0.672
+      },
+      {
+        "boundingBox": [
+          [
+            1054,
+            380
+          ],
+          [
+            1054,
+            513
+          ],
+          [
+            1102,
+            380
+          ],
+          [
+            1102,
+            513
+          ]
+        ],
+        "id": 54,
+        "isVertical": "true",
+        "text": "□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.382
+      },
+      {
+        "boundingBox": [
+          [
+            933,
+            387
+          ],
+          [
+            933,
+            443
+          ],
+          [
+            988,
+            387
+          ],
+          [
+            988,
+            443
+          ]
+        ],
+        "id": 55,
+        "isVertical": "true",
+        "text": "ま",
+        "isTextline": "true",
+        "confidence": 0.331
+      },
+      {
+        "boundingBox": [
+          [
+            2011,
+            1377
+          ],
+          [
+            2011,
+            1687
+          ],
+          [
+            2076,
+            1377
+          ],
+          [
+            2076,
+            1687
+          ]
+        ],
+        "id": 56,
+        "isVertical": "true",
+        "text": "きなんどの",
+        "isTextline": "true",
+        "confidence": 0.687
+      },
+      {
+        "boundingBox": [
+          [
+            1947,
+            1320
+          ],
+          [
+            1947,
+            1689
+          ],
+          [
+            2012,
+            1320
+          ],
+          [
+            2012,
+            1689
+          ]
+        ],
+        "id": 57,
+        "isVertical": "true",
+        "text": "大つゝあるひは",
+        "isTextline": "true",
+        "confidence": 0.8
+      },
+      {
+        "boundingBox": [
+          [
+            1884,
+            1294
+          ],
+          [
+            1884,
+            1690
+          ],
+          [
+            1952,
+            1294
+          ],
+          [
+            1952,
+            1690
+          ]
+        ],
+        "id": 58,
+        "isVertical": "true",
+        "text": "ぼんべんけんつき",
+        "isTextline": "true",
+        "confidence": 0.814
+      },
+      {
+        "boundingBox": [
+          [
+            1823,
+            1284
+          ],
+          [
+            1823,
+            1674
+          ],
+          [
+            1887,
+            1284
+          ],
+          [
+            1887,
+            1674
+          ]
+        ],
+        "id": 59,
+        "isVertical": "true",
+        "text": "でつぽうさま〴〵",
+        "isTextline": "true",
+        "confidence": 0.775
+      },
+      {
+        "boundingBox": [
+          [
+            1764,
+            1307
+          ],
+          [
+            1764,
+            1649
+          ],
+          [
+            1826,
+            1307
+          ],
+          [
+            1826,
+            1649
+          ]
+        ],
+        "id": 60,
+        "isVertical": "true",
+        "text": "の兵器抔",
+        "isTextline": "true",
+        "confidence": 0.774
+      },
+      {
+        "boundingBox": [
+          [
+            1701,
+            1346
+          ],
+          [
+            1701,
+            1635
+          ],
+          [
+            1763,
+            1346
+          ],
+          [
+            1763,
+            1635
+          ]
+        ],
+        "id": 61,
+        "isVertical": "true",
+        "text": "あつめみづ",
+        "isTextline": "true",
+        "confidence": 0.755
+      },
+      {
+        "boundingBox": [
+          [
+            1644,
+            1344
+          ],
+          [
+            1644,
+            1626
+          ],
+          [
+            1701,
+            1344
+          ],
+          [
+            1701,
+            1626
+          ]
+        ],
+        "id": 62,
+        "isVertical": "true",
+        "text": "からこれを",
+        "isTextline": "true",
+        "confidence": 0.742
+      },
+      {
+        "boundingBox": [
+          [
+            1816,
+            1733
+          ],
+          [
+            1816,
+            1917
+          ],
+          [
+            1879,
+            1733
+          ],
+          [
+            1879,
+            1917
+          ]
+        ],
+        "id": 63,
+        "isVertical": "true",
+        "text": "あし",
+        "isTextline": "true",
+        "confidence": 0.674
+      },
+      {
+        "boundingBox": [
+          [
+            1755,
+            1772
+          ],
+          [
+            1755,
+            1945
+          ],
+          [
+            1820,
+            1772
+          ],
+          [
+            1820,
+            1945
+          ]
+        ],
+        "id": 64,
+        "isVertical": "true",
+        "text": "ぞろへ",
+        "isTextline": "true",
+        "confidence": 0.671
+      },
+      {
+        "boundingBox": [
+          [
+            1686,
+            1746
+          ],
+          [
+            1686,
+            2025
+          ],
+          [
+            1758,
+            1746
+          ],
+          [
+            1758,
+            2025
+          ]
+        ],
+        "id": 65,
+        "isVertical": "true",
+        "text": "にそのふの",
+        "isTextline": "true",
+        "confidence": 0.727
+      },
+      {
+        "boundingBox": [
+          [
+            1586,
+            1342
+          ],
+          [
+            1586,
+            1631
+          ],
+          [
+            1643,
+            1342
+          ],
+          [
+            1643,
+            1631
+          ]
+        ],
+        "id": 66,
+        "isVertical": "true",
+        "text": "こゝろみて",
+        "isTextline": "true",
+        "confidence": 0.712
+      },
+      {
+        "boundingBox": [
+          [
+            1525,
+            1295
+          ],
+          [
+            1525,
+            1636
+          ],
+          [
+            1589,
+            1295
+          ],
+          [
+            1589,
+            1636
+          ]
+        ],
+        "id": 67,
+        "isVertical": "true",
+        "text": "あまたのもの",
+        "isTextline": "true",
+        "confidence": 0.796
+      },
+      {
+        "boundingBox": [
+          [
+            1462,
+            1266
+          ],
+          [
+            1462,
+            1625
+          ],
+          [
+            1526,
+            1266
+          ],
+          [
+            1526,
+            1625
+          ]
+        ],
+        "id": 68,
+        "isVertical": "true",
+        "text": "にしなんせり",
+        "isTextline": "true",
+        "confidence": 0.782
+      },
+      {
+        "boundingBox": [
+          [
+            1342,
+            1201
+          ],
+          [
+            1342,
+            1667
+          ],
+          [
+            1408,
+            1201
+          ],
+          [
+            1408,
+            1667
+          ]
+        ],
+        "id": 69,
+        "isVertical": "true",
+        "text": "サがしはいのひやく",
+        "isTextline": "true",
+        "confidence": 0.726
+      },
+      {
+        "boundingBox": [
+          [
+            1285,
+            1215
+          ],
+          [
+            1285,
+            1628
+          ],
+          [
+            1345,
+            1215
+          ],
+          [
+            1345,
+            1628
+          ]
+        ],
+        "id": 70,
+        "isVertical": "true",
+        "text": "ぜうばらはみな",
+        "isTextline": "true",
+        "confidence": 0.731
+      },
+      {
+        "boundingBox": [
+          [
+            1171,
+            1231
+          ],
+          [
+            1171,
+            1737
+          ],
+          [
+            1234,
+            1231
+          ],
+          [
+            1234,
+            1737
+          ]
+        ],
+        "id": 71,
+        "isVertical": "true",
+        "text": "がでしとなりて兵へ",
+        "isTextline": "true",
+        "confidence": 0.765
+      },
+      {
+        "boundingBox": [
+          [
+            806,
+            1287
+          ],
+          [
+            806,
+            1864
+          ],
+          [
+            873,
+            1287
+          ],
+          [
+            873,
+            1864
+          ]
+        ],
+        "id": 72,
+        "isVertical": "true",
+        "text": "いとまにはマヂサが",
+        "isTextline": "true",
+        "confidence": 0.83
+      },
+      {
+        "boundingBox": [
+          [
+            739,
+            1285
+          ],
+          [
+            739,
+            1852
+          ],
+          [
+            807,
+            1285
+          ],
+          [
+            807,
+            1852
+          ]
+        ],
+        "id": 73,
+        "isVertical": "true",
+        "text": "やしきのそのにあつ",
+        "isTextline": "true",
+        "confidence": 0.861
+      },
+      {
+        "boundingBox": [
+          [
+            678,
+            1296
+          ],
+          [
+            678,
+            1858
+          ],
+          [
+            738,
+            1296
+          ],
+          [
+            738,
+            1858
+          ]
+        ],
+        "id": 74,
+        "isVertical": "true",
+        "text": "まりその事にのみ",
+        "isTextline": "true",
+        "confidence": 0.806
+      },
+      {
+        "boundingBox": [
+          [
+            612,
+            1280
+          ],
+          [
+            612,
+            1879
+          ],
+          [
+            681,
+            1280
+          ],
+          [
+            681,
+            1879
+          ]
+        ],
+        "id": 75,
+        "isVertical": "true",
+        "text": "こゝろをゆだねてけふも",
+        "isTextline": "true",
+        "confidence": 0.847
+      },
+      {
+        "boundingBox": [
+          [
+            550,
+            1277
+          ],
+          [
+            550,
+            1840
+          ],
+          [
+            613,
+            1277
+          ],
+          [
+            613,
+            1840
+          ]
+        ],
+        "id": 76,
+        "isVertical": "true",
+        "text": "たがやしのいとまとて",
+        "isTextline": "true",
+        "confidence": 0.825
+      },
+      {
+        "boundingBox": [
+          [
+            1401,
+            1216
+          ],
+          [
+            1401,
+            1671
+          ],
+          [
+            1467,
+            1216
+          ],
+          [
+            1467,
+            1671
+          ]
+        ],
+        "id": 77,
+        "isVertical": "true",
+        "text": "かゝるほどにマヂ",
+        "isTextline": "true",
+        "confidence": 0.724
+      },
+      {
+        "boundingBox": [
+          [
+            1228,
+            1232
+          ],
+          [
+            1228,
+            1730
+          ],
+          [
+            1294,
+            1232
+          ],
+          [
+            1294,
+            1730
+          ]
+        ],
+        "id": 78,
+        "isVertical": "true",
+        "text": "こと〳〵くあらだむす",
+        "isTextline": "true",
+        "confidence": 0.774
+      },
+      {
+        "boundingBox": [
+          [
+            1108,
+            1239
+          ],
+          [
+            1108,
+            1802
+          ],
+          [
+            1175,
+            1239
+          ],
+          [
+            1175,
+            1802
+          ]
+        ],
+        "id": 79,
+        "isVertical": "true",
+        "text": "ねるにいまは一軍謡の",
+        "isTextline": "true",
+        "confidence": 0.834
+      },
+      {
+        "boundingBox": [
+          [
+            1049,
+            1260
+          ],
+          [
+            1049,
+            1796
+          ],
+          [
+            1110,
+            1260
+          ],
+          [
+            1110,
+            1796
+          ]
+        ],
+        "id": 80,
+        "isVertical": "true",
+        "text": "そなへまつたへなりて",
+        "isTextline": "true",
+        "confidence": 0.801
+      },
+      {
+        "boundingBox": [
+          [
+            990,
+            1263
+          ],
+          [
+            990,
+            1808
+          ],
+          [
+            1050,
+            1263
+          ],
+          [
+            1050,
+            1808
+          ]
+        ],
+        "id": 81,
+        "isVertical": "true",
+        "text": "せんじやうにいづるとも",
+        "isTextline": "true",
+        "confidence": 0.812
+      },
+      {
+        "boundingBox": [
+          [
+            935,
+            1275
+          ],
+          [
+            935,
+            1814
+          ],
+          [
+            995,
+            1275
+          ],
+          [
+            995,
+            1814
+          ]
+        ],
+        "id": 82,
+        "isVertical": "true",
+        "text": "はつべきものはなかり",
+        "isTextline": "true",
+        "confidence": 0.803
+      },
+      {
+        "boundingBox": [
+          [
+            869,
+            1278
+          ],
+          [
+            869,
+            1862
+          ],
+          [
+            936,
+            1278
+          ],
+          [
+            936,
+            1862
+          ]
+        ],
+        "id": 83,
+        "isVertical": "true",
+        "text": "けるにぞのうぎやうの",
+        "isTextline": "true",
+        "confidence": 0.835
+      },
+      {
+        "boundingBox": [
+          [
+            1632,
+            1766
+          ],
+          [
+            1632,
+            2076
+          ],
+          [
+            1694,
+            1766
+          ],
+          [
+            1694,
+            2076
+          ]
+        ],
+        "id": 84,
+        "isVertical": "true",
+        "text": "うちはかま",
+        "isTextline": "true",
+        "confidence": 0.647
+      },
+      {
+        "boundingBox": [
+          [
+            1570,
+            1766
+          ],
+          [
+            1570,
+            2070
+          ],
+          [
+            1638,
+            1766
+          ],
+          [
+            1638,
+            2070
+          ]
+        ],
+        "id": 85,
+        "isVertical": "true",
+        "text": "びすくいと",
+        "isTextline": "true",
+        "confidence": 0.723
+      },
+      {
+        "boundingBox": [
+          [
+            1509,
+            1784
+          ],
+          [
+            1509,
+            2096
+          ],
+          [
+            1575,
+            1784
+          ],
+          [
+            1575,
+            2096
+          ]
+        ],
+        "id": 86,
+        "isVertical": "true",
+        "text": "にぎはへる",
+        "isTextline": "true",
+        "confidence": 0.717
+      },
+      {
+        "boundingBox": [
+          [
+            1452,
+            1772
+          ],
+          [
+            1452,
+            2122
+          ],
+          [
+            1518,
+            1772
+          ],
+          [
+            1518,
+            2122
+          ]
+        ],
+        "id": 87,
+        "isVertical": "true",
+        "text": "をりしもあれ",
+        "isTextline": "true",
+        "confidence": 0.768
+      },
+      {
+        "boundingBox": [
+          [
+            1393,
+            1778
+          ],
+          [
+            1393,
+            2135
+          ],
+          [
+            1457,
+            1778
+          ],
+          [
+            1457,
+            2135
+          ]
+        ],
+        "id": 88,
+        "isVertical": "true",
+        "text": "ういるりあむ",
+        "isTextline": "true",
+        "confidence": 0.749
+      },
+      {
+        "boundingBox": [
+          [
+            1333,
+            1797
+          ],
+          [
+            1333,
+            2092
+          ],
+          [
+            1394,
+            1797
+          ],
+          [
+            1394,
+            2092
+          ]
+        ],
+        "id": 89,
+        "isVertical": "true",
+        "text": "ひゆるくの",
+        "isTextline": "true",
+        "confidence": 0.776
+      },
+      {
+        "boundingBox": [
+          [
+            1269,
+            1816
+          ],
+          [
+            1269,
+            2187
+          ],
+          [
+            1334,
+            1816
+          ],
+          [
+            1334,
+            2187
+          ]
+        ],
+        "id": 90,
+        "isVertical": "true",
+        "text": "ふらんきりん",
+        "isTextline": "true",
+        "confidence": 0.751
+      },
+      {
+        "boundingBox": [
+          [
+            1214,
+            1889
+          ],
+          [
+            1214,
+            2189
+          ],
+          [
+            1274,
+            1889
+          ],
+          [
+            1274,
+            2189
+          ]
+        ],
+        "id": 91,
+        "isVertical": "true",
+        "text": "はたうちに",
+        "isTextline": "true",
+        "confidence": 0.764
+      },
+      {
+        "boundingBox": [
+          [
+            1157,
+            1883
+          ],
+          [
+            1157,
+            2217
+          ],
+          [
+            1215,
+            1883
+          ],
+          [
+            1215,
+            2217
+          ]
+        ],
+        "id": 92,
+        "isVertical": "true",
+        "text": "いさゝかしよ",
+        "isTextline": "true",
+        "confidence": 0.772
+      },
+      {
+        "boundingBox": [
+          [
+            1102,
+            1918
+          ],
+          [
+            1102,
+            2246
+          ],
+          [
+            1160,
+            1918
+          ],
+          [
+            1160,
+            2246
+          ]
+        ],
+        "id": 93,
+        "isVertical": "true",
+        "text": "ようありて",
+        "isTextline": "true",
+        "confidence": 0.756
+      },
+      {
+        "boundingBox": [
+          [
+            1044,
+            1924
+          ],
+          [
+            1044,
+            2297
+          ],
+          [
+            1106,
+            1924
+          ],
+          [
+            1106,
+            2297
+          ]
+        ],
+        "id": 94,
+        "isVertical": "true",
+        "text": "このところを",
+        "isTextline": "true",
+        "confidence": 0.769
+      },
+      {
+        "boundingBox": [
+          [
+            984,
+            1925
+          ],
+          [
+            984,
+            2299
+          ],
+          [
+            1048,
+            1925
+          ],
+          [
+            1048,
+            2299
+          ]
+        ],
+        "id": 95,
+        "isVertical": "true",
+        "text": "うちすぐるに",
+        "isTextline": "true",
+        "confidence": 0.79
+      },
+      {
+        "boundingBox": [
+          [
+            865,
+            1962
+          ],
+          [
+            865,
+            2424
+          ],
+          [
+            930,
+            1962
+          ],
+          [
+            930,
+            2424
+          ]
+        ],
+        "id": 96,
+        "isVertical": "true",
+        "text": "のかまへのうちに",
+        "isTextline": "true",
+        "confidence": 0.804
+      },
+      {
+        "boundingBox": [
+          [
+            799,
+            1966
+          ],
+          [
+            799,
+            2437
+          ],
+          [
+            865,
+            1966
+          ],
+          [
+            865,
+            2437
+          ]
+        ],
+        "id": 97,
+        "isVertical": "true",
+        "text": "ちやうれんのおと",
+        "isTextline": "true",
+        "confidence": 0.803
+      },
+      {
+        "boundingBox": [
+          [
+            742,
+            1990
+          ],
+          [
+            742,
+            2446
+          ],
+          [
+            807,
+            1990
+          ],
+          [
+            807,
+            2446
+          ]
+        ],
+        "id": 98,
+        "isVertical": "true",
+        "text": "しきりなるにぞ",
+        "isTextline": "true",
+        "confidence": 0.817
+      },
+      {
+        "boundingBox": [
+          [
+            678,
+            1990
+          ],
+          [
+            678,
+            2432
+          ],
+          [
+            743,
+            1990
+          ],
+          [
+            743,
+            2432
+          ]
+        ],
+        "id": 99,
+        "isVertical": "true",
+        "text": "もとより二のめる",
+        "isTextline": "true",
+        "confidence": 0.806
+      },
+      {
+        "boundingBox": [
+          [
+            615,
+            1998
+          ],
+          [
+            615,
+            2443
+          ],
+          [
+            681,
+            1998
+          ],
+          [
+            681,
+            2443
+          ]
+        ],
+        "id": 100,
+        "isVertical": "true",
+        "text": "みちなればたち",
+        "isTextline": "true",
+        "confidence": 0.806
+      },
+      {
+        "boundingBox": [
+          [
+            553,
+            2011
+          ],
+          [
+            553,
+            2438
+          ],
+          [
+            616,
+            2011
+          ],
+          [
+            616,
+            2438
+          ]
+        ],
+        "id": 101,
+        "isVertical": "true",
+        "text": "とゞまりてついぢ",
+        "isTextline": "true",
+        "confidence": 0.779
+      },
+      {
+        "boundingBox": [
+          [
+            927,
+            1953
+          ],
+          [
+            927,
+            2388
+          ],
+          [
+            983,
+            1953
+          ],
+          [
+            983,
+            2388
+          ]
+        ],
+        "id": 102,
+        "isVertical": "true",
+        "text": "マチサがやしき",
+        "isTextline": "true",
+        "confidence": 0.782
+      },
+      {
+        "boundingBox": [
+          [
+            485,
+            1301
+          ],
+          [
+            485,
+            1925
+          ],
+          [
+            549,
+            1301
+          ],
+          [
+            549,
+            1925
+          ]
+        ],
+        "id": 103,
+        "isVertical": "true",
+        "text": "むら〳〵のわかものばら",
+        "isTextline": "true",
+        "confidence": 0.795
+      },
+      {
+        "boundingBox": [
+          [
+            417,
+            1295
+          ],
+          [
+            417,
+            1976
+          ],
+          [
+            489,
+            1295
+          ],
+          [
+            489,
+            1976
+          ]
+        ],
+        "id": 104,
+        "isVertical": "true",
+        "text": "あつまりきたりて炮略不申",
+        "isTextline": "true",
+        "confidence": 0.81
+      },
+      {
+        "boundingBox": [
+          [
+            351,
+            1352
+          ],
+          [
+            351,
+            1974
+          ],
+          [
+            416,
+            1352
+          ],
+          [
+            416,
+            1974
+          ]
+        ],
+        "id": 105,
+        "isVertical": "true",
+        "text": "をこゝろみぢんおしの",
+        "isTextline": "true",
+        "confidence": 0.774
+      },
+      {
+        "boundingBox": [
+          [
+            496,
+            2074
+          ],
+          [
+            496,
+            2451
+          ],
+          [
+            558,
+            2074
+          ],
+          [
+            558,
+            2451
+          ]
+        ],
+        "id": 106,
+        "isVertical": "true",
+        "text": "のうちをさし",
+        "isTextline": "true",
+        "confidence": 0.786
+      },
+      {
+        "boundingBox": [
+          [
+            429,
+            2068
+          ],
+          [
+            429,
+            2470
+          ],
+          [
+            495,
+            2068
+          ],
+          [
+            495,
+            2470
+          ]
+        ],
+        "id": 107,
+        "isVertical": "true",
+        "text": "のぞき目ばたき",
+        "isTextline": "true",
+        "confidence": 0.747
+      },
+      {
+        "boundingBox": [
+          [
+            357,
+            2101
+          ],
+          [
+            357,
+            2470
+          ],
+          [
+            426,
+            2101
+          ],
+          [
+            426,
+            2470
+          ]
+        ],
+        "id": 108,
+        "isVertical": "true",
+        "text": "もせずつぎん",
+        "isTextline": "true",
+        "confidence": 0.632
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 4540,
+    "img_height": 4077,
+    "img_path": "童絵解万国噺 (1861) - NDL 207-1695/vol4/p0020.jpg",
+    "img_name": "p0020.jpg"
+  }
+}

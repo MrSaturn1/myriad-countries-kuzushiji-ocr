@@ -1,0 +1,13 @@
+## R
+[caption] 童繪解萬國噺《をさなゑときばんこくばなし》
+[caption] 上
+[caption] 錦橋堂壽梓
+## L
+[caption] 貳編《にへん》
+[caption] 假名垣魯文譯
+[caption] 一孟齋芳虎画
+[caption] 下
+## order
+R title → R 上 label → R publisher → L 貳編 → L author/artist credits → L 下 label
+## notes
+Colour title spread for part 2 of the book, showing a Western man holding a scroll (right) and a Western woman in a crinoline dress and bonnet (left), with credits to Kanagaki Robun (translation), Ichimōsai Yoshitora (pictures) and the publisher Kinkyōdō; the 上/下 roundels mark the upper and lower volumes. Furigana on 童 and 貳 are small and partly uncertain.

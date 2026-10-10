@@ -1,0 +1,88 @@
+## R
+[margin] 万国四
+[margin] 五
+[caption] 加礼留
+[caption] 拂郎基林
+[caption] 話聖東
+[main] 【つゞき】さきにたちあがりうながすほどにわしん
+とんもすこしくつかれをおぼゆるにさいはひなりと
+あとにつきやまぢをさしてゆくほどに十まち
+ばかりもきたりしとおもふをりからむかひのやま
+よりそのせいおよそ十四五人かたにてつぽう
+うちかたげこなたをさしてくる
+ものありちかづ〔くまゝ?〕にふらん
+きりんこれをうち見ていもと
+にむかひ「かしこへきたるあまたの
+ものゝさきにたちしはちゝぎみ
+なるぞさてはそなたをあんじ
+給ひてさとのうちなるひとを
+やとひてたづねにきたらせ給ひし
+にたがひあらじといふ
+うちにかのおほぜいの
+ひと〴〵はほどなく
+こゝにきたれるにふらん
+きりんがいひしにたがはず
+そのさきにたちたるは
+きやうだいがちゝにして
+こゝにふたりのゐたるを
+見るよりいとよろこば
+しきおもゝちにてその
+ゆへをたづぬる
+にぞふらん▲
+[main] ▲き
+〔りん?〕
+〔うぢ?〕の
+ほこ
+らの
+うち
+に
+つや
+なして
+わしん
+とんおよび
+いもとにまで
+めぐりあひ
+たることよりして
+いもとのきなん
+をわしんとんに
+すくはれたることおよび
+かつはよんべわしん
+とんがかくまく
+ざんのはんふく
+にてえうくわいを
+たいぢなしたるゆう
+もうゑいきをつぶ
+さにかたればちゝなる
+ものはまなむすめ
+## L
+[margin] 万国四
+[margin] 六
+[caption] ふらんぼれす
+[caption] (pseudo-Roman decorative lettering on the gate arch; not transcribed)
+[main] のつゝが
+なきを
+うち
+よろ
+こび
+わしん
+とんに
+あつくしやし
+したがへきた
+れるさと
+びとには
+かくまく
+ざんにて
+わしん
+とんが
+よんべ
+うち
+とめ
+〔け?〕
+し
+と
+いへ
+る【つゞく】
+## order
+R top つゞき … ▲ → R bottom ▲ → L bottom つゞく; labels on figures
+## notes
+Franklin, his sister and Washington set off; Franklin recognises their father Franboresu leading 14–15 armed villagers searching for her, and Franklin tells him of the sister's rescue by Washington and of Washington's slaying of the monster at "Kakumakuzan"; the father thanks Washington warmly. Labels name 加礼留 (Franklin's sister), 拂郎基林 (Franklin), 話聖東 (Washington), ふらんぼれす. Unsure: ちかづくまゝに (row 7), the 2–3 faint characters after ▲き in the R bottom block, and the last words before つゞく (うちとめ〔け?〕しといへる).

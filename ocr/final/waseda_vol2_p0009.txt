@@ -1,0 +1,63 @@
+## R
+[margin] 万国三
+[margin] 五
+[main] つゞき くわんじとうちわらひみな〳〵にうちむかひ
+〽なんぢらなんぞくにの〔先?〕王のめぐみをおもはざる
+ちうぎのためにみなそこに身をとうずともそれ
+がしはいさゝかこれをうらみとせずしかれども
+われさきにてんが〔く?〕をもてにしのかたにせかい
+あるをしるゆへにおの〳〵をわづらはせりその日を
+ふることおほきをもておの〳〵〔吾?〕をのゝしらるゝはさらに
+むりとはおもはねど〔吾?〕いま三日をまたずしてしんせ
+かいを見すべきなりトゑすこへとるといへるげくわんに
+申つくるおもむきは〽そのはうほばしらのうへにのぼり
+てにしのかたをのぞみ見てまんがいちはなれじまにても
+見つけなば大ごゑをはつしてわれにつげよとしか〳〵と
+めいじければゑすこへとるはかしこみてたゞちにほばしら
+のうへにのぼりてよものうなばらを見わたすにあまつ
+くものむかふところにくもかかすみと見ゆるものあり
+やがてとほめがねをあてゝ見るにはたしてしまなりと
+みとめたれば大ごゑはつしてさけぶやう〽これより
+ひつじさるのかたにあたりてしんせかい見へ候ト
+いふにおの〳〵これをきゝひとしくほばしら
+のうへにのぼりてかの
+かたをのぞみ見るに
+はたしてしまの見へ
+ければよろ▲
+[main] ▲こぶこと大かたならずやがてほばし
+らよりくだりきてころんがまへに
+はいしやしてさきのくわごんを
+わび〔け?〕ればころんわらひてこれを
+ゆるしやがてかのしまにふねを
+よせおかにのぼりこのしまの
+名を〔さ?〕んとさるはとるとぞな
+づけたりこれすなはちきた
+あめりか〔ふね?〕で
+〔た?〕こくのみなみに
+あるしまにぞ
+ありけるさても
+ころんは又
+このち
+より
+[caption] 一の巻へ
+## L
+[margin] 万国三
+[margin] 〔六?〕
+[margin] ○三
+[caption] 一の巻より
+[main] より
+みなみのかたにふね
+をやりてハイチじまを
+ゑてそれより一トまづくにゝかへりこ〔く?〕わうに
+まみへてしんせかいを見いだしたることをごんじやうなし
+そのゝちしば〳〵ハイチしまにわうらいしけるが後《ご》⊠
+[main] ⊠柏原
+〔きは?〕てんわうの
+永正〔寅?〕三年に
+あたりてはじめて
+そのほんちに
+[caption] つぎへ
+## order
+R top (つゞき) …ければよろ▲ → R bottom ▲こぶこと…ころんは又このちより → 一の巻へ box | L top 一の巻より box → より…しけるが後⊠ → L bottom ⊠柏原…そのほんちに → つぎへ box
+## notes
+Columbus (ころん) smiles at his mutinous crew, tells them he knows by his learning that a world lies to the west and promises they will see it within three days; he orders the officer Escobedo (ゑすこへとる) up the mast, who sights an island to the south-west through a telescope; the crew rejoice and apologise, Columbus forgives them, lands and names the island San Salvador (〔さ?〕んとさるはとる), an island south of North America; he then sails south, finds Haiti (ハイチ), returns to report the New World to the king, often travels back and forth to Haiti, and in Eishō 3 (1506) under Emperor Go-Kashiwabara (後柏原) first reaches the mainland (つぎへ → NDL vol3 p0009 "じやうりくすることをえたり"). The only scan of this leaf; uncertain spots: 〔先?〕王 (single kanji before 王, OCR あん/おん); てんが〔く?〕 (OCR てんがんつか; a ろ/う-like glyph); 〔吾?〕 twice (a コ+旦-like glyph that both OCRs read われ); 〔さ?〕んとさる (OCRs read し, but the glyph looks like さ); あめりか〔ふね?〕で〔た?〕こく (the glyph after ふ is not the ね used in めがね; it may be ろ (呂), so the text might mean Florida (ふろりだこく)); 〔きは?〕 after 柏原 (a kanji-like glyph and a small ハ); 永正〔寅?〕; the R box numeral reads 一 (the top stroke is the box frame), which agrees with the L box 一の巻より. The ⊠ marks stand for the printed boxed-cross continuation marks. Page numbers 五/六 are half cut by the binding (六 is unsure). The ○三 is a circled 三 at the top of the left page.

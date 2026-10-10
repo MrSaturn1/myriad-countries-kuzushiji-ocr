@@ -1,0 +1,49 @@
+## R
+[margin] 万国四
+[margin] 〔廿?〕
+[main] 〔つゞき〕みを
+つらねさま〴〵
+ともになされ
+ぬかくてきりん
+はあゝだむすと
+た〔か?〕どのゝうへにのぼりていまむかしのゑいゆうをろんじ
+文武《ぶんぶ》のみちをだんずるにけふはじめてのめんくわいも
+そのこゝろざしふかければ千里もが〔つ?〕べきふるきがごとく日のかた
+むくまでかたらひけるがふらんきりんはこゝろつきもはや日りん
+かたむけばまたこそおんめにかゝるべしといとまを
+つぐるにとゞめかねあゞむすふ〔う?〕ふの
+ものはかどべまでおくりいで
+さいくわいのごをちぎり
+つゝかたみにそでを
+わかちけり
+[main] ○第五へんはわしんとん
+あゝだむすふらんきりんの
+みたりのものきやうだいのぎをむすびて
+きたあめりか十三州をとぐりう国となさん
+とするよりひるぎにやにたみをつどへおの〳〵ちりやくを
+あらはすことかつそのあはひさま〴〵のちんせつきだんを
+つゞりいれ六七八とひきつゞきごらんにいれたてまつり候
+あひだあいかはらずおんもとめごかうらんねがひ
+あげたて
+まつり候
+作者ふして
+まうす
+[caption] 假名垣魯文作
+[caption] 一猛齋芳虎画
+[caption] 錦橋堂壽梓發行
+## L
+[margin] 天保六年未春發兌
+[main] 新編金瓶梅《しんへんきんべいばい》 第三集 第四集出板 第五集　曲亭馬琴作　香蝶樓國貞画
+金毘羅舩利生纜《こんひらふねりせうのともづな》 第九編 第十編　曲亭馬琴作　一勇齋國芳画
+風俗伊勢物語《いまやういせものがたり》 初編二編　東里山人作　五雲亭貞秀画
+昔模様娘評判記《むかしもやうむすめひやうばんき》 全六冊　山東庵京山作　香蝶樓國貞画
+■復曲輪達引《くるわのたてひき》 全四冊　京傳作　國芳画
+三國志画傳《さんごくしぐわでん》九編　一九作　國安画
+■■い いろの 美艶仙女香 一包 四十八銅 京橋南傳馬町三丁目西がは
+■そめ り 黒油美玄香 おなじく 坂本氏製
+江戸芝神明前三嶋町中程
+地本問屋 和泉屋市兵衛版
+## order
+R: つゞき column block → ○ author's note (第五へん announcement) → signature 作者ふしてまうす; credits and publisher strip. L: publisher's catalogue read right to left, header across the top.
+## notes
+Final page of this volume: Adams feasts Franklin, they talk of heroes past and present until sunset, Franklin takes his leave and Adams and his wife see him off; the author then announces that part 5 will tell how Washington, Adams and Franklin swear brotherhood, gather people in Virginia (ひるぎにや) and plan to make the thirteen states of North America independent, with parts 6-8 to follow; credits 仮名垣魯文 (text), 一猛斎芳虎 (pictures), 錦橋堂 (publisher). The left page is an older 和泉屋市兵衛 catalogue dated 天保六年 (1835) listing 金瓶梅, 金毘羅船利生纜 (馬琴), etc., plus cosmetic adverts (美艶仙女香, 黒油美玄香); a library label (207/4/1696) covers the top of the 曲輪達引 and advert columns (■). Unsure: た〔か?〕どの, 千里もが〔つ?〕べき, ふ〔う?〕ふ, page number.

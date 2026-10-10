@@ -1,0 +1,114 @@
+## R
+[margin] 万国初
+[margin] 十〔一?〕
+[caption] 帝の兄
+[caption] 帝の伯父
+[main]
+つゞき
+ちゝ王う〔せ?〕
+給ひみかどのおぢ〔君?〕
+まつりごとをおのがまゝ
+にせんとするこゝろ
+ありてひそかにくに
+のうちのものをかた
+らひらんをおこさ
+しめていとけなき
+みかどをほさ
+するのくわんに
+のぼりまつりごと
+をほしいまゝに
+つかさどるみかど
+とし十五さいの
+をりくにのうちを
+かたくそなへんと
+するこゝろあり十八
+の年おぢのむ
+ほんをくわだてん
+とするこゝろを
+さとりこれを
+とらへおしこめおく
+にかのおぢは
+〔みかどがしなん?〕
+に〔て?〕くらゐを
+△とりいだ
+させその
+ふね
+の
+つくり
+かたのきやう
+なるをみて
+かんしやう〔な?〕し
+はじめて大
+ぶねをつく
+りばんこくに
+わたらんと
+おもふ心を
+おこす
+しかれども
+おろしや
+のとちは
+いつほう
+〔う?〕み
+なるを
+もつて
+その
+ふねの
+よし
+〔あし?〕を
+## L
+[margin] 万国初
+[margin] 十二
+[main]
+〔ふまへ?〕しを〔ごとく?〕
+でみかどのあに
+をたてくら
+ゐにつける
+にぞ
+くにの
+うちにふたりのみかど
+ありしかれどもべいとるは
+ちりやくさいとくをかねたる
+ひとなればあにのくらゐ
+をけづりてはじめて
+おろ
+しや
+ぜんしうを
+か〔や?〕うせり
+みかどある
+ときほう
+ざうをひら
+いていぎり
+すより
+えたる
+おほ
+ぶね
+を△
+しるもの
+なくかつ又
+そのくにむかし
+よりいつそう
+のおほぶね
+をもつくり
+いだせし
+ことなけれ
+ばみかどゝ
+ともに
+そのふね
+を見たる
+ものども
+そのたくみ
+のふかき
+にあきれ
+てのぞみを
+たちなか〳〵
+このふねは
+ひととふり
+にてはつくる
+ことならず
+とあきら
+めおもふに
+みかどはつぎへ
+## order
+R top (つゞき) → L top ending △ → R bottom starting △ → L bottom ending つぎへ
+## notes
+Russia: after his father's death, Peter's (べいとる) uncle schemes to rule; at 18 Peter learns of the plot and confines him; the uncle had set Peter's elder brother on the throne so there were two emperors, but Peter deposes his brother and rules all Russia; opening the treasury he sees a great ship obtained from England (いぎりす), admires its construction and resolves to build ships and travel to all countries, but no one in Russia knows shipbuilding and his courtiers despair. Unsure: the columns either side of the gutter at the top (R "みかどがしなん / にてくらゐを", L "ふまへしをごとく") are worn and only partly legible; "かやうせり", "かんしやうなし", "うみ", "あしを" are best guesses.

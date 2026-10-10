@@ -1,0 +1,100 @@
+## R
+[margin] 万国四
+[margin] 六
+[caption] カレル
+[caption] 老母
+[caption] ワシントン
+[caption] フランボレス
+[caption] フランキリン
+[main] 【つゞき】かのえうくわいの
+せうたいを見とゞけしうへ
+やきすてよトげぢを
+つたへてかしこにつかはしおや
+とひとしくさきにたち
+わしんとんをしるべして
+ういるりひゆるく
+なるおのがいへぢに
+ともなひてかみくら
+にざをすゝめ老《らう》
+母《ぼ》にもかくと
+つけるにかないの
+よろこびひとかた
+ならずまづちう
+じきをまいらせん
+とだいのうへに
+ぬのをひきには
+とりゐのこ〔う?〕しの
+ちゝちやうるい
+けものをてうり
+してさけを
+いだしさかづき
+をしば〳〵
+すゝめて
+もてなす
+ほど
+に▲
+[main] △そこ
+さしのぞくに
+そのさまゐ
+ぎやうのへん
+げのものあを
+むけに
+た〔を?〕れ
+たるを見
+つけたりさて〔は?〕⊠
+## L
+[margin] 万国四
+[margin] 〔七?〕
+[main] ▲わ
+しん
+とんは
+おやこの
+ものゝせつなる
+こゝろをかんじ
+つゝうちくつろぎて
+しよくじせり
+[caption] 【つぎのゑとき】
+[main] ○これはさておきさと
+びとらはふらんきりん
+おやこのものがめいぜし
+まに〳〵うちつれててつ
+ぽうかたにうちかたげ
+かくまくざんのふもとに
+いたりわしんとんがしとめし
+ところのへんげのしがいを
+たづぬるにこゝらあたりの
+大木はこと〴〵くひきさけ
+〔て?〕がけのそばみちくづれ
+おちいとすさまじくあれ
+たるやうすにみな〳〵さこそと
+うちうなづきあたりのたに△
+[main] ⊠これぞとちかづきて
+よく〳〵見るにうへなるかしらのくちと
+おぼしきところはくだけしたなるかしら
+の目くちよりちしほながれてまつ
+たくにこときれたるやうすなれども
+さうなくはちかづきえず手にでに
+もせるてつぽうをあまたたび
+うちはなせどへんげはおきも
+あがらねばいまはちかより
+てしさいなしとそのほとり
+によりこぞりあたりの
+木のえだかきあつめ
+これにえんせうをそゝぎ
+かけ火をうつしてかの
+しがいをやきうしなはん
+とするといへどもその
+かばねきんてつにまさ
+りてほのをにつゝめど
+いつかなやけずかたち
+いぜんにかはらねば
+みな〳〵はせんかたつきて
+たをれし木の根をほり
+うがちそのあなをふかく
+なしつひにこれをうづめ
+つゝうちつれだちてうい
+るぐひゆるぐなる【つゞく】
+## order
+R top つゞき … ▲ → L top ▲ (to しよくじせり; box つぎのゑとき) → L top ○ … △ → R middle △ … ⊠ → L bottom ⊠ … つゞく
+## notes
+Franboresu has the monster's body sent to be burned and leads Washington to his home at "Uirri-hiyuruku", where his wife serves a Western meal (chicken, pork/beef?, milk, wine) and Washington relaxes; meanwhile the villagers find the two-headed monster's corpse in a ravine at Kakumakuzan, but it is iron-hard and will not burn, so they bury it under an uprooted tree and return to "Uirugu-hiyurugu". Labels: カレル, 老母, ワシントン, フランボレス, フランキリン. Unsure: こうし/ころし (row 19), たをれ/たはれ, さては, てがけ/とがけ; ⊠ is a boxed-X continuation mark; the box つぎのゑとき sits between the two L-top sections.

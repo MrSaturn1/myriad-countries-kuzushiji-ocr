@@ -1,0 +1,1687 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            3886,
+            569
+          ],
+          [
+            3886,
+            696
+          ],
+          [
+            4007,
+            569
+          ],
+          [
+            4007,
+            696
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "安",
+        "isTextline": "true",
+        "confidence": 0.575
+      },
+      {
+        "boundingBox": [
+          [
+            3733,
+            571
+          ],
+          [
+            3733,
+            695
+          ],
+          [
+            3864,
+            571
+          ],
+          [
+            3864,
+            695
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "政",
+        "isTextline": "true",
+        "confidence": 0.625
+      },
+      {
+        "boundingBox": [
+          [
+            3576,
+            576
+          ],
+          [
+            3576,
+            707
+          ],
+          [
+            3693,
+            576
+          ],
+          [
+            3693,
+            707
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "七",
+        "isTextline": "true",
+        "confidence": 0.634
+      },
+      {
+        "boundingBox": [
+          [
+            3412,
+            588
+          ],
+          [
+            3412,
+            740
+          ],
+          [
+            3551,
+            588
+          ],
+          [
+            3551,
+            740
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "庚",
+        "isTextline": "true",
+        "confidence": 0.731
+      },
+      {
+        "boundingBox": [
+          [
+            3278,
+            583
+          ],
+          [
+            3278,
+            734
+          ],
+          [
+            3389,
+            583
+          ],
+          [
+            3389,
+            734
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "申",
+        "isTextline": "true",
+        "confidence": 0.634
+      },
+      {
+        "boundingBox": [
+          [
+            3110,
+            595
+          ],
+          [
+            3110,
+            733
+          ],
+          [
+            3233,
+            595
+          ],
+          [
+            3233,
+            733
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "年",
+        "isTextline": "true",
+        "confidence": 0.661
+      },
+      {
+        "boundingBox": [
+          [
+            2781,
+            594
+          ],
+          [
+            2781,
+            734
+          ],
+          [
+            2919,
+            594
+          ],
+          [
+            2919,
+            734
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "板",
+        "isTextline": "true",
+        "confidence": 0.682
+      },
+      {
+        "boundingBox": [
+          [
+            2930,
+            589
+          ],
+          [
+            2930,
+            730
+          ],
+          [
+            3068,
+            589
+          ],
+          [
+            3068,
+            730
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "新",
+        "isTextline": "true",
+        "confidence": 0.685
+      },
+      {
+        "boundingBox": [
+          [
+            2641,
+            594
+          ],
+          [
+            2641,
+            717
+          ],
+          [
+            2737,
+            594
+          ],
+          [
+            2737,
+            717
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "日",
+        "isTextline": "true",
+        "confidence": 0.637
+      },
+      {
+        "boundingBox": [
+          [
+            2464,
+            587
+          ],
+          [
+            2464,
+            734
+          ],
+          [
+            2593,
+            587
+          ],
+          [
+            2593,
+            734
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "次",
+        "isTextline": "true",
+        "confidence": 0.633
+      },
+      {
+        "boundingBox": [
+          [
+            3917,
+            1424
+          ],
+          [
+            3917,
+            1867
+          ],
+          [
+            4006,
+            1424
+          ],
+          [
+            4006,
+            1867
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "初為永春水作",
+        "isTextline": "true",
+        "confidence": 0.795
+      },
+      {
+        "boundingBox": [
+          [
+            3820,
+            807
+          ],
+          [
+            3820,
+            1458
+          ],
+          [
+            3939,
+            807
+          ],
+          [
+            3939,
+            1458
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "色表紙曽我物語二",
+        "isTextline": "true",
+        "confidence": 0.822
+      },
+      {
+        "boundingBox": [
+          [
+            3760,
+            1426
+          ],
+          [
+            3760,
+            1869
+          ],
+          [
+            3858,
+            1426
+          ],
+          [
+            3858,
+            1869
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "二山梅蝶種画貞画",
+        "isTextline": "true",
+        "confidence": 0.814
+      },
+      {
+        "boundingBox": [
+          [
+            3590,
+            807
+          ],
+          [
+            3590,
+            1470
+          ],
+          [
+            3687,
+            807
+          ],
+          [
+            3687,
+            1470
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "佐崎なにひらぶじやつのなれ",
+        "isTextline": "true",
+        "confidence": 0.412
+      },
+      {
+        "boundingBox": [
+          [
+            3515,
+            957
+          ],
+          [
+            3515,
+            1459
+          ],
+          [
+            3633,
+            957
+          ],
+          [
+            3633,
+            1459
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "名郷音武術譽",
+        "isTextline": "true",
+        "confidence": 0.617
+      },
+      {
+        "boundingBox": [
+          [
+            3549,
+            1460
+          ],
+          [
+            3549,
+            1508
+          ],
+          [
+            3603,
+            1460
+          ],
+          [
+            3603,
+            1508
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "二",
+        "isTextline": "true",
+        "confidence": 0.403
+      },
+      {
+        "boundingBox": [
+          [
+            3603,
+            1440
+          ],
+          [
+            3603,
+            1860
+          ],
+          [
+            3696,
+            1440
+          ],
+          [
+            3696,
+            1860
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "初楽亭西馬作",
+        "isTextline": "true",
+        "confidence": 0.783
+      },
+      {
+        "boundingBox": [
+          [
+            3482,
+            817
+          ],
+          [
+            3482,
+            971
+          ],
+          [
+            3563,
+            817
+          ],
+          [
+            3563,
+            971
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "宮本",
+        "isTextline": "true",
+        "confidence": 0.479
+      },
+      {
+        "boundingBox": [
+          [
+            3456,
+            1454
+          ],
+          [
+            3456,
+            1603
+          ],
+          [
+            3528,
+            1454
+          ],
+          [
+            3528,
+            1603
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "三同",
+        "isTextline": "true",
+        "confidence": 0.733
+      },
+      {
+        "boundingBox": [
+          [
+            3450,
+            1789
+          ],
+          [
+            3450,
+            1860
+          ],
+          [
+            3525,
+            1789
+          ],
+          [
+            3525,
+            1860
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "画",
+        "isTextline": "true",
+        "confidence": 0.529
+      },
+      {
+        "boundingBox": [
+          [
+            3205,
+            807
+          ],
+          [
+            3205,
+            1477
+          ],
+          [
+            3325,
+            807
+          ],
+          [
+            3325,
+            1477
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "三世相錦繍文章に",
+        "isTextline": "true",
+        "confidence": 0.774
+      },
+      {
+        "boundingBox": [
+          [
+            3295,
+            1407
+          ],
+          [
+            3295,
+            1878
+          ],
+          [
+            3395,
+            1407
+          ],
+          [
+            3395,
+            1878
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "初柳水鳥種清作",
+        "isTextline": "true",
+        "confidence": 0.728
+      },
+      {
+        "boundingBox": [
+          [
+            3108,
+            1407
+          ],
+          [
+            3108,
+            1888
+          ],
+          [
+            3212,
+            1407
+          ],
+          [
+            3212,
+            1888
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "松嵜川国郷画",
+        "isTextline": "true",
+        "confidence": 0.767
+      },
+      {
+        "boundingBox": [
+          [
+            2976,
+            1465
+          ],
+          [
+            2976,
+            1869
+          ],
+          [
+            3080,
+            1465
+          ],
+          [
+            3080,
+            1869
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "柳煙亭種久作",
+        "isTextline": "true",
+        "confidence": 0.691
+      },
+      {
+        "boundingBox": [
+          [
+            2876,
+            808
+          ],
+          [
+            2876,
+            1497
+          ],
+          [
+            2993,
+            808
+          ],
+          [
+            2993,
+            1497
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "笹井市右衛門尉",
+        "isTextline": "true",
+        "confidence": 0.763
+      },
+      {
+        "boundingBox": [
+          [
+            2818,
+            1414
+          ],
+          [
+            2818,
+            1904
+          ],
+          [
+            2921,
+            1414
+          ],
+          [
+            2921,
+            1904
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "順一恵斉芳義画",
+        "isTextline": "true",
+        "confidence": 0.638
+      },
+      {
+        "boundingBox": [
+          [
+            2779,
+            1419
+          ],
+          [
+            2779,
+            1485
+          ],
+          [
+            2878,
+            1419
+          ],
+          [
+            2878,
+            1485
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "□□□□□□□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.324
+      },
+      {
+        "boundingBox": [
+          [
+            2644,
+            1454
+          ],
+          [
+            2644,
+            1906
+          ],
+          [
+            2729,
+            1454
+          ],
+          [
+            2729,
+            1906
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "一鶴亭秀賀作",
+        "isTextline": "true",
+        "confidence": 0.629
+      },
+      {
+        "boundingBox": [
+          [
+            2544,
+            825
+          ],
+          [
+            2544,
+            1453
+          ],
+          [
+            2656,
+            825
+          ],
+          [
+            2656,
+            1453
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "金花七変化二",
+        "isTextline": "true",
+        "confidence": 0.746
+      },
+      {
+        "boundingBox": [
+          [
+            2493,
+            1484
+          ],
+          [
+            2493,
+            1908
+          ],
+          [
+            2584,
+            1484
+          ],
+          [
+            2584,
+            1908
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "梅蝶楼国貞画",
+        "isTextline": "true",
+        "confidence": 0.658
+      },
+      {
+        "boundingBox": [
+          [
+            3922,
+            2192
+          ],
+          [
+            3922,
+            2295
+          ],
+          [
+            3978,
+            2192
+          ],
+          [
+            3978,
+            2295
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.329
+      },
+      {
+        "boundingBox": [
+          [
+            3854,
+            2177
+          ],
+          [
+            3854,
+            2491
+          ],
+          [
+            3917,
+            2177
+          ],
+          [
+            3917,
+            2491
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "江戸人形町道り",
+        "isTextline": "true",
+        "confidence": 0.697
+      },
+      {
+        "boundingBox": [
+          [
+            3769,
+            2276
+          ],
+          [
+            3769,
+            2819
+          ],
+          [
+            3864,
+            2276
+          ],
+          [
+            3864,
+            2819
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "飯島啓三郎謹製",
+        "isTextline": "true",
+        "confidence": 0.774
+      },
+      {
+        "boundingBox": [
+          [
+            3624,
+            2504
+          ],
+          [
+            3624,
+            2805
+          ],
+          [
+            3709,
+            2504
+          ],
+          [
+            3709,
+            2805
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "大貝百宛",
+        "isTextline": "true",
+        "confidence": 0.581
+      },
+      {
+        "boundingBox": [
+          [
+            3602,
+            2098
+          ],
+          [
+            3602,
+            2488
+          ],
+          [
+            3742,
+            2098
+          ],
+          [
+            3742,
+            2488
+          ]
+        ],
+        "id": 34,
+        "isVertical": "true",
+        "text": "武田高",
+        "isTextline": "true",
+        "confidence": 0.506
+      },
+      {
+        "boundingBox": [
+          [
+            3536,
+            2295
+          ],
+          [
+            3536,
+            2567
+          ],
+          [
+            3600,
+            2295
+          ],
+          [
+            3600,
+            2567
+          ]
+        ],
+        "id": 35,
+        "isVertical": "true",
+        "text": "小貝二十銅",
+        "isTextline": "true",
+        "confidence": 0.734
+      },
+      {
+        "boundingBox": [
+          [
+            3451,
+            2292
+          ],
+          [
+            3451,
+            2588
+          ],
+          [
+            3521,
+            2292
+          ],
+          [
+            3521,
+            2588
+          ]
+        ],
+        "id": 36,
+        "isVertical": "true",
+        "text": "中貝四十八銅",
+        "isTextline": "true",
+        "confidence": 0.672
+      },
+      {
+        "boundingBox": [
+          [
+            3383,
+            2240
+          ],
+          [
+            3383,
+            2313
+          ],
+          [
+            3439,
+            2240
+          ],
+          [
+            3439,
+            2313
+          ]
+        ],
+        "id": 37,
+        "isVertical": "true",
+        "text": "□□",
+        "isTextline": "true",
+        "confidence": 0.451
+      },
+      {
+        "boundingBox": [
+          [
+            3128,
+            2011
+          ],
+          [
+            3128,
+            2143
+          ],
+          [
+            3239,
+            2011
+          ],
+          [
+            3239,
+            2143
+          ]
+        ],
+        "id": 38,
+        "isVertical": "true",
+        "text": "神",
+        "isTextline": "true",
+        "confidence": 0.345
+      },
+      {
+        "boundingBox": [
+          [
+            3191,
+            2178
+          ],
+          [
+            3191,
+            2933
+          ],
+          [
+            3273,
+            2178
+          ],
+          [
+            3273,
+            2933
+          ]
+        ],
+        "id": 39,
+        "isVertical": "true",
+        "text": "気つけ毒けし小児赤ん消酒よし",
+        "isTextline": "true",
+        "confidence": 0.628
+      },
+      {
+        "boundingBox": [
+          [
+            2882,
+            2015
+          ],
+          [
+            2882,
+            2132
+          ],
+          [
+            3009,
+            2015
+          ],
+          [
+            3009,
+            2132
+          ]
+        ],
+        "id": 40,
+        "isVertical": "true",
+        "text": "仙台",
+        "isTextline": "true",
+        "confidence": 0.313
+      },
+      {
+        "boundingBox": [
+          [
+            2865,
+            2004
+          ],
+          [
+            2865,
+            2357
+          ],
+          [
+            2972,
+            2004
+          ],
+          [
+            2972,
+            2357
+          ]
+        ],
+        "id": 41,
+        "isVertical": "true",
+        "text": "調合所",
+        "isTextline": "true",
+        "confidence": 0.373
+      },
+      {
+        "boundingBox": [
+          [
+            2994,
+            2170
+          ],
+          [
+            2994,
+            2637
+          ],
+          [
+            3144,
+            2170
+          ],
+          [
+            3144,
+            2637
+          ]
+        ],
+        "id": 42,
+        "isVertical": "true",
+        "text": "一角",
+        "isTextline": "true",
+        "confidence": 0.511
+      },
+      {
+        "boundingBox": [
+          [
+            2924,
+            2365
+          ],
+          [
+            2924,
+            2533
+          ],
+          [
+            2986,
+            2365
+          ],
+          [
+            2986,
+            2533
+          ]
+        ],
+        "id": 43,
+        "isVertical": "true",
+        "text": "上総国",
+        "isTextline": "true",
+        "confidence": 0.601
+      },
+      {
+        "boundingBox": [
+          [
+            2868,
+            2152
+          ],
+          [
+            2868,
+            2352
+          ],
+          [
+            2955,
+            2152
+          ],
+          [
+            2955,
+            2352
+          ]
+        ],
+        "id": 44,
+        "isVertical": "true",
+        "text": "調合所",
+        "isTextline": "true",
+        "confidence": 0.543
+      },
+      {
+        "boundingBox": [
+          [
+            2863,
+            2360
+          ],
+          [
+            2863,
+            2520
+          ],
+          [
+            2920,
+            2360
+          ],
+          [
+            2920,
+            2520
+          ]
+        ],
+        "id": 45,
+        "isVertical": "true",
+        "text": "東金町",
+        "isTextline": "true",
+        "confidence": 0.632
+      },
+      {
+        "boundingBox": [
+          [
+            3019,
+            2804
+          ],
+          [
+            3019,
+            2976
+          ],
+          [
+            3166,
+            2804
+          ],
+          [
+            3166,
+            2976
+          ]
+        ],
+        "id": 46,
+        "isVertical": "true",
+        "text": "丸",
+        "isTextline": "true",
+        "confidence": 0.614
+      },
+      {
+        "boundingBox": [
+          [
+            2882,
+            2538
+          ],
+          [
+            2882,
+            2965
+          ],
+          [
+            2979,
+            2538
+          ],
+          [
+            2979,
+            2965
+          ]
+        ],
+        "id": 47,
+        "isVertical": "true",
+        "text": "大野伝兵衛",
+        "isTextline": "true",
+        "confidence": 0.68
+      },
+      {
+        "boundingBox": [
+          [
+            2707,
+            1940
+          ],
+          [
+            2707,
+            2090
+          ],
+          [
+            2789,
+            1940
+          ],
+          [
+            2789,
+            2090
+          ]
+        ],
+        "id": 48,
+        "isVertical": "true",
+        "text": "地本",
+        "isTextline": "true",
+        "confidence": 0.591
+      },
+      {
+        "boundingBox": [
+          [
+            2736,
+            2164
+          ],
+          [
+            2736,
+            2975
+          ],
+          [
+            2829,
+            2164
+          ],
+          [
+            2829,
+            2975
+          ]
+        ],
+        "id": 49,
+        "isVertical": "true",
+        "text": "江両国横山町三一目",
+        "isTextline": "true",
+        "confidence": 0.636
+      },
+      {
+        "boundingBox": [
+          [
+            2590,
+            2017
+          ],
+          [
+            2590,
+            2997
+          ],
+          [
+            2722,
+            2017
+          ],
+          [
+            2722,
+            2997
+          ]
+        ],
+        "id": 50,
+        "isVertical": "true",
+        "text": "問屋辻問屋辻岡屋文助",
+        "isTextline": "true",
+        "confidence": 0.653
+      },
+      {
+        "boundingBox": [
+          [
+            2500,
+            1954
+          ],
+          [
+            2500,
+            2093
+          ],
+          [
+            2575,
+            1954
+          ],
+          [
+            2575,
+            2093
+          ]
+        ],
+        "id": 51,
+        "isVertical": "true",
+        "text": "中村",
+        "isTextline": "true",
+        "confidence": 0.494
+      },
+      {
+        "boundingBox": [
+          [
+            2499,
+            2541
+          ],
+          [
+            2499,
+            2996
+          ],
+          [
+            2599,
+            2541
+          ],
+          [
+            2599,
+            2996
+          ]
+        ],
+        "id": 52,
+        "isVertical": "true",
+        "text": "金松堂",
+        "isTextline": "true",
+        "confidence": 0.607
+      },
+      {
+        "boundingBox": [
+          [
+            1916,
+            745
+          ],
+          [
+            1916,
+            1195
+          ],
+          [
+            2030,
+            745
+          ],
+          [
+            2030,
+            1195
+          ]
+        ],
+        "id": 53,
+        "isVertical": "true",
+        "text": "仮名垣",
+        "isTextline": "true",
+        "confidence": 0.82
+      },
+      {
+        "boundingBox": [
+          [
+            1716,
+            855
+          ],
+          [
+            1716,
+            1417
+          ],
+          [
+            1868,
+            855
+          ],
+          [
+            1868,
+            1417
+          ]
+        ],
+        "id": 54,
+        "isVertical": "true",
+        "text": "魚又",
+        "isTextline": "true",
+        "confidence": 0.41
+      },
+      {
+        "boundingBox": [
+          [
+            1645,
+            1154
+          ],
+          [
+            1645,
+            1288
+          ],
+          [
+            1742,
+            1154
+          ],
+          [
+            1742,
+            1288
+          ]
+        ],
+        "id": 55,
+        "isVertical": "true",
+        "text": "誰",
+        "isTextline": "true",
+        "confidence": 0.605
+      },
+      {
+        "boundingBox": [
+          [
+            1343,
+            717
+          ],
+          [
+            1343,
+            1835
+          ],
+          [
+            1574,
+            717
+          ],
+          [
+            1574,
+            1835
+          ]
+        ],
+        "id": 56,
+        "isVertical": "true",
+        "text": "童絵解",
+        "isTextline": "true",
+        "confidence": 0.585
+      },
+      {
+        "boundingBox": [
+          [
+            1145,
+            1200
+          ],
+          [
+            1145,
+            1743
+          ],
+          [
+            1289,
+            1200
+          ],
+          [
+            1289,
+            1743
+          ]
+        ],
+        "id": 57,
+        "isVertical": "true",
+        "text": "万国",
+        "isTextline": "true",
+        "confidence": 0.671
+      },
+      {
+        "boundingBox": [
+          [
+            1151,
+            1854
+          ],
+          [
+            1151,
+            2171
+          ],
+          [
+            1374,
+            1854
+          ],
+          [
+            1374,
+            2171
+          ]
+        ],
+        "id": 58,
+        "isVertical": "true",
+        "text": "噺",
+        "isTextline": "true",
+        "confidence": 0.627
+      },
+      {
+        "boundingBox": [
+          [
+            925,
+            676
+          ],
+          [
+            925,
+            890
+          ],
+          [
+            1029,
+            676
+          ],
+          [
+            1029,
+            890
+          ]
+        ],
+        "id": 59,
+        "isVertical": "true",
+        "text": "一盃",
+        "isTextline": "true",
+        "confidence": 0.495
+      },
+      {
+        "boundingBox": [
+          [
+            908,
+            1058
+          ],
+          [
+            908,
+            1588
+          ],
+          [
+            1060,
+            1058
+          ],
+          [
+            1060,
+            1588
+          ]
+        ],
+        "id": 60,
+        "isVertical": "true",
+        "text": "弐編",
+        "isTextline": "true",
+        "confidence": 0.698
+      },
+      {
+        "boundingBox": [
+          [
+            835,
+            827
+          ],
+          [
+            835,
+            969
+          ],
+          [
+            909,
+            827
+          ],
+          [
+            909,
+            969
+          ]
+        ],
+        "id": 61,
+        "isVertical": "true",
+        "text": "□",
+        "isTextline": "true",
+        "confidence": 0.707
+      },
+      {
+        "boundingBox": [
+          [
+            683,
+            771
+          ],
+          [
+            683,
+            1159
+          ],
+          [
+            784,
+            771
+          ],
+          [
+            784,
+            1159
+          ]
+        ],
+        "id": 62,
+        "isVertical": "true",
+        "text": "芳郎",
+        "isTextline": "true",
+        "confidence": 0.8
+      },
+      {
+        "boundingBox": [
+          [
+            715,
+            1389
+          ],
+          [
+            715,
+            1994
+          ],
+          [
+            899,
+            1389
+          ],
+          [
+            899,
+            1994
+          ]
+        ],
+        "id": 63,
+        "isVertical": "true",
+        "text": "上の巻",
+        "isTextline": "true",
+        "confidence": 0.832
+      },
+      {
+        "boundingBox": [
+          [
+            616,
+            1121
+          ],
+          [
+            616,
+            1237
+          ],
+          [
+            705,
+            1121
+          ],
+          [
+            705,
+            1237
+          ]
+        ],
+        "id": 64,
+        "isVertical": "true",
+        "text": "画",
+        "isTextline": "true",
+        "confidence": 0.594
+      },
+      {
+        "boundingBox": [
+          [
+            1976,
+            2318
+          ],
+          [
+            1976,
+            2912
+          ],
+          [
+            2086,
+            2318
+          ],
+          [
+            2086,
+            2912
+          ]
+        ],
+        "id": 65,
+        "isVertical": "true",
+        "text": "錦橋堂",
+        "isTextline": "true",
+        "confidence": 0.773
+      },
+      {
+        "boundingBox": [
+          [
+            1830,
+            2756
+          ],
+          [
+            1830,
+            3119
+          ],
+          [
+            1948,
+            2756
+          ],
+          [
+            1948,
+            3119
+          ]
+        ],
+        "id": 66,
+        "isVertical": "true",
+        "text": "南梓",
+        "isTextline": "true",
+        "confidence": 0.654
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 4582,
+    "img_height": 4316,
+    "img_path": "童絵解万国噺 (1861) - NDL 207-1695/vol2/p0003.jpg",
+    "img_name": "p0003.jpg"
+  }
+}

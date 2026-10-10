@@ -1,0 +1,63 @@
+## R
+[margin] 万国初
+[margin] 三
+[caption] 阿蘭陀國《おらんだこく》
+[main] 此国ハ人民専ら枝藝《ぎげい》に
+妙をえ通商をことゝし能《よく》天文
+地理に通じ格物究理《かくぶつきうり》の
+学に達じ諸国の産物
+異類奇品《ゐるいきひん》を
+集《あつめ》て
+互市《ごし》
+の大利《たいり》
+を究む
+[caption] 大清國南京人《だいしんこくなんきんじん》
+## L
+[margin] 〔万国初?〕
+[margin] 四
+[caption] 佛蘭西《ふらんす》国の部
+[caption] よみはじめ
+[main] 西洋《せいやう》ゑう
+らつぱ
+しうの内
+ふらんす
+こくはもろ〳〵の
+地をましあはし
+て八十六しう▲
+▲ありそのくに
+ざかいみなみは地
+中海《ちうかい》いすぱ
+にやにかぎりにし
+のかたはあたらかい
+といへるうみにのぞ
+みきたは〔て?〕るかなる
+○ぱすでから
+いす○べる〔に?〕
+〔き?〕にとなり
+○どいつ○へる
+〔し?〕や○いたり
+やにたいす
+そのみやこを
+巴里斯《はりす》
+といふはりす
+のほとりにせいね
+川といへる大川
+ありこのところ
+には〔まち?〕十八
+[caption] つゞく
+[caption] 〽これから
+むすめの
+とこへ
+まゐろ〔う?〕
+とすべいヨ
+[caption] 〽サア〳〵
+はやく
+[caption] ハア〳〵
+[caption] 〽あんよは
+じやうず■■
+おへたいゝぼう
+ちやん〔だ?〕の〔方?〕
+## order
+R cartouche (阿蘭陀國) → R main → R caption (大清國南京人) → L header box (佛蘭西国の部 / よみはじめ) → L top block ▲ → L bottom block ▲ → つゞく; speech balloons (これから…, サア〳〵はやく, ハア〳〵, あんよは…) are separate captions by the figures
+## notes
+Holland (skill in arts, commerce, astronomy, geography and natural science, gathering rare goods for trade) and the start of the France section: its 86 provinces, borders (Mediterranean, Spain, the Atlantic, Pas-de-Calais, Belgium, Germany, Switzerland/"へるしや", Italy) and the capital Paris on the Seine. Badly worn bottom-left; Waseda copy (left page only matches; its right page is a different picture) used for checking. Unsure: "てるかなる", "べるに/きに" (Belgium spelling), "へる〔し〕や", "には〔まち〕十八", and the toddler balloon after あんよはじやうず.

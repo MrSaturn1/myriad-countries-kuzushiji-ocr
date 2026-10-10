@@ -1,0 +1,66 @@
+## R
+[margin] 万国三
+[margin] 〔二十一?〕
+[main] 〔つゞき〕てぎはにあらず
+〔な?〕かいせいのがうけつならんと
+思ひにければてもとをとゞ
+めて英名をうけ給は
+らんとぞんぜしところあに
+はからんやわがいもとの
+こゝにありてこゑかけぬ
+ればいぶかしきことかぎり
+なくわれからなのり
+はべるなりねがはくは
+おん身のゑいめいなの
+らせ給ひてことのしさい
+をおんものがたりあれかし
+といといんぎんにきこへける
+〇このだんいまだ
+つくさねば
+だい四へん
+のはじめ
+にとく
+べし
+[caption] 假名垣魯文著
+[caption] 一孟齋芳虎画
+[main] 〇これよりわしん
+とんあゝだむ
+すとうゑい
+ゆうがうけつ
+あらは〔れ?〕
+いよ〳〵
+あめりか
+どくりつ
+こくにおよ
+ぶ〔まで?〕
+おもし
+ろき
+はなし
+おひ〳〵
+出板
+仕候
+## L
+[caption] 甘泉堂手版畧目録
+[main] 昌平御江戸繪圖　大奉書一枚半継
+萬代御江戸繪圖　同二枚継
+泰平御江戸繪圖　中奉書四枚半継
+凡此圖専ら世に行れて是まで再板あまたゝび也しか
+るに此度高井蘭山校合を以諸御やしき新地
+替地神社仏閣に至るまで改正明細再板〔つかまつる?〕
+[main] 和漢年代記大全　和漢色分両面摺
+懐宝年代記　両面摺
+年號萬歳暦　両面摺
+年號重寶記　懐中益書両面摺
+[main] 甘泉庭訓往来　無点仮名附　大本全一冊新刻出来
+[main] 常盤百人一首大全　中本全一冊出来
+是は女今川用文章諸礼躾方其外婦人
+つね〳〵座右におかれて重宝たるべき有要の
+書のみをあつめて大全となしたる珍書なり
+[main] 麗玉百人一首　小本全一冊
+[main] 諸往来本　大本中本数多出来
+[main] 百人一首本　中本小本数多出来
+[main] 武者繪本一代記　全三冊全二冊數多　粘入摺各袋入
+## order
+R top つゞき (end of story; ○ note "continued in part 4") → author/artist column → R bottom ○ notice (forthcoming) → L publisher's catalogue (header, then right-to-left boxes)
+## notes
+End of volume 3: Franklin explains he took Washington for a bandit, says he wishes to learn his name and asks him to tell his story; a note says the scene continues at the start of part 4, and a notice promises further tales of Washington, Adams and other heroes up to American independence; the left page is the publisher 甘泉堂's catalogue (Edo maps revised by 高井蘭山, almanacs, 庭訓往来, 百人一首 editions, warrior picture books). Unsure: first glyph of col 2 (〔な?〕かいせい, probably がいせい "peerless"), the faint ending ぶ〔まで?〕, the end of the map blurb, and the page number.

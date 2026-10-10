@@ -1,0 +1,47 @@
+## R
+[margin] 万国三
+[main] つゞき 三と
+せをへはじめて
+はらに子をもう
+け十月をへて
+[main] ⊗一を
+きゝては
+ばんをさと
+りちゝの〔はかへ〕
+したがひて〔もろい〕
+〔りあ〕むびゆるぐ
+といへるちのがく
+もんじよにいつ
+いりててん
+もんちりの
+がくを
+まなび
+〔わが〕さ
+とに つゞく
+## L
+[margin] 万国三
+[margin] 〔十五〕
+[main] やす〳〵とたまの
+ごときなんしをうみ
+ふうふのよろ
+こび大かた
+なら
+ず
+やが
+て▲
+[main] ▲その
+なを
+わしん
+とん。げをるげと
+なづけつゝたなそこ
+の玉〔と〕さしのはなと
+めでいつくしみそだてける
+○わしんとんはそのめうじ
+なりとぞかくてくわういん
+矢のごとくわしんとんげをる
+げははやくも七才におよびけるにうまれ
+ながらにしてそうめいゑいちぼんにてならす⊗
+## order
+R top (つゞき) → L top-right (やす〳〵と…やがて) ▲ → L top-left ▲その… ⊗ → R bottom ⊗一をきゝては… つゞく
+## notes
+After three years Paulina (はりな) bears a son whom the couple name George Washington (わしんとん げをるげ), "Washington" being the family name; by seven he is precociously brilliant, and he studies astronomy and geography at a school in Williamsburg (〔りあ〕むびゆるぐ). The R-bottom block is worn (checked against the Waseda copy); りちゝの〔はかへ〕, したがひて〔もろい〕 / 〔りあ〕むびゆるぐ, もんじよにいつ, 〔わが〕さとに and the L page number are uncertain; ⊗ = printed crossed-circle mark.

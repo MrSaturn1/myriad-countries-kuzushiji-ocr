@@ -1,0 +1,687 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            3831,
+            475
+          ],
+          [
+            3831,
+            711
+          ],
+          [
+            3980,
+            475
+          ],
+          [
+            3980,
+            711
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "立里",
+        "isTextline": "true",
+        "confidence": 0.589
+      },
+      {
+        "boundingBox": [
+          [
+            3625,
+            489
+          ],
+          [
+            3625,
+            711
+          ],
+          [
+            3820,
+            489
+          ],
+          [
+            3820,
+            711
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "絵",
+        "isTextline": "true",
+        "confidence": 0.413
+      },
+      {
+        "boundingBox": [
+          [
+            3445,
+            489
+          ],
+          [
+            3445,
+            713
+          ],
+          [
+            3614,
+            489
+          ],
+          [
+            3614,
+            713
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "解",
+        "isTextline": "true",
+        "confidence": 0.494
+      },
+      {
+        "boundingBox": [
+          [
+            3274,
+            490
+          ],
+          [
+            3274,
+            723
+          ],
+          [
+            3440,
+            490
+          ],
+          [
+            3440,
+            723
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "万",
+        "isTextline": "true",
+        "confidence": 0.486
+      },
+      {
+        "boundingBox": [
+          [
+            3105,
+            520
+          ],
+          [
+            3105,
+            707
+          ],
+          [
+            3253,
+            520
+          ],
+          [
+            3253,
+            707
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "国",
+        "isTextline": "true",
+        "confidence": 0.64
+      },
+      {
+        "boundingBox": [
+          [
+            2906,
+            501
+          ],
+          [
+            2906,
+            712
+          ],
+          [
+            3100,
+            501
+          ],
+          [
+            3100,
+            712
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "噺",
+        "isTextline": "true",
+        "confidence": 0.65
+      },
+      {
+        "boundingBox": [
+          [
+            2742,
+            488
+          ],
+          [
+            2742,
+            760
+          ],
+          [
+            2887,
+            488
+          ],
+          [
+            2887,
+            760
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "三編",
+        "isTextline": "true",
+        "confidence": 0.753
+      },
+      {
+        "boundingBox": [
+          [
+            2437,
+            484
+          ],
+          [
+            2437,
+            633
+          ],
+          [
+            2595,
+            484
+          ],
+          [
+            2595,
+            633
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "巻",
+        "isTextline": "true",
+        "confidence": 0.717
+      },
+      {
+        "boundingBox": [
+          [
+            2597,
+            492
+          ],
+          [
+            2597,
+            749
+          ],
+          [
+            2727,
+            492
+          ],
+          [
+            2727,
+            749
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "下之",
+        "isTextline": "true",
+        "confidence": 0.716
+      },
+      {
+        "boundingBox": [
+          [
+            2522,
+            1030
+          ],
+          [
+            2522,
+            1220
+          ],
+          [
+            2583,
+            1030
+          ],
+          [
+            2583,
+            1220
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "鳥名",
+        "isTextline": "true",
+        "confidence": 0.631
+      },
+      {
+        "boundingBox": [
+          [
+            2461,
+            1024
+          ],
+          [
+            2461,
+            1470
+          ],
+          [
+            2535,
+            1024
+          ],
+          [
+            2535,
+            1470
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "トウクロウト云",
+        "isTextline": "true",
+        "confidence": 0.705
+      },
+      {
+        "boundingBox": [
+          [
+            2663,
+            2331
+          ],
+          [
+            2663,
+            2399
+          ],
+          [
+            2770,
+            2331
+          ],
+          [
+            2770,
+            2399
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "6・〇",
+        "isTextline": "true",
+        "confidence": 0.314
+      },
+      {
+        "boundingBox": [
+          [
+            2906,
+            2351
+          ],
+          [
+            2906,
+            2394
+          ],
+          [
+            2948,
+            2351
+          ],
+          [
+            2948,
+            2394
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "○",
+        "isTextline": "true",
+        "confidence": 0.358
+      },
+      {
+        "boundingBox": [
+          [
+            1788,
+            463
+          ],
+          [
+            1788,
+            604
+          ],
+          [
+            1848,
+            463
+          ],
+          [
+            1848,
+            604
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.313
+      },
+      {
+        "boundingBox": [
+          [
+            1962,
+            965
+          ],
+          [
+            1962,
+            2988
+          ],
+          [
+            2094,
+            965
+          ],
+          [
+            2094,
+            2988
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "一漁義小説の本据たる。事を凡の近きに採て。義を勧懲",
+        "isTextline": "true",
+        "confidence": 0.82
+      },
+      {
+        "boundingBox": [
+          [
+            1824,
+            910
+          ],
+          [
+            1824,
+            2988
+          ],
+          [
+            1951,
+            910
+          ],
+          [
+            1951,
+            2988
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "に発すをもて。編者の用意と為せるにこそ。莫適此書の",
+        "isTextline": "true",
+        "confidence": 0.841
+      },
+      {
+        "boundingBox": [
+          [
+            1678,
+            913
+          ],
+          [
+            1678,
+            2980
+          ],
+          [
+            1820,
+            913
+          ],
+          [
+            1820,
+            2980
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "体載や。例の稗史の顰に做へど。寓言架空の話説を",
+        "isTextline": "true",
+        "confidence": 0.834
+      },
+      {
+        "boundingBox": [
+          [
+            1543,
+            905
+          ],
+          [
+            1543,
+            3005
+          ],
+          [
+            1682,
+            905
+          ],
+          [
+            1682,
+            3005
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "設ず。蘭人葛拉墨兒氏が原訳たるを。清人の飜訳せし。",
+        "isTextline": "true",
+        "confidence": 0.842
+      },
+      {
+        "boundingBox": [
+          [
+            1413,
+            921
+          ],
+          [
+            1413,
+            3002
+          ],
+          [
+            1547,
+            921
+          ],
+          [
+            1547,
+            3002
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "一海国図志を始とし。其他増訳采覧異言。或は亜墨",
+        "isTextline": "true",
+        "confidence": 0.836
+      },
+      {
+        "boundingBox": [
+          [
+            1277,
+            897
+          ],
+          [
+            1277,
+            2990
+          ],
+          [
+            1420,
+            897
+          ],
+          [
+            1420,
+            2990
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "一利加一統志。西洋襍記の諸書に原き。童蒙婦幼に",
+        "isTextline": "true",
+        "confidence": 0.839
+      },
+      {
+        "boundingBox": [
+          [
+            1142,
+            824
+          ],
+          [
+            1142,
+            2992
+          ],
+          [
+            1283,
+            824
+          ],
+          [
+            1283,
+            2992
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "見安くせんとて。皇国言葉を仮名文に。解和らげし珍説",
+        "isTextline": "true",
+        "confidence": 0.818
+      },
+      {
+        "boundingBox": [
+          [
+            995,
+            984
+          ],
+          [
+            995,
+            2979
+          ],
+          [
+            1137,
+            984
+          ],
+          [
+            1137,
+            2979
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "異聞。彼新国の事実を探りて。新板物の数に",
+        "isTextline": "true",
+        "confidence": 0.842
+      },
+      {
+        "boundingBox": [
+          [
+            854,
+            978
+          ],
+          [
+            854,
+            2984
+          ],
+          [
+            999,
+            978
+          ],
+          [
+            999,
+            2984
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "充るも。既に此度で三編目煙草呑間もあら沙婆",
+        "isTextline": "true",
+        "confidence": 0.836
+      },
+      {
+        "boundingBox": [
+          [
+            699,
+            984
+          ],
+          [
+            699,
+            2900
+          ],
+          [
+            856,
+            984
+          ],
+          [
+            856,
+            2900
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "の。作者と共に売出しを。梓の主が急ぎ侍りぬ",
+        "isTextline": "true",
+        "confidence": 0.864
+      },
+      {
+        "boundingBox": [
+          [
+            545,
+            1121
+          ],
+          [
+            545,
+            1546
+          ],
+          [
+            667,
+            1121
+          ],
+          [
+            667,
+            1546
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "文久政元",
+        "isTextline": "true",
+        "confidence": 0.774
+      },
+      {
+        "boundingBox": [
+          [
+            440,
+            1112
+          ],
+          [
+            440,
+            1557
+          ],
+          [
+            557,
+            1112
+          ],
+          [
+            557,
+            1557
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "辛酉季春",
+        "isTextline": "true",
+        "confidence": 0.782
+      },
+      {
+        "boundingBox": [
+          [
+            455,
+            1826
+          ],
+          [
+            455,
+            2925
+          ],
+          [
+            690,
+            1826
+          ],
+          [
+            690,
+            2925
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "仮名垣魯文記念",
+        "isTextline": "true",
+        "confidence": 0.788
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 4526,
+    "img_height": 4217,
+    "img_path": "童絵解万国噺 (1861) - NDL 207-1695/vol3/p0004.jpg",
+    "img_name": "p0004.jpg"
+  }
+}

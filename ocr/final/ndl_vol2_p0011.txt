@@ -1,0 +1,86 @@
+## R
+[margin] 万国二　〔六?〕
+[caption] 阿丹土《あだむす》
+[main] つゞき　ねんぐ
+〔う?〕ん上
+を手
+おもく
+とり▲
+[main] ▲あげん
+とほつ
+そのこと
+をあめ〔り?〕
+か人に
+まうし
+つくるに▲
+[main] ▲あめりかの
+たみいぎりす王の
+むさぼることはなはだしき
+をうらみいきどふりたがいに死を
+ちかひていぎりすのめいにしたがは
+ざればいぎりす王大いにいかりぐん
+せんあまたをあめりかにいたらしめ
+じんかをやきはらひたからものをかす
+めあめりかの人そのよこしまひだう⊗
+[main] ⊗なる
+にたえかね
+かしらだち
+たるもの
+ひそ⧗
+[main] ⧗かに
+ばかりおなじ
+くにのうちより
+としわ〔か?〕くくつきやう
+なる☒
+[main] ☒たみをえりいだしいくさぶねをとゝのへわしんとんへ
+いづるさいちじんとくすぐれたる人をおしたて〔ゝ?〕たい
+せうとなしあめりかしうのうち▲
+[main] ▲十三ごくへ
+げきぶんを
+めぐらして
+いわくでん
+〔たうきみを?〕
+せうじだん
+ぞく
+〔あつ?〕
+といへ
+ども
+もと
+これ
+は
+ら
+から
+きやう
+だい◎
+## L
+[margin] ■（綴じ側、判読不能）
+[caption] 華盛頓《わしんとん》
+[caption] ■金■〔拾?〕■（絵中の掛札・壁の文字、判読困難）
+[main] ◎のごとく
+おめ〳〵その
+せいといの
+ちを
+さづ
+け
+その
+ぶん
+に
+や
+すん
+ぜし
+む
+又
+つよ
+き
+は
+すく
+なき
+ものを
+しいたげ〔につ?〕
+おろかなる
+たみに
+[caption] 次へ
+## order
+R top-right つゞき (…とり▲) → ▲あげん…つくるに▲ → ▲あめりかの…ひだう⊗ → ⊗なる…ひそ⧗ (by Adams) → ⧗かに…なる☒ → R right ☒たみを…うち▲ → R bottom ▲十三ごくへ … short columns along the bottom … きやうだい◎ → L bottom ◎のごとく … たみに (box 次へ)
+## notes
+England's king imposes heavy taxes on America; the Americans, resenting his greed, swear an oath not to obey, so the king sends warships that burn houses and seize goods; the leaders (Adams, 阿丹土 あだむす, pictured) secretly gather strong men, raise ships and make Washington (華盛頓 わしんとん, pictured) commander, then circulate a manifesto to the thirteen colonies saying that Heaven gave people life and their lot and that the strong must not oppress the weak. Unsure: the bottom-right manifesto opening (いわくでん / たうきみを / せうじだん / ぞく / あつ, plus a stray vertical stroke after it), the reading はらから for the short columns before きやうだい, 〔う〕ん上 (年貢運上?), and the inscriptions and pseudo-Roman letters drawn in the picture, which were not transcribed.

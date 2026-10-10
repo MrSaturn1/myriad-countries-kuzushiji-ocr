@@ -1,0 +1,11 @@
+## L
+[margin] 万国二
+[margin] 二
+[caption] 合衆國人《〔がつ?〕しゆうこくじん》波士頓《ぼすとん》
+[caption] の街巷《ちまた》遊行《ゆぎやう》
+[caption] 往還《わうくわん》の圖《づ》
+[caption] ○官人《くわんじん》妻《つま》
+## order
+L top-right caption (3 columns) → L bottom-right figure label
+## notes
+Full-page picture: an American (United States) official's wife strolling the streets of Boston (波士頓), with a child, before a castle-like tower; only the caption and the figure label are text. The first furigana kana beside 合 are hidden in the blue sky (がつ assumed); 柱 万 half cut by the binding.

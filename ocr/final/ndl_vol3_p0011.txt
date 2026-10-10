@@ -1,0 +1,123 @@
+## R
+[margin] 万国三
+[margin] 〔九?〕
+[caption] 女王
+[main] つゞきめいぜられしかばひとま
+どころにたまをすえ
+そのかたはらに
+つきそひゐたる
+にはりなは
+けふぞ
+をり
+よし
+とこゝろ
+のたけをさら〳〵とかみ
+のおもてのよこ
+もじ
+に▲
+[main] ▲かきつゞり
+てぞたづさへゆき
+めりけんがまへ
+にいたりてとき
+めくこゝろを
+おししづめかの
+たまづさをさし
+[main] △うへ
+とく〳〵
+こゝをさり
+給へといふ
+にはりなはほいな
+げにめりけんのかほうち
+[main] ⊗おぼしたまはんが
+わらはゝきみがかほ
+きみにめでてひた
+すらしたふに
+あらずもとより
+わらはのちゝ
+おやはむかし
+しんせかいを
+ひらきたる
+いすはにやの
+くにびとなる
+ころんのすゑ
+にしてわが
+ちゝのとき
+いすはにや
+をさりて
+このちに⊠
+## L
+[margin] 万国三
+[margin] 〔十?〕
+[caption] 布呂礼
+[caption] 米理幹
+[caption] 巴利那
+[main] 〔め?〕だし日ごろの
+おもひをかき
+くとけばめりけんは
+おもひがけねど
+いは木にあらねば
+ふみとりあげ
+ふうおしひらき
+よみおはり「おん身
+のせつなるこゝろ
+ざしよそ
+に見る
+とに
+あらねども
+けふはとり
+わけ女王
+より
+おほせは
+おもき
+たからの
+しゆごまた
+そのうちに
+をりもや
+あらんひと
+めにかゝらば
+ふたりの身の▲へ
+[main] まもり「そはいとつれ
+なきおほ
+せかな
+かくまう
+さばいぎりの
+おみなはみさ
+ほのわき
+まへなく
+いとみだ
+りなる
+おこ
+なひ
+なると世の
+くちのはに
+たがはずと
+さだめし⊗
+[main] ⊠き〔た?〕
+りしが
+つね〳〵
+ちゝの
+おほする
+やうなん
+ぢき
+りやう
+あるもの
+につれ
+そひこの
+ちをさり
+てわが
+せんぞ
+ころん
+しの
+ひらき
+たる
+あめり
+かしう
+にわた
+れよ
+かし
+さすれば
+[caption] つぎへ
+## order
+R top-right つゞき…よこもじに▲ → R top-middle ▲かきつゞり…たまづさをさし → L top 〔め?〕だし日ごろの…ふたりの身の▲へ → R middle △うへとく〳〵…めりけんのかほうち → L middle まもり「そはいとつれなき…さだめし⊗ → R bottom ⊗おぼしたまはんが…このちに⊠ → L bottom ⊠きたりしが…さすれば → つぎへ box
+## notes
+Set to guard the jewel with Harina (はりな) at his side, Meriken (めりけん) receives from her a love letter written in Western script; he answers that he is not unmoved but that the Queen's (女王) charge is heavy and if they are seen both will suffer, so she should leave; Harina protests that English women may be thought immodest, but her love is not mere infatuation — her father descends from Columbus (ころん) of Hispania (いすはにや), who opened the New World, and he has always told her to marry a capable man and cross to America, the land her ancestor opened (figures labelled 布呂礼, 米理幹, 巴利那). Unsure: the first glyph of L top (〔め?〕だし, perhaps いだし continuing たまづさをさし), どころ (first glyph unclear), the mark sequence ▲へ at the end of the L top block (the R side resumes △うへ), ⊠き〔た?〕 at the start of the L bottom block, and the faint page numbers.

@@ -1,0 +1,63 @@
+## R
+[margin] 万国三
+[margin] 十〔六?〕
+[caption] 話聖東
+[main] ［つゞき］どくにふれていのち
+をうしなひなん
+ひか▲
+[main] △どく
+きにふれ
+身をそこ
+なふにいたる
+べしとも
+かくも
+夜に
+あけて
+のちに
+かしこに
+いたり
+〔て?〕⊠
+## L
+[margin] 万国三
+[margin] 十〔七?〕
+[main] ▲りをめあてに
+ねらひう〔た?〕んと
+てつほうかしこへ
+さしむけて火ぶた
+をきつてはなつにぞ
+はるかむかひにてごたへしてどう
+とひゞくをまたいつぱつつゞいて
+はなつにこれもまたおなじく手
+ごたへなせしとおぼゆ〔る?〕に⊠
+[main] ⊠山
+なり大地ため
+しんどうして大ぼく
+はねよりをれそのものおとの
+すさまじさはひやくせんらいの
+おつるにひとしわしんとんは
+しゞうをうかゞひへんげは
+まつたくうちとめたれど
+たゞちにかしこへ
+いたりなば
+青烟〔気?〕
+の△
+[main] ⊠せうたい
+をあらた
+め見んと
+小山をくだ
+り人ざと
+のあるかた
+をこゝろ
+ざして
+ゆく
+[main] △むかひ
+のかたにちら〳〵と火の
+ひかりきらめきければこれなん
+ひとのいへなるべしかしこにいたりていちや
+をあかしてよあけなば山にのぼりへんげ
+のせうしを見きはめんと〔く?〕〔つ?〕のま〔ゝ?〕■
+はやめ〔い?〕〔く?〕かしこまぢかくちかづき［つぎへ］
+## order
+R small block beside 話聖東 (つゞき) ▲ → L top ▲…⊠ → L middle ⊠山…の△ → R bottom △…⊠ → L bottom centre ⊠…ゆく → L bottom far left △…つぎへ
+## notes
+Washington aims at the glittering lights and fires twice; the mountain roars, a great tree snaps at the root, and he believes he has killed the monster, but fearing its poisonous smoke he waits for dawn, goes down toward the village to check, and sees firelight that he takes for a house where he can spend the night. Unsure: ねらひう〔た〕んと, 青烟〔気〕 (third glyph has small side kana), the final words of the R bottom block (read as かしこにいたり〔て〕), and the faded end of the far-left block's 6th column (くつのまゝ? / あしを?) and start of the 7th; page numbers mostly cut.

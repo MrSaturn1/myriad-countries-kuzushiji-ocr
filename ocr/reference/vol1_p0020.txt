@@ -1,0 +1,96 @@
+## R
+[margin] 万国初
+[margin] 〔十五?〕
+[main] ［つゞき］うみに
+[main] う〔つ?〕むのわざをたしみ
+[main] うみのうへのありさまを
+[main] こと〴〵くしらんどほつしせん
+[main] どうのすがたとなりて
+[main] いぎりすにわたり
+[main] ろんどんにいたりて
+[main] わ〔う?〕のふねの
+[main] さいくばに
+[main] すまふこのくにゝ
+[main] あるす〔ひ?〕だ
+[main] みつどにつかへる
+[main] もの六百よにん
+[main] みな一チげいにちやうずる
+[main] ものなりといふみかどゝ
+[main] ▲みかど
+[main] このものを
+[main] あげもち
+[main] ひみづ
+[main] から
+[main] いへる
+[main] やう
+[main] おほ
+## L
+[margin] ○四
+[margin] 万国初
+[margin] 〔十六?〕
+[main] まじはるもの
+[main] みかどのきりやう
+[main] をほめざるはなしそれ
+[main] よりいぎりすをさり
+[main] おらんだをすぎでれす
+[main] てんをへてうゑんねんの
+[main] ふないにおもむきいた
+[main] りやこくにいたらんと
+[main] ほつするにぞくこくのもの
+[main] どもらんをおこしてみかど
+[main] をはいせんとはかるゆへを
+[main] もつてほんごくにかへるこの
+[main] ときおろしやのごるとんと
+[main] いへるものすでにそのらんを
+[main] たひらぐしかれどもみかどの
+[main] いかりなほはれずそのらんを
+[main] おこせしものをこと〴〵
+[main] くけいばつにおこ
+[main] なふこゝにめれ
+[main] しこうといふ
+[main] ものあり
+[main] さいちすぐ
+[main] れちからを
+[main] つくしてちう
+[main] きんをはげむ▲
+[caption] 魯《おろ》西亞《しや》の百姓《ひやくしやう》耕作《かうさく》の
+[caption] 道《みち》を励《はげ》む
+[main] よそ
+[main] くに
+[main] を
+[main] おさ
+[main] め
+[main] たみを
+[main] やすん
+[main] ずるはもつ
+[main] ともつとめ
+[main] べきなり
+[main] とせい
+[main] をはげ
+[main] まし
+[main] おさむる
+[main] ことをはかるこゝろ
+[main] いよ〳〵せつなり
+[main] こゝにおゐてくに
+[main] のうちのねんぐ
+[main] をへらしまた
+[main] くにのえき
+[main] をはかる
+[main] がために
+[main] しよこく
+[main] 〔う?〕へじばんをはじ〔め?〕
+[main] いりようの［つ〔ゞ?〕〔く?〕］
+## notes
+Image check: the NDL scan (p0019) is the same spread as Waseda p0020 (same block, same cuts); all readings were made primarily from the NDL scan, cross-checked against Waseda. The column hidden in the Waseda gutter is the right page's last column 「ものなりといふみかどゝ」, fully legible on NDL.
+Reading order across the spread: R top block (つゞき … みかどゝ) → L top block (まじはるもの … はげむ▲) → R bottom block (▲みかど … おほ) → L bottom block (よそ … いりようの［つゞく］). The L bottom block is set in short stepped columns around the figures; each line above is one printed column.
+Hentaigana notes: こ is frequently written with the 古-derived form that looks like と (すまふこの, このものを, ぞくこく, かへるこの, おこせし, こゝに); these are normalized to こ. こと〴〵く (R col 4, L cols 17–18) is printed as こと + a single ぐ-shaped iteration mark + く; transcribed with the standard 〴〵. しらんど has a visible dakuten on と in the print (kept). 一チげい is printed with katakana チ (kept).
+Uncertain points: R col 2 う〔つ?〕む — the second glyph is a ろ/つ-shaped stroke; sense would favour うかむ (浮かむ, 可-form か), all OCR read つ. R col 8 わ〔う?〕 — read as わう (王, "the king's ships"); OCRs give わる/わろ/わか; う and ろ are nearly identical in this hand. R col 11 あるす〔ひ?〕だ — foreign name (あるすひだ・みつど?), glyph count is tight. L bottom 〔う?〕へじばん — top glyph is a small ∠-shaped stroke; meaning of じばん unclear. The continuation box at the end is つ + a ゞ-like zigzag + く-like stroke: read つゞく (NDL Lite reads つぎへ). 丁付 numbers on both fore-edges are mostly lost in the fold: right shows strokes consistent with 十五, left with 十六. 柱 reads 万国初 on both (国 is a simplified form; could be 國). ○四 is a circled 四 with small circle above, top centre of the left page frame.
+
+(a) Summary: The spread continues the life of Peter the Great: wishing to learn seamanship, he disguised himself as a ship's hand, went to England and London and lived at the (royal?) shipyard workshop, where the 600-odd skilled craftsmen and courtiers all praised his ability; he then left England, passed through Holland, Dresden and Vienna, and was about to go to Italy when rebels rose to depose him, so he returned home, the revolt having already been put down by the Russian Gordon. Still angry, he punished all the rebels; a certain Menshikov (めれしこう), talented and loyal, was promoted by the emperor, who declared that governing the country and giving peace to the people was the first duty, reduced the domestic annual tax, and for the country's profit began [projects] in various countries. The illustration caption reads "Russian peasants working at the way of farming."
+(b) Confidence: about 95% of characters (roughly 510 of 535 base-text kana/kanji, excluding furigana and markup) I am sure of; the remaining ~5% are the 〔?〕 items above plus a few individual kana accepted from multi-candidate agreement where the print is cramped (e.g. あるすひだ, から, がために, the 百姓/耕作 furigana).
+(c) Candidate errors (approximate counts against this reference, main text + caption):
+- v3 on Waseda (ndl_v3/waseda): good order, but misses the whole gutter column (ものなりといふみかどゝ) and half of まじはるもの (□□まし□□), drops the R-bottom/L-bottom short columns partly (ひみづからいへるやうおほよそくにをおさめ lost or scrambled), garbles the caption into the text (魯西の百姓耕作施す), prefixes margin noise 才目衣; misreads ありきま, わる, すまふと, すびた, いきりす, をさる, すへて, らたりや, いたらんことほつしする, みるど, すてに, たびらぐ, そのちん, めれみちこう, つらし(へらし), くにのそろは(えきを), ちりよう, つきへ; drops 〴〵 and べき/まし. Roughly 60–75 wrong/missing characters.
+- v3 on NDL (ndl_v3/ndl): best reading order; captures the gutter column; errors: わろ, すひた, まじいる, をさか, らたかや, みつど(みかど), ほんこく, ごるとんいへる (drops と), たびらく, いかつ, ものあか, drops ひみづからいへるやう, garbled caption (魚日西…道を妖む) merged into text, やすんずるい, つとめきなり, drops まし/moves おさむる, つよせつ, つらし, がた□□とんじばんをはし, いりより; 2 □. Roughly 35–45 wrong/missing.
+- NDL Lite on Waseda (ndl/vol1): one line per column but many noise lines (〇8, a 100+ □ line, ……, 同情し, duplicated どうのすがたとなりて), jumbled order in the lower blocks, gutter column lost (ましまう); misreads かみに/かつむ, ありきま, ほわし, わる, くたりやとく, いたらんこと/ほつしする, おこぜし, ものあか, 油ひみづ, くにの毛き, ははる, まために, しよこへの, ちかよう/つきへ; caption split with noise (②, 道す). Roughly 50–60 wrong characters plus ~130 noise characters.
+- NDL Lite on NDL (ndl_lite_ndlcopy): highest character accuracy; captures gutter column, caption (魯西亞の百姓耕作の道を励む, though furigana appear as stray short lines like よす), へらし, くにのえき, いたらんと/ほつするに correctly; errors: かみのうへ, わかの, おもむきらた, もつと, つくしや, ものあか, しよこゝ, 三人じばん, をはし, 〽 mark; line order jumbled in places (みな一チげい… before すまふこの; らへるもの displaced). Roughly 15–25 wrong characters, plus ordering problems.
+- Claude by eye (claude/vol1_p0020): caption read correctly (with furigana) and ○四/つゞき noted, but the main text is almost entirely misread (interpreted as tree-planting/grafting; hentaigana ゑ/み/な confusions throughout), reading order of blocks wrong (L top before the gutter column, etc.). Roughly 75–85% of main-text characters wrong; only caption and a few phrases (のうちのねんぐ, ことを…こゝろ) usable.

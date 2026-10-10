@@ -1,0 +1,60 @@
+## R
+[margin] 万国二
+[caption] HLWOSNDUEATD
+[caption] 合衆國《がつしゆうこくの》美女《びぢよ》
+## L
+[margin] 万国二
+[margin] 四
+[caption] 北亞墨利加合衆国部《きたあめりかがつしゆうこくのぶ》
+[main] ○北あめりかのうちがつ
+しゆうこくはきんせい
+ひらけたるあたらしき
+くにゝしてあめりかの
+せかい二十一ぶんと
+なしてわづかに
+その一チぶなり
+そのひらけたる
+はじまりをたづ
+ぬるに○いたりや○ふらん
+す○いすぱにや○いぎ
+りす○おらんだとう
+のくにびととし〴〵
+いたりてかうゑきを
+なすそのゝちその
+くにゝぬしなくくに
+たみあちこちに
+ちらばりてふうぞく
+しつぼくなるを
+見こみてひと〴〵
+そのとちをうば
+はんととおもひ▲
+[main] ▲たちあるとしきゝんにあひそのくにの人
+おほくほかのくにへたちさりくにのいき
+ほひとぼしくたこくよりひやうせんを
+むけたればそのくには自立《じりつ》する
+ことあたはざるなりこれはいまより
+三四百年ンいせんのことなりその
+のちいぎりす〔こく?〕のひとその
+女王《によわう》にまうしあげかの
+あたらしきくにをひらかん
+ことをねがひついに○ひるぎ
+にや○のちをはじめてひらけり
+かくてそのちにしろをたて
+七人ンのやくにんをおきて
+そのうちひとりをかしらと
+なし六人これをたすけ大小の
+文官《ぶんくわん》武官《ぶくわん》をそのかしら
+のえらむにまかせりさるほどに
+いぎりすのたみあめりかへいたり
+らんことをねがふもの三百人あり
+かの三百人のものあめりかのくにへ
+わたりてすまゐするちをしん
+いぎりすとなづけたりそれより
+のちいぎりす人あめりかにいたる
+もの三千余人なりいまより二百
+ねんあまりのむかしおらんだ
+[main] 〔つゞく〕
+## order
+R picture (banner, cartouche) → L heading → L top ▲ → L bottom ▲ → つゞく box
+## notes
+R: portrait "A Beauty of the United States" under a banner of decorative pseudo-Latin letters. L: "North America, United States section" — the US is a newly opened country, 1/21 of the world; Italians, French, Spaniards, English and Dutch came to farm the ownerless land; after a famine, the English obtained their queen's leave and first settled Virginia (ひるぎにや), set up a fort and seven officials, then 300 settlers named the land New England (しんいぎりす), followed by 3,000 more; continues "over 200 years ago the Dutch…". The つゞく box is cramped (confirmed by the Waseda copy, whose L page matches; its R page is a different picture); 自立 is followed by a squeezed じりつ, taken as ruby; いぎりすこく and 女王 ruby are faint.

@@ -1,0 +1,118 @@
+## R
+[margin] 〔万画?〕三
+[margin] 十■
+[caption] 魯文作
+[caption] 芳虎画
+[main] つゞきめりけんが
+はりなとかたらふ
+ひまをうかゞひかぜ
+いれのかのめいぎよく
+をみぢんにくだき
+ぬきあしさしあしたち
+さりけるめりけんは
+はりなとかたらひしゆ
+ごのたからをあんずる
+ものからはりなと
+わかれていぜんのひと
+まにもどりきたりて
+めいぎよくのくだけちりし
+を見るよりおどろき
+こはいかにしてそんぜしや
+しばしをらざるそのひまに
+いちだいじこそしゆつ
+たいなせり国王へなにめんぼくに▲
+[main] ▲かくとごん
+じやうせらる
+べきはりなが
+なさけに
+ひかされてくにの
+たからをそこなふ
+つみ萬死〔ばん?〕に
+あたる身の
+〔とふちんこ?〕づから
+くびはねしする
+にしかじと
+たいせしけんの
+つかに手をかけ
+すでにじがいと
+見へたるをりから
+ひとまのうちより
+はりなははせいでその
+手にすがりとゞ
+むるひまにねつ
+しんふろれ
+これらの
+やうすを
+うかゞひ見つゝ
+国王〔野に?〕
+[caption] 三の巻へ
+## L
+[margin] ㊂
+[caption] 二の巻より
+[main] かくと
+ごんじやうなせしかば
+女王はしよしんをした
+がへてこのところにいで
+きたりめりけんはりなの
+ふたりのものをふろれに
+めいじてごくやにくだし
+そのちしよしんを
+うちつどへめりけんはりな
+がふぎのつみかつたい
+せつのたからをそんぜし
+つみのしだいをきうめい
+なすによういならざる
+だいざいなりしかれども
+めりけんはあめりきゆすの
+すゑにしてめいかのしそん
+かつはまたはりなはころんが▲
+[main] ▲ばつえうなれば
+せんぞのこうにめんじ
+られしざいをゆるめて
+配流《はいる》せんとしゆ
+ぎいつけつしてふたり
+の男女をちかごろひらき
+そめたるくにのきたあめりか
+かろりなこくへ
+ながさんと
+こそきは
+まりけれ
+[main] ○さるほどに
+めりけん
+はりなはつみ
+きはまり
+ければ△
+[caption] ○めりけんはりなを
+るざいのふね
+ていむす川を
+しゆつはんなす
+[main] △あめりかへ
+るざいときゝて
+かなしみのなか
+に一ツのよろ
+こびにてこれころんし
+とあめりきゆす
+のしんれいみちび
+き給へるならん
+とこゝろのうちに
+みたまをはいしあま
+たのけいごにかこまれ
+つわれにひとしきつみ
+びとら三百よにんと
+もろともにていむす川
+よりふねにうつされ
+けいごのやくにんもろとも
+にすへはるかなるあらうみ
+をにしへ〳〵とはしるほどに
+あまたひをへてあめりかのみな
+みのちなるはるまたといへる
+こじまのほとりにちかづきふね
+をよせんとするほどにはかに
+あらなみさかだちてそらより
+くろくもまひさがりあかしまがせ
+のふきおこりてさしもの
+[caption] つゞく
+## order
+R top つゞき → ▲ R lower block → 三の巻へ (end of volume 2) | L: 二の巻より L top → ▲ L middle → ○さるほどに → △ L bottom → つゞく; caption ○めりけんはりなを… beside the ships.
+## notes
+Merriken and Harina are blamed when the treasured jewel is smashed; Merriken is about to kill himself when Harina stops him, and the official Florey reports to the King. Volume 3 opens by retelling this: the Queen's council spares them from execution because Merriken descends from Americus and Harina from Columbus, so they are exiled to Carolina in North America with 300 convicts, sailing from the Thames, until a storm hits near "Harumata" (Bermuda?). Unsure spots: 萬死〔ばん?〕に (one glyph between 死 and に); 〔とふちんこ?〕づから (maybe とてもみづから); 国王〔野に?〕 at the end of the right page; the right-margin running title 〔万画?〕三 and a cut-off page number 十■; ころんし (ころん氏?).

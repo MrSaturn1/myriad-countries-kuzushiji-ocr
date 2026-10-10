@@ -1,0 +1,91 @@
+## R
+[margin] 万国四　〔十?〕
+[caption] 魯文作
+[caption] 芳虎画
+[caption] 阿丹土母
+[main] つゞき
+どく気《き》に
+ふることなし
+とく〳〵せよト
+仙女のことばを
+きくよりわしは
+はがひをひろげ▲
+[main] ▲ふたゝ
+びこくう
+にまひ
+あがるあゝ
+だむすは
+大とりのあと
+をしたひて
+はせいだし
+[caption] 下の巻へつゞく
+## L
+[margin] 三（丸囲み）　〔改印〕
+[margin] 万国四　〔十一?〕
+[caption] 阿丹土
+[main] 上の巻よりそびらのかたをかへり
+見ればいままでありし仙女のすがたは
+くもにつゝまれうせにけり
+〇かくてあゝだむすは仙女がをしへに
+したがひてかの大とりのまひゆくかたを
+目あてに山ぢを
+すぐるほとに
+三里あまりも
+きたりしと思ふ
+をりにかの大わしはとある
+大樹《だいじゆ》のえだにとまりたに
+そこにかしらをのぞませ羽
+ばたきなすことあまたゝび
+このやう
+すを
+みて
+あだ
+むす
+はこゝろ
+のうちに
+おもふやう
+さては
+その
+あだとし
+ねらふおろちの
+すみかはこゝら
+ならんかれが
+いづるをもの
+かげに▲
+[main] ▲かくれてまたんとおもひ
+しげる木立〔坂?〕の
+あひだにみを
+ひそめいまや
+おそしとまち
+かけたりかゝる
+をりから△
+[main] △いち〔ぢん?〕
+のなまぐさき
+かぜふきおこり大樹《だいじゆ》
+のえだはどう〳〵と
+なりそよぎ
+砂《しや》
+石《せき》
+をとばしいま
+まではれたるそら
+かきくもりくろくも⧗
+[main] ⧗ちうにまひさかりものすさまじく見へたる
+ときしもたにのそこよりいとふとく
+そのたけすじやうのとし
+ふるおろち⧗
+[main] ⧗かう
+べを
+もたげ
+てずる
+〳〵と
+やまの
+うへに
+は〔な?〕
+あがり
+すじやう
+の
+[caption] つゞく
+## order
+R top つゞき ▲ → R middle ▲ → 下の巻へつゞく | L top 上の巻より → L centre short columns ▲ → L right-middle ▲…△ → L centre-bottom △…⧗ → L right-bottom ⧗…⧗(boxed) → L bottom-left ⧗ → つゞく box
+## notes
+End of the upper fascicle and start of the lower: the immortal vanishes, the eagle leads あゝだむす (Adams, 阿丹土) about three ri to a great tree over a valley, he hides to wait for the serpent that killed his mother (阿丹土母), and a foul wind and black clouds herald a huge serpent rising from the valley; right page carries the credits 魯文作 / 芳虎画. Hourglass-shaped continuation marks transcribed as ⧗; unsure: 木立〔坂?〕, いち〔ぢん?〕 (both OCRs いちどう), は〔な?〕, and the ruby on 大樹/砂石; top margin has a circled 三 and a small (censor?) seal, page numbers half cut.

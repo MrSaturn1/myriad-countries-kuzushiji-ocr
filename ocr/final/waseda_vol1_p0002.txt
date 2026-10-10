@@ -1,0 +1,53 @@
+## R
+[caption] 山城 玉川
+[main] 駒〔止?〕めて
+[main] 猶水かはむ 山吹の
+[main] 花の露〔そ?〕ふ
+[main] 井出の 玉川
+[caption] 紀伊《きい》玉川
+[main] わすれても
+[main] くむやしつらん
+[main] 旅人の
+[main] 高野《かうや》のおくの
+[main] 玉川の
+[main] 水
+[caption] 摂津《せつ》玉川
+[main] 松風の
+[main] 音だに
+[main] 秋は
+[main] さびしきに
+[main] 衣うつ
+[main] なり
+[main] 玉川
+[main] の里
+[caption] 武蔵《むさし》玉川
+[main] 玉川の
+[main] さらす〔手?〕
+[main] 調〔布?〕
+[main] さら〔〳〵?〕に
+[main] むかしの人の
+[main] 恋しきや
+[main] なぞ
+[caption] 陸奥《むつ》玉川
+[main] 夕されば
+[main] 〔潮?〕風
+[main] こして
+[main] みちのく
+[main] 野田《のだ》の
+[main] 玉川
+[main] ちどり
+[main] なくなり
+[caption] 近江 玉川
+[main] たづね
+[main] こん
+[main] 野路《のぢ》の
+[main] 玉川
+[main] 萩うゑ■
+[main] 色なる
+[main] 波に
+[main] 月や
+[main] 〔あ?〕■宿〔む?〕ら
+## order
+R fans: 山城 (top) → 紀伊 (top right) → 摂津 (middle right) → 武蔵 (middle left) → 陸奥 (bottom left) → 近江 (bottom right; its label 近江玉川 is printed at the left end of the fan, after the poem)
+## notes
+Endpaper of the Waseda (山田屋) issue: six fan-shaped panels with the classic "Six Jewel Rivers" (六玉川) poems, each labelled with its province: Yamashiro (井出), Kii (高野), Settsu, Musashi, Mutsu (野田) and Ōmi (野路). Uncertain cursive spots: 止/そ in the Yamashiro poem, 手・調布 and the long stroke read as 〳〵 in the Musashi poem, 潮 in the Mutsu poem; the end of the Ōmi poem (after 萩うゑ, and the column after 月や) is unclear. The handwritten shelfmark "A380 (1)" in the top corner is a library mark and is not transcribed.

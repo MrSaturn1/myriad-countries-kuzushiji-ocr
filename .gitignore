@@ -1,0 +1,12 @@
+# Scans are downloaded locally, not committed (see the source.txt in each folder)
+童絵解万国噺*/vol*/
+*.jpg
+!docs/scans/*.jpg
+# OCR tools, virtualenv, RunPod state (throwaway SSH key, pod id) and scratch work
+tools/
+ocr/work/
+ocr/eval/
+.secrets/
+*.key
+__pycache__/
+.DS_Store

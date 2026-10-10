@@ -1,0 +1,612 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            3838,
+            781
+          ],
+          [
+            3838,
+            1514
+          ],
+          [
+            3982,
+            781
+          ],
+          [
+            3982,
+            1514
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "御な絵解",
+        "isTextline": "true",
+        "confidence": 0.766
+      },
+      {
+        "boundingBox": [
+          [
+            3790,
+            1630
+          ],
+          [
+            3790,
+            2096
+          ],
+          [
+            3885,
+            1630
+          ],
+          [
+            3885,
+            2096
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "コンペイトウ",
+        "isTextline": "true",
+        "confidence": 0.716
+      },
+      {
+        "boundingBox": [
+          [
+            3607,
+            739
+          ],
+          [
+            3607,
+            1654
+          ],
+          [
+            3749,
+            739
+          ],
+          [
+            3749,
+            1654
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "万団はなし",
+        "isTextline": "true",
+        "confidence": 0.697
+      },
+      {
+        "boundingBox": [
+          [
+            3418,
+            1181
+          ],
+          [
+            3418,
+            1735
+          ],
+          [
+            3547,
+            1181
+          ],
+          [
+            3547,
+            1735
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "四通ん",
+        "isTextline": "true",
+        "confidence": 0.791
+      },
+      {
+        "boundingBox": [
+          [
+            3230,
+            1444
+          ],
+          [
+            3230,
+            1943
+          ],
+          [
+            3390,
+            1444
+          ],
+          [
+            3390,
+            1943
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "下の巻",
+        "isTextline": "true",
+        "confidence": 0.803
+      },
+      {
+        "boundingBox": [
+          [
+            3265,
+            2078
+          ],
+          [
+            3265,
+            2613
+          ],
+          [
+            3377,
+            2078
+          ],
+          [
+            3377,
+            2613
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "サケノドウグ",
+        "isTextline": "true",
+        "confidence": 0.697
+      },
+      {
+        "boundingBox": [
+          [
+            3025,
+            1534
+          ],
+          [
+            3025,
+            1973
+          ],
+          [
+            3145,
+            1534
+          ],
+          [
+            3145,
+            1973
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "魯文化",
+        "isTextline": "true",
+        "confidence": 0.771
+      },
+      {
+        "boundingBox": [
+          [
+            2880,
+            1552
+          ],
+          [
+            2880,
+            2005
+          ],
+          [
+            2982,
+            1552
+          ],
+          [
+            2982,
+            2005
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "よし虎画",
+        "isTextline": "true",
+        "confidence": 0.759
+      },
+      {
+        "boundingBox": [
+          [
+            2840,
+            2318
+          ],
+          [
+            2840,
+            2738
+          ],
+          [
+            2919,
+            2318
+          ],
+          [
+            2919,
+            2738
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "シヨクタイ",
+        "isTextline": "true",
+        "confidence": 0.579
+      },
+      {
+        "boundingBox": [
+          [
+            2607,
+            1542
+          ],
+          [
+            2607,
+            1998
+          ],
+          [
+            2715,
+            1542
+          ],
+          [
+            2715,
+            1998
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "錦橋堂",
+        "isTextline": "true",
+        "confidence": 0.733
+      },
+      {
+        "boundingBox": [
+          [
+            2487,
+            1677
+          ],
+          [
+            2487,
+            2149
+          ],
+          [
+            2575,
+            1677
+          ],
+          [
+            2575,
+            2149
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "ざうさん",
+        "isTextline": "true",
+        "confidence": 0.658
+      },
+      {
+        "boundingBox": [
+          [
+            1984,
+            1643
+          ],
+          [
+            1984,
+            3073
+          ],
+          [
+            2084,
+            1643
+          ],
+          [
+            2084,
+            3073
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "一太祖二霊天より下降給ひ海水を尽りて",
+        "isTextline": "true",
+        "confidence": 0.823
+      },
+      {
+        "boundingBox": [
+          [
+            1849,
+            1701
+          ],
+          [
+            1849,
+            3060
+          ],
+          [
+            1954,
+            1701
+          ],
+          [
+            1954,
+            3060
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "以て国土を造建し玉ふ五大洲中開拓人",
+        "isTextline": "true",
+        "confidence": 0.852
+      },
+      {
+        "boundingBox": [
+          [
+            1713,
+            1694
+          ],
+          [
+            1713,
+            3078
+          ],
+          [
+            1813,
+            1694
+          ],
+          [
+            1813,
+            3078
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "一烟の年暦。頗る遅速ありと雖皆凡",
+        "isTextline": "true",
+        "confidence": 0.854
+      },
+      {
+        "boundingBox": [
+          [
+            1582,
+            1699
+          ],
+          [
+            1582,
+            3080
+          ],
+          [
+            1679,
+            1699
+          ],
+          [
+            1679,
+            3080
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "弟にして日月父母たるの正理豈異ること有",
+        "isTextline": "true",
+        "confidence": 0.856
+      },
+      {
+        "boundingBox": [
+          [
+            1451,
+            1681
+          ],
+          [
+            1451,
+            3075
+          ],
+          [
+            1556,
+            1681
+          ],
+          [
+            1556,
+            3075
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "らんや。閣龍氏新世界を検出し。墨利屈氏",
+        "isTextline": "true",
+        "confidence": 0.857
+      },
+      {
+        "boundingBox": [
+          [
+            1318,
+            1657
+          ],
+          [
+            1318,
+            3069
+          ],
+          [
+            1414,
+            1657
+          ],
+          [
+            1414,
+            3069
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "次で全州成れり。南北亜墨利加則ち是なり。",
+        "isTextline": "true",
+        "confidence": 0.857
+      },
+      {
+        "boundingBox": [
+          [
+            1186,
+            1662
+          ],
+          [
+            1186,
+            3067
+          ],
+          [
+            1287,
+            1662
+          ],
+          [
+            1287,
+            3067
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "而て西客此地に至り。人種盛んに産業そな",
+        "isTextline": "true",
+        "confidence": 0.826
+      },
+      {
+        "boundingBox": [
+          [
+            1058,
+            1643
+          ],
+          [
+            1058,
+            3069
+          ],
+          [
+            1159,
+            1643
+          ],
+          [
+            1159,
+            3069
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "はり。物として足ざるなし。茲に北洲合衆国人詰",
+        "isTextline": "true",
+        "confidence": 0.825
+      },
+      {
+        "boundingBox": [
+          [
+            924,
+            1611
+          ],
+          [
+            924,
+            3067
+          ],
+          [
+            1027,
+            1611
+          ],
+          [
+            1027,
+            3067
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "聖東業阿尓熱なる者。性三徳を兼備し。忠",
+        "isTextline": "true",
+        "confidence": 0.852
+      },
+      {
+        "boundingBox": [
+          [
+            786,
+            1602
+          ],
+          [
+            786,
+            3055
+          ],
+          [
+            886,
+            1602
+          ],
+          [
+            886,
+            3055
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "には生命を顧ず。政には国體を失はず遂に英国の",
+        "isTextline": "true",
+        "confidence": 0.828
+      },
+      {
+        "boundingBox": [
+          [
+            662,
+            1517
+          ],
+          [
+            662,
+            3060
+          ],
+          [
+            754,
+            1517
+          ],
+          [
+            754,
+            3060
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "苛政を脱さしめ。独立建国の威を後世に伝ふるに至り",
+        "isTextline": "true",
+        "confidence": 0.765
+      },
+      {
+        "boundingBox": [
+          [
+            530,
+            1460
+          ],
+          [
+            530,
+            2988
+          ],
+          [
+            631,
+            1460
+          ],
+          [
+            631,
+            2988
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "其功業を稗史に綴りて。童蒙画説となすにとな",
+        "isTextline": "true",
+        "confidence": 0.79
+      },
+      {
+        "boundingBox": [
+          [
+            403,
+            1521
+          ],
+          [
+            403,
+            2896
+          ],
+          [
+            507,
+            1521
+          ],
+          [
+            507,
+            2896
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "文久元辛酉秋仮名垣魯文誌",
+        "isTextline": "true",
+        "confidence": 0.7
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 4540,
+    "img_height": 4077,
+    "img_path": "童絵解万国噺 (1861) - NDL 207-1695/vol4/p0004.jpg",
+    "img_name": "p0004.jpg"
+  }
+}

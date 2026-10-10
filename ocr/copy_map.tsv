@@ -1,0 +1,87 @@
+waseda_vol	page	ndl_vol	page	score
+waseda_vol1	p0001			0.00
+waseda_vol1	p0002	ndl_vol1	p0004	0.59
+waseda_vol1	p0003	ndl_vol1	p0005	0.74
+waseda_vol1	p0004	ndl_vol1	p0006	0.73
+waseda_vol1	p0005	ndl_vol2	p0005	0.61
+waseda_vol1	p0006	ndl_vol2	p0006	0.48
+waseda_vol1	p0007			0.00
+waseda_vol1	p0008	ndl_vol1	p0007	0.56
+waseda_vol1	p0009	ndl_vol1	p0008	0.81
+waseda_vol1	p0010	ndl_vol1	p0009	0.93
+waseda_vol1	p0011	ndl_vol1	p0010	0.90
+waseda_vol1	p0012	ndl_vol1	p0011	0.79
+waseda_vol1	p0013	ndl_vol1	p0012	0.84
+waseda_vol1	p0014	ndl_vol1	p0013	0.87
+waseda_vol1	p0015	ndl_vol1	p0014	0.83
+waseda_vol1	p0016	ndl_vol1	p0015	0.75
+waseda_vol1	p0017	ndl_vol1	p0016	0.80
+waseda_vol1	p0018	ndl_vol1	p0017	0.83
+waseda_vol1	p0019	ndl_vol1	p0018	0.82
+waseda_vol1	p0020	ndl_vol1	p0019	0.82
+waseda_vol1	p0021	ndl_vol1	p0020	0.88
+waseda_vol1	p0022	ndl_vol1	p0021	0.90
+waseda_vol1	p0023	ndl_vol1	p0022	0.85
+waseda_vol1	p0024	ndl_vol1	p0023	0.77
+waseda_vol1	p0025	ndl_vol2	p0008	0.77
+waseda_vol1	p0026	ndl_vol2	p0009	0.79
+waseda_vol1	p0027	ndl_vol2	p0010	0.75
+waseda_vol1	p0028	ndl_vol2	p0011	0.75
+waseda_vol1	p0029	ndl_vol2	p0012	0.83
+waseda_vol1	p0030	ndl_vol2	p0013	0.28
+waseda_vol1	p0031	ndl_vol2	p0014	0.77
+waseda_vol1	p0032	ndl_vol2	p0015	0.86
+waseda_vol1	p0033	ndl_vol2	p0016	0.82
+waseda_vol1	p0034	ndl_vol2	p0017	0.70
+waseda_vol1	p0035	ndl_vol2	p0018	0.65
+waseda_vol1	p0036	ndl_vol2	p0019	0.77
+waseda_vol1	p0037	ndl_vol2	p0020	0.52
+waseda_vol1	p0038	ndl_vol2	p0021	0.86
+waseda_vol1	p0039	ndl_vol2	p0022	0.80
+waseda_vol1	p0040	ndl_vol2	p0023	0.78
+waseda_vol1	p0041	ndl_vol2	p0024	0.81
+waseda_vol1	p0042	ndl_vol2	p0025	0.55
+waseda_vol1	p0043			0.00
+waseda_vol2	p0001			0.00
+waseda_vol2	p0002	ndl_vol4	p0004	0.62
+waseda_vol2	p0003			0.00
+waseda_vol2	p0004	ndl_vol3	p0004	0.65
+waseda_vol2	p0005			0.00
+waseda_vol2	p0006	ndl_vol3	p0006	0.15
+waseda_vol2	p0007	ndl_vol3	p0007	0.81
+waseda_vol2	p0008	ndl_vol3	p0008	0.70
+waseda_vol2	p0009	ndl_vol4	p0012	0.31
+waseda_vol2	p0010	ndl_vol3	p0009	0.85
+waseda_vol2	p0011	ndl_vol3	p0010	0.88
+waseda_vol2	p0012	ndl_vol3	p0011	0.81
+waseda_vol2	p0013	ndl_vol3	p0012	0.94
+waseda_vol2	p0014	ndl_vol3	p0013	0.89
+waseda_vol2	p0015			0.00
+waseda_vol2	p0016	ndl_vol3	p0015	0.87
+waseda_vol2	p0017	ndl_vol3	p0016	0.78
+waseda_vol2	p0018	ndl_vol3	p0017	0.73
+waseda_vol2	p0019	ndl_vol3	p0018	0.87
+waseda_vol2	p0020	ndl_vol3	p0019	0.80
+waseda_vol2	p0021	ndl_vol3	p0020	0.83
+waseda_vol2	p0022	ndl_vol3	p0021	0.84
+waseda_vol2	p0023	ndl_vol3	p0022	0.82
+waseda_vol2	p0024	ndl_vol3	p0023	0.40
+waseda_vol2	p0025	ndl_vol4	p0007	0.84
+waseda_vol2	p0026	ndl_vol4	p0008	0.84
+waseda_vol2	p0027	ndl_vol4	p0009	0.92
+waseda_vol2	p0028	ndl_vol4	p0010	0.90
+waseda_vol2	p0029	ndl_vol4	p0011	0.89
+waseda_vol2	p0030	ndl_vol4	p0012	0.79
+waseda_vol2	p0031	ndl_vol4	p0013	0.85
+waseda_vol2	p0032	ndl_vol4	p0014	0.78
+waseda_vol2	p0033	ndl_vol4	p0015	0.81
+waseda_vol2	p0034	ndl_vol2	p0002	0.12
+waseda_vol2	p0035	ndl_vol4	p0017	0.83
+waseda_vol2	p0036	ndl_vol4	p0018	0.88
+waseda_vol2	p0037	ndl_vol4	p0019	0.86
+waseda_vol2	p0038	ndl_vol4	p0020	0.82
+waseda_vol2	p0039	ndl_vol4	p0021	0.74
+waseda_vol2	p0040	ndl_vol4	p0022	0.83
+waseda_vol2	p0041	ndl_vol4	p0023	0.85
+waseda_vol2	p0042	ndl_vol4	p0024	0.60
+waseda_vol2	p0043			0.00

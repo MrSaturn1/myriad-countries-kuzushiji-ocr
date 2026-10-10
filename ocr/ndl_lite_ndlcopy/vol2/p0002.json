@@ -1,0 +1,287 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1310,
+            570
+          ],
+          [
+            1310,
+            674
+          ],
+          [
+            1421,
+            570
+          ],
+          [
+            1421,
+            674
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.528
+      },
+      {
+        "boundingBox": [
+          [
+            1146,
+            567
+          ],
+          [
+            1146,
+            707
+          ],
+          [
+            1256,
+            567
+          ],
+          [
+            1256,
+            707
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "申",
+        "isTextline": "true",
+        "confidence": 0.579
+      },
+      {
+        "boundingBox": [
+          [
+            995,
+            574
+          ],
+          [
+            995,
+            704
+          ],
+          [
+            1110,
+            574
+          ],
+          [
+            1110,
+            704
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "葵",
+        "isTextline": "true",
+        "confidence": 0.584
+      },
+      {
+        "boundingBox": [
+          [
+            846,
+            567
+          ],
+          [
+            846,
+            696
+          ],
+          [
+            953,
+            567
+          ],
+          [
+            953,
+            696
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "一",
+        "isTextline": "true",
+        "confidence": 0.547
+      },
+      {
+        "boundingBox": [
+          [
+            539,
+            564
+          ],
+          [
+            539,
+            690
+          ],
+          [
+            634,
+            564
+          ],
+          [
+            634,
+            690
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "す",
+        "isTextline": "true",
+        "confidence": 0.35
+      },
+      {
+        "boundingBox": [
+          [
+            684,
+            564
+          ],
+          [
+            684,
+            666
+          ],
+          [
+            793,
+            564
+          ],
+          [
+            793,
+            666
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "□□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.39
+      },
+      {
+        "boundingBox": [
+          [
+            1364,
+            1626
+          ],
+          [
+            1364,
+            1849
+          ],
+          [
+            1439,
+            1626
+          ],
+          [
+            1439,
+            1849
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "南際恒",
+        "isTextline": "true",
+        "confidence": 0.314
+      },
+      {
+        "boundingBox": [
+          [
+            1179,
+            1421
+          ],
+          [
+            1179,
+            1848
+          ],
+          [
+            1263,
+            1421
+          ],
+          [
+            1263,
+            1848
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "●中央区",
+        "isTextline": "true",
+        "confidence": 0.323
+      },
+      {
+        "boundingBox": [
+          [
+            924,
+            943
+          ],
+          [
+            924,
+            1438
+          ],
+          [
+            1019,
+            943
+          ],
+          [
+            1019,
+            1438
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "名誉之内訳巻",
+        "isTextline": "true",
+        "confidence": 0.363
+      },
+      {
+        "boundingBox": [
+          [
+            878,
+            1455
+          ],
+          [
+            878,
+            1839
+          ],
+          [
+            945,
+            1455
+          ],
+          [
+            945,
+            1839
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "4年年二月十一",
+        "isTextline": "true",
+        "confidence": 0.379
+      },
+      {
+        "boundingBox": [
+          [
+            622,
+            835
+          ],
+          [
+            622,
+            1406
+          ],
+          [
+            718,
+            835
+          ],
+          [
+            718,
+            1406
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "正夫金太太殿",
+        "isTextline": "true",
+        "confidence": 0.518
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 4582,
+    "img_height": 4316,
+    "img_path": "童絵解万国噺 (1861) - NDL 207-1695/vol2/p0002.jpg",
+    "img_name": "p0002.jpg"
+  }
+}

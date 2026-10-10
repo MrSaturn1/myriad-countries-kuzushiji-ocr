@@ -1,0 +1,92 @@
+## R
+[margin] 万国三
+[margin] 十七
+[main] ［つゞき］つゝと見れば人家《ひとや》にあらずしてこれ
+山神〔焼?〕のほこらのまへにつらがまちのする
+どきおのこら木々のえだはををりくべつゝたき
+びをなしてとしいまだ二八はすぎぬみめよきおと
+めを大木のみぎにいましめかしらとおぼしき
+わるものがめい〳〵くわう〳〵たるつるぎを
+ぬきもちおとめのまなさきへひら
+めかしておのがこゝろにしたがはせん
+といどむやうすを
+う〔か?〕ゞひ見てかやつ
+らば山ぞくよとう
+のたぐひならん
+かいづれのち
+よりかかよはき
+女子をかどわかしこれをおかせしそのゝちに
+あそびなんどにうりわたさんこゝろがまへと
+しられたりにくきぞくのふるまひ
+かなイデいきのねをとゞめ
+てのちおとめをすくひ
+えさせんとおもふ
+ものから身がまへ
+なし木かげを
+たちいで
+その
+ところへふい
+にたちいで▲
+[main] ▲ひとりのぞくをくつを
+あげてはつしとけたふし
+いま一人を△
+[main] △くび〔す?〕〔ぢ?〕
+つ〔か?〕〔み?〕
+〔てだまのごとく?〕
+なげのけて
+おとめが
+ふつと
+きり仁王
+だちにぞ
+たつたり
+ける
+ふたりの
+ぞくは
+やうやくに
+こしをかゝへ
+ておきあがり
+かうべを
+あげてわしん
+とんを見つゝ
+まなこをむきいだし
+いかれるこゑを
+ふりたて〔ゝ?〕なに
+ものなれば
+われ〳〵が
+たのしみを
+きはめんと
+なせるを
+## L
+[margin] 万国三
+[margin] 十八
+[caption] 本名未詳
+[caption] 話聖東
+[main] さまたげいさゝかの
+ちからをたのみに
+からきめ見せし
+やとんで火にいる
+なつのむしいで
+われ〳〵が手
+りやうりににく
+をそぎほねを
+けづりてあつものに
+してあんばいせん
+かくごをせよとよば
+はりながらおびたる
+つるぎをひらめかし
+みぎひだり
+よりいつ
+せい
+に⊠
+[main] ⊠うつて
+かゝれば
+わしんとんその
+身をはやく
+しづまして
+ひとりがえり
+がみむづと
+つかみ［つぎへ］
+## order
+R top (つゞき) ▲ → R middle ▲…△ → R bottom △…なせるを (continues directly) → L bottom right さまたげ…⊠ → L bottom left ⊠…つかみ (つぎへ)
+## notes
+The "house" turns out to be a mountain shrine where fierce bandits have a campfire and a beautiful girl of about sixteen tied to a tree, threatening her with swords; Washington, judging them kidnappers who mean to sell her to a brothel, steps out, kicks one down, throws the other aside, frees the girl, and the bandits rise, threaten to cook him, and attack — he dodges and grabs one by the collar. Labels: 話聖東 (Washington) and 本名未詳 ("real name unknown") beside a masked figure. Unsure: the faded opening columns of the R bottom block (くびすぢつかみ / てだまのごとく are best guesses from both scans), 山神〔焼〕, ふりたて〔ゝ〕.

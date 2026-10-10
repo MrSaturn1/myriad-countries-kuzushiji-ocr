@@ -1,0 +1,53 @@
+## R
+[margin] 万国初　十
+[main] 〔つゞき〕ふねのしるしとす
+てんぢくにもりやうぶん
+ありてかのちにそなふる
+おほぶね一百よそう
+ほんごくよりして
+ざいきんのやく
+にんおほよそ
+四千人かつまた
+たみのぶやくをえらむ
+には十八さいより四十五
+さいにいたるものをかぎる
+せんちうには〔ふかついす?〕じん
+ぞくにくろんぼうといへるものを
+ぞくこくよりよびつどへてこれを
+あまためしつかふかのくろんぼう
+はゑんねつのくにゝうまれて
+あつさにたへかねあさはんみづに
+のみいりてあそぶゆへみづの▲
+[main] ▲な〔か?〕のはたらきは
+あ〔たか?〕もうをのごとく
+じざいにしてずいちうに
+いつちうやあるとも
+さらにつかる〔ゝ?〕
+ことなし
+[caption] 魯文譯
+芳虎画
+## L
+[margin] 万国初　〔十二?〕
+[caption] 魯西亜国部《おろしやこくのぶ》
+[main] このくにはゑうろつぱしう
+とあじやしうにまたがり
+たるぢつゞきのたいこくなりいにしへはむすこ
+びやといふくにのみかどべいとるていはざいとく
+ばんにんにすぐれはじめててんしのくらゐ
+につきたりこのみかどおろしやかい
+びやくより一千六百七十二年▲
+[main] ▲もすこうといへるみや
+こにうまれ給ひいとけ
+なき△
+[main] △より
+そう
+めい
+えい
+ち
+すでに
+てんしのとくにそなはり給ひしゆへちゝわうそうりやうを
+さしおきくらゐをつがしむときにへいとるていとし十一さいしかるに〔つゞく〕
+## order
+R top つゞき ▲ → R lower block (beside the two workmen) ▲ … ことなし (end of section); credit box 魯文譯 芳虎画 at R centre → L top-right 魯西亜国部 heading block ▲ → L lower-right ▲ … △ → L top-left △ short columns → L two long left columns つゞく
+## notes
+R ends the England section: England holds territory in India (Tenjiku) with 100 large ships and about 4,000 officials, conscripts men aged 18–45, and employs many black servants ("kuronbō") from its colonies who, born in hot lands, swim like fish day and night without tiring; credit "translated by Robun, illustrated by Yoshitora". L begins the Russia (Oroshiya) section: a great country spanning Europe and Asia, formerly called Muscovy (むすこびや), whose emperor Peter (べいとるてい) was born in Moscow (もすこう) in 1672 by Russian reckoning, so wise from childhood that his father passed over the heir and made him king at age 11. Unsure: the word for the black servants (〔ふかついす〕じん; lite ふかついす, v3 and the Waseda copy look more like ふろいす), な〔か〕の, あ〔たか〕も, つかる〔ゝ〕, and the heading's small furigana.

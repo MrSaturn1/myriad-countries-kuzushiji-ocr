@@ -1,0 +1,79 @@
+## R
+[margin] 万国初
+[margin] 十■
+[main] 〔つゞき〕しよもつをあが
+なひもとめこくちうの
+ふないにがくもんじよを
+たてあらたにてらの
+おきてをさだめえう
+らつぱのしよこくより
+へいがくにくわしくつうじ
+しよげいをあきら
+かにきはめたるひと
+もろ〳〵のさいくする
+しよくにんをまねぎ
+むかへくにのうちのひやくしやう
+をめしてつげていわくなんぢ
+らをしてふうきならしめ
+くにをまもりてあかそひ
+みだれざるやうになして
+えさせんとのたまふ
+にぞひやくしやうら
+なみだをながしてみかど
+のいつくしみふかきを
+よろこぶされば
+それよりかなやま
+をひらきまた
+ちくせうをそだてゝ
+かうさくをすゝめしろを
+## L
+[margin] 万国初
+[margin] ■
+[main] つきちをおこすのがく
+しやを四はうにつかは
+してりやうぶんしよ
+こくのゑづをつくら
+しめもろ〴〵のさい
+くばをまうけて
+いつさいいりよう
+のものをつくらす
+みかどしよ
+こくをしたがへて
+くにたみをまし
+てんをまつりて
+おほいにしやすこれひとを
+ころせるものとうぞくのみづから
+あやまちをあらたむるものは
+このれつに▲
+[main] ▲あらず
+一千七百
+十七年に
+いたるまで
+すゝ〔む?〕る△
+[main] △くら
+ゐを
+てん
+に
+〔づ?〕
+る
+ま
+つ
+り
+ごと
+をあづ
+る
+くわんにん
+しよしう
+のそうこく
+ちうの
+みん■
+ののぞみ
+〔をそくそ?〕
+そん
+がうを
+たてまつ〔り?〕
+〔つゞく〕
+## order
+R top 〔つゞき〕 → L top (continues directly from R) ▲ → L top-left ▲ △ → L bottom caption strip △ (one or two characters per column, read right to left) 〔つゞく〕
+## notes
+Continuation of an account of a (Russian?) emperor's reforms: he founded schools in the capital, reformed temple rules, invited European scholars versed in military science and artisans, promised the farmers prosperity, opened mines, raised livestock, encouraged farming, built castles, sent scholars to map his territories, set up workshops, subdued the provinces and proclaimed an amnesty (murderers and repentant thieves excepted); by 1717 officials and the people of all provinces offered him an honorific title (尊号). NDL copy is torn at the bottom caption; read mainly from the Waseda copy (same spread). Unsure: すゝ〔む?〕る ending the ▲ block; てんに〔づ?〕る (lite つゞる); をあづ / る (probably for まつりごとをあづかる; no か seen); 〔をそくそ?〕 before そんがう; そうこく vs そうとく; page numbers cut by binding.

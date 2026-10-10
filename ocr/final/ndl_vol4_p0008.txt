@@ -1,0 +1,64 @@
+## R
+[margin] 万国四
+[margin] 四
+[main] 【つゞき】あとははゝうへわらは
+のみそのときわらはゝとなりの
+いへにものをもとめにいで
+たりしにあにはからんいへの
+そとにみのたけたかきふたり
+のくせものたゞずみゐしが
+わらはを見るよりやにはに
+おさへてうごかせずくちに
+ぬのをはませさいうのかいなを
+うしろにいましめかたにかつぎて
+とぶがごとくこのつぢだうの
+まへにきたりてわらはを木立《こだち》
+につなぎおきふたりのこゝろに
+したがふべしさもなくばいつたう
+のしたにかうべをはねんとて
+つるぎをぬきていどむをり。をりよく
+わしんどんぎみのきたらせ給ひて
+はづかしめをかうむらんとせしを
+のがれふたゝびちゝはゝあにうへ
+にまみゆることをえたりしは
+いのちのおやともせうす
+べきこの身にとりての
+だいおんじんいとよろ
+こばしく候ひきあにうへ
+よきにおんれいをのべ給はれ
+トき〔く?〕たびにふらんきりんは
+わしんとんがとしなをいまだ
+わかくしでかくまくざんのへん
+[main] △あさからずふたゝびりやうてを
+ちにつけていもとがきなんを
+すくひたりしそのだいおんを
+はいしやなし「それがしのすみ
+かとさだむる。ういるりあむ
+ひゆるく。の地《ち》はこゝを
+さることとをからず
+きやうだいかしこへ
+しるべなしたてまつらん
+にしばしがほど見ぐる
+しくともいこわせ
+給ひてちゝはゝにも
+めんくわいをとげ
+させ給へ〔とく〳〵?〕ト
+はら〔か?〕ら【つぎへ】
+[caption] ○拂郎《ふらん》基林《きりん》兄妹《きやうだい》が父《ちゝ》フランボレス里人《さとびと》を従《したが》へて娘《むすめ》の行方《ゆくへ》を尋《たづ》る條
+[caption] 次《つぎ》に見へたり
+## L
+[margin] 万国四
+[margin] 五
+[main] げをたいぢかつはぞくとを
+うちほろぼして◀
+[main] ◀いもとのき
+なんをすく
+ひたりし
+そのゆう
+もうにしたを
+まきかんしやう
+すること△
+## order
+R top つゞき → L top (◀ → ◀ within block) △ → R middle △ … つぎへ; captions R bottom
+## notes
+Washington rescues Franklin's sister, who had been bound by two ruffians before a roadside shrine; she thanks him as her life-saver, Franklin marvels at the young Washington who had already slain the monster of "Kakumakuzan" and destroyed bandits, and the grateful brother and sister are invited to rest at his home in "Uirriamu-hiyuruku" (Williamsburg?) and reunite with their father Franboresu, shown in the picture searching for his daughter with villagers. Unsure: きくたびに (row 42), the とく〳〵 before ト, final はらから; page numbers 四/五 read from the Waseda copy (faint in NDL).

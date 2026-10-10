@@ -1,0 +1,13 @@
+## R
+[margin] 万国三
+[margin] ■
+[caption] ■■■■■■■■■■■■■■■■■■■■
+## L
+[margin] 万国三
+[margin] ■
+[caption] ■■■ ■國■ ■■■ ■■■ ■■■
+[caption] 米■■ ■■ ■■
+## order
+Full-page colour picture (no running text): R lower-centre dark cartouche → L upper-left cartouche (five short columns) → L upper-centre cartouche (three columns).
+## notes
+Colour frontispiece of part 3: a woman in a patterned robe (presumably はりな/巴利那) is swept up into the air while a man (presumably めりけん/米理幹) clings to a pole below, and on R a huge shaggy three-headed demon looms out of the storm clouds with chains and light-rays (the 三頭六眼 demon of p0015). The three cartouches are printed black on solid blue and are almost entirely illegible in both NDL (worn, noisy) and Waseda vol2/p0005 (low resolution): L upper-left has five columns of kanji with small kana, of which only 國 (col. 2) is clear (vague shapes like 命/一, 千/ゝ, 本, へ); L upper-centre has three columns whose first glyph is clearly 米 (possibly a name label beginning 米, with small kana beside it); the dark R cartouche shows only faint lines of small script. The blue shape at upper left and the rays at top of R are patterning, not text. Margins: 万国三 legible on both sides; page numbers cut by the binding/too faint.

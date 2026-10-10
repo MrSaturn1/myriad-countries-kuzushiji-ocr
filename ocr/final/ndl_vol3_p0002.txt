@@ -1,0 +1,32 @@
+## R
+[caption] 安政七庚申年新版目次
+[main] 色表紙曽我物語《いろびやうしそがものがたり》 二
+[main] 初 為永春水作
+[main] 三 梅蝶樓國貞画
+[main] 佐崎 宮本 名響武術譽《なにひゞくぶじゆつのほまれ》 二
+[main] 初 楽亭西馬作
+[main] 三 同　画
+[main] 三世相錦繡文章《さんぜさうにしきぶんしやう》 二
+[main] 初 柳水亭種清作
+[main] 初〔ゟ?〕 哥川國郷画
+[main] 蝶鵆裾野皐月雨《てふちどりすそのゝさみだれ》 〔丹?〕
+[main] 二 柳煙亭種久作
+[main] 初より 一恵齋芳幾画
+[main] 金花七變化《ねこまた〔し?〕ちへんげ》
+[main] 初 鶴亭秀賀作
+[main] 二 三 梅蝶樓國貞画
+[caption] 武田膏　大貝百〔文?〕　小貝二十銅　中貝四十八銅　江戸人形町通 飯島啓三郎謹製
+[caption] 神仙 一角丸　気つけ 毒けし 小児五かん 諸病よし　調合所 上総國東金町 大野傳兵衛
+[caption] 地本 問屋　江両國横山町三丁目　辻岡屋文助
+[caption] 艸紙 〔白?〕 金松堂
+## L
+[main] 童繪解萬國噺《おさなゑときばんこくばなし》
+[main] 三編上之巻《さんべんじやうのまき》
+[main] 假名垣魯文譯
+[main] 一猛齋芳虎画
+[main] 文久辛酉春新刻
+[main] 錦橋堂 壽梓
+## order
+R catalogue (header, then title columns right → left, then advertisements right → left) → L title page (right → left)
+## notes
+Front matter of part 3, vol. 1: right page is the publisher Kinshōdō/Tsujiokaya Bunsuke's list of new books for Ansei 7 (1860) plus ads for Takeda plaster (Iijima Keizaburō, Edo Ningyōchō) and Ikkaku-gan pills (Ōno Denbei, Tōgane, Kazusa); left is the title page of 童絵解万国噺 三編上之巻, translated by Kanagaki Robun, illustrated by Ichimōsai Yoshitora, newly carved spring 1861. Unsure: small volume markers before 哥川國郷/after 皐月雨, a furigana kana in 金花七變化, the price 百〔文?〕, and 〔白?〕 beside 金松堂.

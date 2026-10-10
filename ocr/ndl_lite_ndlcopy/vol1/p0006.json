@@ -1,0 +1,687 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            4116,
+            854
+          ],
+          [
+            4116,
+            1790
+          ],
+          [
+            4229,
+            854
+          ],
+          [
+            4229,
+            1790
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "このまうこと",
+        "isTextline": "true",
+        "confidence": 0.354
+      },
+      {
+        "boundingBox": [
+          [
+            3957,
+            1115
+          ],
+          [
+            3957,
+            1711
+          ],
+          [
+            4084,
+            1115
+          ],
+          [
+            4084,
+            1711
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "仏狼西国",
+        "isTextline": "true",
+        "confidence": 0.613
+      },
+      {
+        "boundingBox": [
+          [
+            3788,
+            784
+          ],
+          [
+            3788,
+            1231
+          ],
+          [
+            3882,
+            784
+          ],
+          [
+            3882,
+            1231
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "此国は阿蘭陀",
+        "isTextline": "true",
+        "confidence": 0.79
+      },
+      {
+        "boundingBox": [
+          [
+            3666,
+            773
+          ],
+          [
+            3666,
+            937
+          ],
+          [
+            3746,
+            773
+          ],
+          [
+            3746,
+            937
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "英吉",
+        "isTextline": "true",
+        "confidence": 0.647
+      },
+      {
+        "boundingBox": [
+          [
+            3557,
+            768
+          ],
+          [
+            3557,
+            922
+          ],
+          [
+            3637,
+            768
+          ],
+          [
+            3637,
+            922
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "利に",
+        "isTextline": "true",
+        "confidence": 0.706
+      },
+      {
+        "boundingBox": [
+          [
+            3442,
+            759
+          ],
+          [
+            3442,
+            966
+          ],
+          [
+            3524,
+            759
+          ],
+          [
+            3524,
+            966
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "隣れる",
+        "isTextline": "true",
+        "confidence": 0.752
+      },
+      {
+        "boundingBox": [
+          [
+            3304,
+            748
+          ],
+          [
+            3304,
+            1300
+          ],
+          [
+            3408,
+            748
+          ],
+          [
+            3408,
+            1300
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "大国にして都を巴里",
+        "isTextline": "true",
+        "confidence": 0.73
+      },
+      {
+        "boundingBox": [
+          [
+            3210,
+            751
+          ],
+          [
+            3210,
+            1512
+          ],
+          [
+            3289,
+            751
+          ],
+          [
+            3289,
+            1512
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "斯といひセイネ河の畔にあり",
+        "isTextline": "true",
+        "confidence": 0.751
+      },
+      {
+        "boundingBox": [
+          [
+            3088,
+            747
+          ],
+          [
+            3088,
+            1683
+          ],
+          [
+            3185,
+            747
+          ],
+          [
+            3185,
+            1683
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "古暦はボウルボレ家統領せしが一度",
+        "isTextline": "true",
+        "confidence": 0.795
+      },
+      {
+        "boundingBox": [
+          [
+            2956,
+            748
+          ],
+          [
+            2956,
+            1842
+          ],
+          [
+            3061,
+            748
+          ],
+          [
+            3061,
+            1842
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "一王家ほろび共和合衆国となる後又",
+        "isTextline": "true",
+        "confidence": 0.765
+      },
+      {
+        "boundingBox": [
+          [
+            2839,
+            768
+          ],
+          [
+            2839,
+            1943
+          ],
+          [
+            2934,
+            768
+          ],
+          [
+            2934,
+            1943
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "変じて帝国となり那波列翁自立して",
+        "isTextline": "true",
+        "confidence": 0.778
+      },
+      {
+        "boundingBox": [
+          [
+            2715,
+            800
+          ],
+          [
+            2715,
+            1851
+          ],
+          [
+            2817,
+            800
+          ],
+          [
+            2817,
+            1851
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "一世帝と号すそのゝち同盟の諸国",
+        "isTextline": "true",
+        "confidence": 0.752
+      },
+      {
+        "boundingBox": [
+          [
+            2593,
+            930
+          ],
+          [
+            2593,
+            1997
+          ],
+          [
+            2688,
+            930
+          ],
+          [
+            2688,
+            1997
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "那波列翁を亡して故の王国とす",
+        "isTextline": "true",
+        "confidence": 0.773
+      },
+      {
+        "boundingBox": [
+          [
+            2426,
+            734
+          ],
+          [
+            2426,
+            3333
+          ],
+          [
+            2561,
+            734
+          ],
+          [
+            2561,
+            3333
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "ものおきはさまいの",
+        "isTextline": "true",
+        "confidence": 0.498
+      },
+      {
+        "boundingBox": [
+          [
+            1910,
+            1066
+          ],
+          [
+            1910,
+            1798
+          ],
+          [
+            2019,
+            1066
+          ],
+          [
+            2019,
+            1798
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "一北亜墨利加洲之内",
+        "isTextline": "true",
+        "confidence": 0.656
+      },
+      {
+        "boundingBox": [
+          [
+            1752,
+            759
+          ],
+          [
+            1752,
+            1100
+          ],
+          [
+            1839,
+            759
+          ],
+          [
+            1839,
+            1100
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "此国ハ元来",
+        "isTextline": "true",
+        "confidence": 0.776
+      },
+      {
+        "boundingBox": [
+          [
+            1637,
+            754
+          ],
+          [
+            1637,
+            1105
+          ],
+          [
+            1731,
+            754
+          ],
+          [
+            1731,
+            1105
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "欧邏巴人の",
+        "isTextline": "true",
+        "confidence": 0.752
+      },
+      {
+        "boundingBox": [
+          [
+            1519,
+            730
+          ],
+          [
+            1519,
+            980
+          ],
+          [
+            1597,
+            730
+          ],
+          [
+            1597,
+            980
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "開拓地に",
+        "isTextline": "true",
+        "confidence": 0.75
+      },
+      {
+        "boundingBox": [
+          [
+            1945,
+            2024
+          ],
+          [
+            1945,
+            2381
+          ],
+          [
+            2029,
+            2024
+          ],
+          [
+            2029,
+            2381
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "合衆国又",
+        "isTextline": "true",
+        "confidence": 0.58
+      },
+      {
+        "boundingBox": [
+          [
+            1843,
+            2022
+          ],
+          [
+            1843,
+            2388
+          ],
+          [
+            1928,
+            2022
+          ],
+          [
+            1928,
+            2388
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "共和政治州",
+        "isTextline": "true",
+        "confidence": 0.721
+      },
+      {
+        "boundingBox": [
+          [
+            1093,
+            729
+          ],
+          [
+            1093,
+            1178
+          ],
+          [
+            1177,
+            729
+          ],
+          [
+            1177,
+            1178
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "して季候大低",
+        "isTextline": "true",
+        "confidence": 0.779
+      },
+      {
+        "boundingBox": [
+          [
+            979,
+            719
+          ],
+          [
+            979,
+            1444
+          ],
+          [
+            1060,
+            719
+          ],
+          [
+            1060,
+            1444
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "我朝におなし都府を華盛",
+        "isTextline": "true",
+        "confidence": 0.803
+      },
+      {
+        "boundingBox": [
+          [
+            867,
+            733
+          ],
+          [
+            867,
+            1477
+          ],
+          [
+            941,
+            733
+          ],
+          [
+            941,
+            1477
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "頓といふその国の海口カリホル",
+        "isTextline": "true",
+        "confidence": 0.82
+      },
+      {
+        "boundingBox": [
+          [
+            748,
+            735
+          ],
+          [
+            748,
+            1496
+          ],
+          [
+            826,
+            735
+          ],
+          [
+            826,
+            1496
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "ニヤより舶を出し万国に往",
+        "isTextline": "true",
+        "confidence": 0.84
+      },
+      {
+        "boundingBox": [
+          [
+            626,
+            745
+          ],
+          [
+            626,
+            1548
+          ],
+          [
+            711,
+            745
+          ],
+          [
+            711,
+            1548
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "還して専貿易の道を盛ん",
+        "isTextline": "true",
+        "confidence": 0.821
+      },
+      {
+        "boundingBox": [
+          [
+            512,
+            776
+          ],
+          [
+            512,
+            1814
+          ],
+          [
+            597,
+            776
+          ],
+          [
+            597,
+            1814
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "にし通商を以て家産すといへり",
+        "isTextline": "true",
+        "confidence": 0.65
+      },
+      {
+        "boundingBox": [
+          [
+            372,
+            699
+          ],
+          [
+            372,
+            3223
+          ],
+          [
+            512,
+            699
+          ],
+          [
+            512,
+            3223
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.376
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 4596,
+    "img_height": 4401,
+    "img_path": "童絵解万国噺 (1861) - NDL 207-1695/vol1/p0006.jpg",
+    "img_name": "p0006.jpg"
+  }
+}

@@ -1,0 +1,37 @@
+## R
+[margin] 万国四
+[main] 序画口繪總て二葉
+[main] 合衆国の古事を表
+[main] せり其事実ハ小関
+[main] 姓が和訳せられし合
+[main] 衆国小誌上の巻十三
+[main] 州一致貨銭図解の
+[main] 條に誌せり且仙女
+[main] の持てる物ハヲイ
+[main] レフボーム樹なり
+[caption] 國父《こくふ》話聖東《わしんとん》
+[caption] 亜墨利加《あめりか》神仙女《しんせんぢよ》
+## L
+[margin] 万国四
+[caption] 三べんよりつゞき
+[main] かく
+[main] てその
+[main] とき
+[main] わしん
+[main] とんはふ
+[main] らんきりん
+[main] がかたれる
+[main] おもむき
+[main] しか〴〵の▲
+[main] ▲よしうちきゝ
+[main] つゝかたちをあら
+[main] ためいへるやう
+[main] 〽さてはかね〴〵ゑい
+[main] めいをきゝ
+[main] および
+[main] たる
+[caption] つゞく
+## order
+R note box (top) → R labels → L top (三べんよりつゞき) ▲ → L bottom ▲ つゞく
+## notes
+Right: a frontispiece of "Father of the Country" Washington drawing a bow beside an American goddess/fairy, with a note that the two frontispiece pictures show the founding of the United States, that the facts come from the 13-state union / coinage section of Kozeki's translation 合衆国小誌, and that the fairy holds an olive branch (ヲイレフボーム, Dutch olijfboom); left: a mountain waterfall landscape, story text continued from part 3 where Washington (わしんとん), hearing Franklin's (ふらんきりん) account, composes himself and says he has long heard of the man's fame. Slightly unsure of "よしうちきゝ / つゝ" at the start of the bottom block.

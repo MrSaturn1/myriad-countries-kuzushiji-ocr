@@ -1,0 +1,187 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1983,
+            275
+          ],
+          [
+            1983,
+            1863
+          ],
+          [
+            2084,
+            275
+          ],
+          [
+            2084,
+            1863
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "ルマントのゴイレーとようちゃん。",
+        "isTextline": "true",
+        "confidence": 0.315
+      },
+      {
+        "boundingBox": [
+          [
+            1200,
+            386
+          ],
+          [
+            1200,
+            640
+          ],
+          [
+            1314,
+            386
+          ],
+          [
+            1314,
+            640
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "ひとの",
+        "isTextline": "true",
+        "confidence": 0.443
+      },
+      {
+        "boundingBox": [
+          [
+            1079,
+            323
+          ],
+          [
+            1079,
+            485
+          ],
+          [
+            1159,
+            323
+          ],
+          [
+            1159,
+            485
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "もへ",
+        "isTextline": "true",
+        "confidence": 0.592
+      },
+      {
+        "boundingBox": [
+          [
+            930,
+            288
+          ],
+          [
+            930,
+            543
+          ],
+          [
+            1046,
+            288
+          ],
+          [
+            1046,
+            543
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "同十一日",
+        "isTextline": "true",
+        "confidence": 0.592
+      },
+      {
+        "boundingBox": [
+          [
+            793,
+            282
+          ],
+          [
+            793,
+            549
+          ],
+          [
+            888,
+            282
+          ],
+          [
+            888,
+            549
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "□□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.516
+      },
+      {
+        "boundingBox": [
+          [
+            756,
+            1960
+          ],
+          [
+            756,
+            2058
+          ],
+          [
+            1033,
+            1960
+          ],
+          [
+            1033,
+            2058
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "片車",
+        "isTextline": "true",
+        "confidence": 0.565
+      },
+      {
+        "boundingBox": [
+          [
+            350,
+            257
+          ],
+          [
+            350,
+            2973
+          ],
+          [
+            470,
+            257
+          ],
+          [
+            470,
+            2973
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "であるころうがあらざまらざまである。それはないをきります。",
+        "isTextline": "true",
+        "confidence": 0.312
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 4540,
+    "img_height": 4077,
+    "img_path": "童絵解万国噺 (1861) - NDL 207-1695/vol4/p0016.jpg",
+    "img_name": "p0016.jpg"
+  }
+}

@@ -1,0 +1,120 @@
+## R
+[margin] 万国四
+[margin] 十〔六?〕
+[caption] 阿丹土
+[caption] 拂郎基林
+[main] つゞき あまりあるとき
+つら〳〵おもふやうそも〳〵
+たうごく
+十三部は
+いぎり
+すこくにぞくす
+がゆへに
+ろんどん
+ふより
+やくにん
+きたりて
+くにのせいじを
+つかさどれども
+もとよりくにゝ
+きみなければ
+りんごくたこくの
+王侯《わうこう》らや
+もすればへいを
+むけくにをかす
+めんきざしあり
+われいやしくも
+たうごくのたみと
+うまれて
+さる
+をりにおめ〳〵
+見るにしの
+ばんやその
+ときに▲
+△武《ぶ》を
+〔ろう?〕じ
+軍陣
+の
+かけ〔?〕
+ひきを
+もつぱら
+にちやう
+練し
+〔ま?〕うと
+〔が?〕とし
+〔ざ?〕
+〔わ?〕
+そく
+〔はへたる?〕
+かのん〔をも?〕
+ちゐる△
+## L
+[margin] 万国四
+[margin] 十七
+[main] ▲のぞみ
+なばくにの
+ためにあだを
+ふせぎおかさるゝ
+ことなからしめんと
+むら〳〵のわかものばらを
+ひまあるごとによび
+つどへ兵〔法?〕
+をだんじ△
+△〔な?〕んどの
+大つゝあるひは
+ぼんべんけんつき
+でつぽうさま〴〵
+の兵器〔など?〕を
+あつめみづ
+からこれを
+こゝろみて
+あまたのもの
+にしなんせり
+かゝるほどにマヂ
+サがしはいのひやく
+せうばらはみな
+こと〴〵くあゝだむす
+がでしとなりて兵《へい》を
+ねるにいまは一軍《いちぐん》の
+そなへまつたくなりて
+せんじやうにいづるとも
+は〔づ?〕べきものはなかり
+けるにぞのうぎやうの
+いとまにはマヂサが
+やしきのそのにあつ
+まりその事にのみ
+こゝろをゆだねてけふも
+たがやしのいとまとて
+むら〳〵のわかものばら
+あつまりきたりて炮器
+をこゝろみぢんおしの⊗
+⊗あし
+ぞろへ
+にそのふの
+うちはかま
+びすくいと
+にぎはへる
+をりしもあれ
+ういるりあむ
+ひゆる〔く?〕の
+ふらんきりん
+はたうちに
+いさゝかしよ
+ようありて
+このところを
+うちすぐるに
+マチサがやしき
+のかまへのうちに
+ちやうれんのおと
+しきりなるにぞ
+もとよりこのめる
+みちなればたち
+とゞまりてついぢ
+のうちをさし
+のぞき目たゝき
+もせずに
+つゞく
+## order
+R top つゞき → L top ▲のぞみ △ → R bottom △武を △ → L middle △なんどの → L lower-left いとまには ⊗ → L middle-lower ⊗あしぞろへ → L bottom-left ちやうれんのおと つゞく
+## notes
+Reflecting that the 13 colonies are ruled by officials sent from London and lie open to foreign aggression, Adams (あゝだむす, captioned 阿丹土) drills the village youths in Majisa's (マヂサ) estate with cannon, bombs and bayonet muskets, until William "Hiyuruku" Franklin (ういるりあむ ひゆるくの ふらんきりん, captioned 拂郎基林), passing by on business, stops to watch the drill over the wall. The R-bottom block is badly unclear (〔ろう?〕じ, 〔ま?〕うと, 〔が?〕とし, the stray ざ/わ glyphs, 〔はへたる?〕, かのん〔をも?〕ちゐる); also unsure: 兵〔法?〕, 〔な?〕んどの, 兵器〔など?〕, R page number (十六 in the Waseda copy); マチサ is printed without dakuten in one place.

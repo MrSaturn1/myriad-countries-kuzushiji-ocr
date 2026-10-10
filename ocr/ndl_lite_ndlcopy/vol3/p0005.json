@@ -1,0 +1,37 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            608,
+            1518
+          ],
+          [
+            608,
+            1788
+          ],
+          [
+            670,
+            1518
+          ],
+          [
+            670,
+            1788
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.368
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 4526,
+    "img_height": 4217,
+    "img_path": "童絵解万国噺 (1861) - NDL 207-1695/vol3/p0005.jpg",
+    "img_name": "p0005.jpg"
+  }
+}

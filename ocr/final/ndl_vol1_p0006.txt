@@ -1,0 +1,34 @@
+## R
+[margin] 万国初
+[margin] 二
+[caption] 佛狼西國《ふらんす》
+[main] 此国ハ阿蘭陀《おらんだ》
+英吉《いぎりす》
+利に
+隣《とな》れる
+大国にして都を巴里《はり》
+斯《す》といひセイネ河の畔《ほとり》にあり
+古暦《いにしへ》ハボウルボレ家統領せしが一度
+王家ほろび共和合衆国《きやうわがつしゆうこく》となる後又
+変じて帝国となり那波列翁《なぽれおん》自立して
+一世帝と号すそのゝち同盟の諸国
+那波列翁《なぽれおん》を亡して故の王国とす
+## L
+[margin] 〔国初?〕
+[margin] 三
+[caption] 北亜墨利加洲之内《きたあめりかしうのうち》
+[main] 此国ハ元來
+歐邏巴人《ゑうろつぱじん》の
+開拓地に
+して季候大低
+我朝におなし都府を華盛《わしん》
+頓《とん》といふその国の海口カリホル
+ニヤより舶《ふね》を出し萬国に往
+還して専貿易の道を盛ん
+にし通商を以て家産すといへり
+[caption] 合衆国《がつしゆうこく》又
+共和政治州《きやうわせいぢしう》
+## order
+R cartouche (佛狼西國) → R main → L cartouche (北亜墨利加洲之内) → L main → L caption (合衆国又共和政治州)
+## notes
+France (Paris on the Seine; Bourbon house, republic, Napoleon's empire, restoration of the kingdom by the allied powers) and North America (a European-settled land, capital Washington, trading from the port of California). "ボウルボレ" is as printed (= Bourbon, ン possibly cut like レ); "家産すといへり" ending is worn (す/を and い/ら shapes); left-margin 柱 is mostly cut by the binding; furigana readings are approximate.

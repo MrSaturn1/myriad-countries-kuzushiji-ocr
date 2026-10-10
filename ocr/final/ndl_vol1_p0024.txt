@@ -1,0 +1,42 @@
+## R
+[margin] 万国〔初?〕 ■
+[caption] 魯西亞《おろしや》女帝《によてい》
+[main] ○だい二へんはおらんだあめりか
+なんきんのありさまをやわらげ
+つゞりひきつゞきしゆつぱんつかま
+つ候間あいかはらずごひやうばん
+よろしくおんもとめのほど
+ねがひあげたてまつり候
+さくしやふしてまうす
+[caption] ○魯西亞国《おろしやこく》伯徳琭《べとる》の
+都府情景《みやこのありさま》
+[caption] 假名垣魯文譯
+[caption] 一孟齋芳虎画
+## L
+[main] 口中御薬 固齦散 大包代百銅 小包代三十二銅
+能 一ぬけば 一うきば 一うみ血
+切 一血いづる 一はぐきはれ
+○用ひやうのう書にくはしく相しるし候
+[main] 清浄 精製 白妙《しろたへ》 一包代卅二銅
+此御薬あらひ
+粉はいかほど色黒き
+方にてもぬかぶくろの中へ
+少しづゝ入れ用ゆれば色
+白くなる事ゆきの〔し?〕
+[main] 寝小便大奇薬《ねしやうべんだいきやく》 一包代三百銅
+年久しき病症にてもよく小児男女
+■にて治る良方なり
+[main] 無病長寿 養生手引草《やうじやうてびきぐさ》 全二冊 京山翁著 廣重画
+美玉百人一首 中本形 全一冊
+紅梅百人一首 半紙本 全一冊
+雛鶴笹湯寿《ひなづるさゝゆのことぶき》 〔じやうるりぶんいでうと?〕 紅〔摺?〕大本
+女中用文玉手箱 中本形 京山翁著
+敵討白石噺《かたきうちしらいしばなし》 全二冊
+〔狂?〕言 伊賀越敵討物語 全二冊 芳虎画録
+頼三升曽我神垣《たのみますそがのかみがき》 三編 種清綴 讀切 國貞画
+新板 端唄大津絵節度々逸節
+川柳点地口画手本類数品
+## order
+R notice (beside portrait) → R caption → R title/artist credits → L top ads (R→L) → L bottom catalogue (R→L)
+## notes
+End of vol. 1: a notice that part 2 will cover Holland, America and Nanjing, with a portrait of the Russian Empress and a view of St Petersburg (伯徳琭), credits to Kanagaki Robun (text) and Ichimosai Yoshitora (pictures); the left page is publisher's ads (tooth powder, whitening powder 白妙, bedwetting cure) and a book catalogue (Kyozan, Hiroshige, Kunisada, Tanekiyo). Unsure: col 4 "つ候間" (り apparently omitted), the end of the 白妙 ad, the first glyph of the bedwetting ad's 2nd line, the small line beside 雛鶴笹湯寿, the 〔狂?〕言 prefix, and the faint margin page number.

@@ -1,0 +1,437 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            3967,
+            340
+          ],
+          [
+            3967,
+            640
+          ],
+          [
+            4046,
+            340
+          ],
+          [
+            4046,
+            640
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "おさな",
+        "isTextline": "true",
+        "confidence": 0.399
+      },
+      {
+        "boundingBox": [
+          [
+            3793,
+            308
+          ],
+          [
+            3793,
+            611
+          ],
+          [
+            3950,
+            308
+          ],
+          [
+            3950,
+            611
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "立里",
+        "isTextline": "true",
+        "confidence": 0.651
+      },
+      {
+        "boundingBox": [
+          [
+            3771,
+            753
+          ],
+          [
+            3771,
+            990
+          ],
+          [
+            3968,
+            753
+          ],
+          [
+            3968,
+            990
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "絵",
+        "isTextline": "true",
+        "confidence": 0.424
+      },
+      {
+        "boundingBox": [
+          [
+            3559,
+            358
+          ],
+          [
+            3559,
+            600
+          ],
+          [
+            3659,
+            358
+          ],
+          [
+            3659,
+            600
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "畢",
+        "isTextline": "true",
+        "confidence": 0.717
+      },
+      {
+        "boundingBox": [
+          [
+            3453,
+            338
+          ],
+          [
+            3453,
+            564
+          ],
+          [
+            3550,
+            338
+          ],
+          [
+            3550,
+            564
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "角",
+        "isTextline": "true",
+        "confidence": 0.737
+      },
+      {
+        "boundingBox": [
+          [
+            3827,
+            1846
+          ],
+          [
+            3827,
+            2564
+          ],
+          [
+            4040,
+            1846
+          ],
+          [
+            4040,
+            2564
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "上大輔様",
+        "isTextline": "true",
+        "confidence": 0.704
+      },
+      {
+        "boundingBox": [
+          [
+            2306,
+            249
+          ],
+          [
+            2306,
+            484
+          ],
+          [
+            2430,
+            249
+          ],
+          [
+            2430,
+            484
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.414
+      },
+      {
+        "boundingBox": [
+          [
+            2666,
+            895
+          ],
+          [
+            2666,
+            1087
+          ],
+          [
+            2753,
+            895
+          ],
+          [
+            2753,
+            1087
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "ばん",
+        "isTextline": "true",
+        "confidence": 0.39
+      },
+      {
+        "boundingBox": [
+          [
+            2467,
+            839
+          ],
+          [
+            2467,
+            1133
+          ],
+          [
+            2651,
+            839
+          ],
+          [
+            2651,
+            1133
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "万",
+        "isTextline": "true",
+        "confidence": 0.491
+      },
+      {
+        "boundingBox": [
+          [
+            2574,
+            1228
+          ],
+          [
+            2574,
+            1380
+          ],
+          [
+            2646,
+            1228
+          ],
+          [
+            2646,
+            1380
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "こく",
+        "isTextline": "true",
+        "confidence": 0.336
+      },
+      {
+        "boundingBox": [
+          [
+            2556,
+            1514
+          ],
+          [
+            2556,
+            1686
+          ],
+          [
+            2622,
+            1514
+          ],
+          [
+            2622,
+            1686
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "ばなし",
+        "isTextline": "true",
+        "confidence": 0.398
+      },
+      {
+        "boundingBox": [
+          [
+            2394,
+            1227
+          ],
+          [
+            2394,
+            1411
+          ],
+          [
+            2561,
+            1227
+          ],
+          [
+            2561,
+            1411
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "国",
+        "isTextline": "true",
+        "confidence": 0.346
+      },
+      {
+        "boundingBox": [
+          [
+            2320,
+            1996
+          ],
+          [
+            2320,
+            2333
+          ],
+          [
+            2508,
+            1996
+          ],
+          [
+            2508,
+            2333
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "編抄",
+        "isTextline": "true",
+        "confidence": 0.455
+      },
+      {
+        "boundingBox": [
+          [
+            1838,
+            381
+          ],
+          [
+            1838,
+            989
+          ],
+          [
+            1997,
+            381
+          ],
+          [
+            1997,
+            989
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "魯文訳",
+        "isTextline": "true",
+        "confidence": 0.623
+      },
+      {
+        "boundingBox": [
+          [
+            1682,
+            387
+          ],
+          [
+            1682,
+            980
+          ],
+          [
+            1827,
+            387
+          ],
+          [
+            1827,
+            980
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "芳虎画",
+        "isTextline": "true",
+        "confidence": 0.688
+      },
+      {
+        "boundingBox": [
+          [
+            812,
+            1695
+          ],
+          [
+            812,
+            2100
+          ],
+          [
+            917,
+            1695
+          ],
+          [
+            917,
+            2100
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "大ねへかじ六十",
+        "isTextline": "true",
+        "confidence": 0.677
+      },
+      {
+        "boundingBox": [
+          [
+            755,
+            2904
+          ],
+          [
+            755,
+            3084
+          ],
+          [
+            865,
+            2904
+          ],
+          [
+            865,
+            3084
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "山田",
+        "isTextline": "true",
+        "confidence": 0.381
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 4526,
+    "img_height": 4217,
+    "img_path": "童絵解万国噺 (1861) - NDL 207-1695/vol3/p0003.jpg",
+    "img_name": "p0003.jpg"
+  }
+}

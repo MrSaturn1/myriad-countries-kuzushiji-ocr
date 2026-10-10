@@ -1,0 +1,111 @@
+order	source	vol	page	pages	chars	note
+1	ndl	vol1	p0001		0	
+2	ndl	vol1	p0002	RL	307	
+3	ndl	vol1	p0003	R	15	
+4	ndl	vol1	p0004	RL	289	
+5	ndl	vol1	p0005	RL	218	
+6	ndl	vol1	p0006	RL	263	
+7	ndl	vol1	p0007	RL	273	
+8	ndl	vol1	p0008	RL	656	
+9	ndl	vol1	p0009	RL	553	
+10	ndl	vol1	p0010	RL	341	
+11	ndl	vol1	p0011	RL	138	
+12	ndl	vol1	p0012	L	316	
+13	ndl	vol1	p0013	L	288	
+14	ndl	vol1	p0014	RL	467	
+15	ndl	vol1	p0015	RL	528	
+16	ndl	vol1	p0016	L	350	
+17	ndl	vol1	p0017	RL	486	
+18	ndl	vol1	p0018	L	146	
+19	ndl	vol1	p0019	RL	471	
+20	ndl	vol1	p0020	RL	431	
+21	ndl	vol1	p0021	RL	334	
+22	ndl	vol1	p0022	RL	323	
+23	ndl	vol1	p0023	RL	380	
+24	ndl	vol1	p0024	RL	449	
+25	ndl	vol1	p0025		0	
+26	ndl	vol2	p0001		0	
+27	ndl	vol2	p0002		0	
+28	ndl	vol2	p0003	RL	278	
+29	ndl	vol2	p0004	RL	30	
+30	ndl	vol2	p0005	RL	262	
+31	ndl	vol2	p0006	L	36	
+32	ndl	vol2	p0007	R	22	
+33	ndl	vol2	p0008	RL	555	
+34	ndl	vol2	p0009	RL	200	
+35	ndl	vol2	p0010	RL	415	
+36	ndl	vol2	p0011	RL	344	
+37	ndl	vol2	p0012	RL	880	
+38	ndl	vol2	p0013	L	28	
+39	ndl	vol2	p0014	RL	569	
+40	ndl	vol2	p0015	RL	625	
+41	ndl	vol2	p0016	RL	619	
+42	ndl	vol2	p0017	RL	181	
+43	ndl	vol2	p0018	RL	289	
+44	ndl	vol2	p0019	RL	614	
+45	ndl	vol2	p0020	RL	301	
+46	ndl	vol2	p0021	RL	387	
+47	ndl	vol2	p0022	RL	549	
+48	ndl	vol2	p0023	RL	573	
+49	ndl	vol2	p0024	RL	731	
+50	ndl	vol2	p0025	RL	581	
+51	ndl	vol2	p0026		0	
+52	ndl	vol3	p0001		0	
+53	ndl	vol3	p0002	RL	275	
+54	ndl	vol3	p0003	R	19	
+55	ndl	vol3	p0004	L	275	
+56	ndl	vol3	p0005		0	
+57	ndl	vol3	p0006		0	
+58	ndl	vol3	p0007	RL	376	
+59	ndl	vol3	p0008	RL	444	
+60	ndl	vol3	p0009	RL	421	
+61	ndl	vol3	p0010	RL	381	
+62	ndl	vol3	p0011	RL	482	
+63	ndl	vol3	p0012	RL	463	
+64	ndl	vol3	p0013	RL	861	
+65	ndl	vol3	p0014		0	
+66	ndl	vol3	p0015	RL	533	
+67	ndl	vol3	p0016	RL	561	
+68	ndl	vol3	p0017	RL	229	
+69	ndl	vol3	p0018	RL	940	
+70	ndl	vol3	p0019	RL	347	
+71	ndl	vol3	p0020	RL	563	
+72	ndl	vol3	p0021	RL	656	
+73	ndl	vol3	p0022	RL	626	
+74	ndl	vol3	p0023	RL	580	
+75	ndl	vol3	p0024		0	
+76	ndl	vol4	p0001		0	
+77	ndl	vol4	p0002	RL	293	
+78	ndl	vol4	p0003	RL	44	
+79	ndl	vol4	p0004	RL	370	
+80	ndl	vol4	p0005	R	23	
+81	ndl	vol4	p0006	RL	173	
+82	ndl	vol4	p0007	RL	597	
+83	ndl	vol4	p0008	RL	632	
+84	ndl	vol4	p0009	RL	518	
+85	ndl	vol4	p0010	RL	758	
+86	ndl	vol4	p0011	RL	1263	
+87	ndl	vol4	p0012	RL	990	
+88	ndl	vol4	p0013	RL	771	
+89	ndl	vol4	p0014	RL	457	
+90	ndl	vol4	p0015	RL	521	
+91	ndl	vol4	p0016		0	
+92	ndl	vol4	p0017	RL	338	
+93	ndl	vol4	p0018	RL	608	
+94	ndl	vol4	p0019	RL	615	
+95	ndl	vol4	p0020	RL	601	
+96	ndl	vol4	p0021	RL	285	
+97	ndl	vol4	p0022	RL	780	
+98	ndl	vol4	p0023	RL	793	
+99	ndl	vol4	p0024	RL	591	
+100	ndl	vol4	p0025		0	
+101	waseda	vol1	p0002	R	155	not in NDL copy (best match 0.08 = ndl ('vol3', 'p0016') R)
+102	waseda	vol1	p0030	L	27	not in NDL copy (best match 0.30 = ndl ('vol2', 'p0013') L)
+103	waseda	vol1	p0042	L	80	not in NDL copy (best match 0.06 = ndl ('vol3', 'p0010') R)
+104	waseda	vol2	p0002	R	154	not in NDL copy (best match 0.09 = ndl ('vol3', 'p0016') R)
+105	waseda	vol2	p0003	R	15	not in NDL copy (best match 0.11 = ndl ('vol4', 'p0005') R)
+106	waseda	vol2	p0006	L	29	not in NDL copy (best match 0.04 = ndl ('vol1', 'p0010') R)
+107	waseda	vol2	p0009	R	629	not in NDL copy (best match 0.29 = ndl ('vol4', 'p0023') L)
+108	waseda	vol2	p0009	L	128	not in NDL copy (best match 0.18 = ndl ('vol1', 'p0015') L)
+109	waseda	vol2	p0034	L	20	not in NDL copy (best match 0.04 = ndl ('vol2', 'p0013') L)
+110	waseda	vol2	p0042	L	75	not in NDL copy (best match 0.07 = ndl ('vol3', 'p0010') R)

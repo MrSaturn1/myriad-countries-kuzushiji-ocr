@@ -1,0 +1,80 @@
+## R
+[margin] 万国三
+[margin] 九
+[caption] 巴利那
+[main] つゞき しそんはんも
+してじんぎのたねを
+のこす
+べしと
+ゆひげん
+ありしをこゝろに
+わすれずさいち
+すぐれしひとを
+たのみかのしんせ
+かいにわたらんと
+おもふはわが身
+のためのみなら
+ずしそんの
+さかえをおもへ
+ばなりしかるに
+きみはおなじ
+せかいをひらき
+たまひしあめり▲
+[main] ▲きゆすの
+すゑにまします
+よしをきゝまた
+ひとつには日ごろ
+## L
+[margin] 万国三
+[margin] 十
+[caption] 米理幹
+[main] よりとしわか〔い〕
+してそのさいち△
+[main] △ぼんならず
+おはしませばかゝる
+ひととつれそひて
+かのしんせかいへおも
+むきなばしそんの
+さかへうたがひなしと
+おもふものからひた
+すらこひわびことの
+こゝにおよべるなり
+なにとぞわらはが
+まごゝろをあはれ
+み給ひてめうと
+のかたらひなし給は
+りてもろともにあめりか
+せかいへつれのき給へと
+せつなるこひにめりけんも
+はりながおもひをかんせう
+してさあらばいくちよ⊗
+[main] ⊗よろづよも
+もろしらが⊠
+[main] ⊠まで
+えにし
+をむす
+ばん
+しかして
+のちに
+あめり
+かしうへ
+びんぎをもつて
+わたらんと
+ふかくもちかひを
+さだめけりこの
+をりめりけんが
+どうやくなるふろれ
+といへるねいかん
+ものふたりが
+ひそ〳〵かたらふを
+ものかげよりかい
+ま見て日ごろ
+なにかにじやま
+となるめりけんを
+つみにおとすは
+このときなりと
+こゝろによろこび つぎへ
+## order
+R top (つゞき) ▲ → R second block ▲ → L top-right 2 cols △ → L top main △ ⊗ → L top-left ⊗ ⊠ → L bottom ⊠ つぎへ
+## notes
+Paulina (はりな) recalls her ancestor's dying wish and begs Merriken (めりけん), descendant of Americus (あめりきゆす), to marry her and take her to the New World/America; he agrees and they vow to cross to America, but his wicked colleague(s) Furore (ふろれ) overhear and rejoice at a chance to frame him. ⊗ and ⊠ stand for the printed crossed-circle and boxed-hourglass continuation marks; よりとしわか〔い〕 (or わかく) and the reading of ふろれ / ねいかん are slightly uncertain.

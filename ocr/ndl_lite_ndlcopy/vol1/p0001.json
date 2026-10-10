@@ -1,0 +1,87 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1779,
+            520
+          ],
+          [
+            1779,
+            894
+          ],
+          [
+            2008,
+            520
+          ],
+          [
+            2008,
+            894
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "十九日朝",
+        "isTextline": "true",
+        "confidence": 0.603
+      },
+      {
+        "boundingBox": [
+          [
+            500,
+            528
+          ],
+          [
+            500,
+            2642
+          ],
+          [
+            831,
+            528
+          ],
+          [
+            831,
+            2642
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "万国噺初華大",
+        "isTextline": "true",
+        "confidence": 0.428
+      },
+      {
+        "boundingBox": [
+          [
+            474,
+            2408
+          ],
+          [
+            474,
+            2633
+          ],
+          [
+            845,
+            2408
+          ],
+          [
+            845,
+            2633
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "惣大",
+        "isTextline": "true",
+        "confidence": 0.395
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 4596,
+    "img_height": 4401,
+    "img_path": "童絵解万国噺 (1861) - NDL 207-1695/vol1/p0001.jpg",
+    "img_name": "p0001.jpg"
+  }
+}

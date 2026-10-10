@@ -1,0 +1,82 @@
+## R
+[margin] 万国四
+[margin] 十〔七?〕
+[caption] ヱジセ
+[main] ▲ひらめ〔か?〕しこれをつかふにそのはやわざ
+あたかもでんくわう△
+△石《せき》火《くわ》の
+ごとく
+にて
+かの
+ほこ
+を
+う
+〔し?〕
+ま
+に
+大地
+へ
+〔ど?〕う
+と
+〔つ?〕き
+たて
+かき〔?〕
+また
+じう
+わうに
+はせる
+ことかざ
+## L
+[margin] 万国四
+[margin] 十八〔?〕
+[caption] 拂郎基林
+[caption] 阿丹土
+[main] つゞき けんぶつ
+するに
+としいと
+わかき
+ひとりの
+をのこ
+むかひ
+のかた
+より
+うま
+のり
+いだし
+もつ
+たる
+ほこ
+を▲
+ぐるまの
+めぐるが
+ごとくゆみを
+とつて矢をつがひかけ
+さまにかのほこをよつ
+ぴいてへうとゐるにあや
+またずゑのたゞなか
+にしつしとあたりて
+づんざくこと八九寸
+ばかりこれを
+見るよりいち
+どうにこゑを
+そろへてほめ
+たりけるこの
+ときついぢの
+そとにありて
+けんぶつなしたる
+ふらんきりんは
+これもおもはず
+こゑをあげ
+ゑたり〳〵と
+ほむるにぞ
+わかものばらはついぢの
+そとにひとあることを
+こゝろづき〽なに
+ものなれば
+ついぢのそとよりうち
+をうかゞひみだりに
+つゞく
+## order
+L top つゞき → R right ▲ひらめかし △ → R bottom △石火の (short columns along the bottom edge, right to left) → L lower-right ぐるまの … → L lower-left みだりに つゞく
+## notes
+Franklin (ふらんきりん, captioned 拂郎基林) watches over the wall as a young man (Adams, captioned 阿丹土) rides out, whirls his spear like lightning, plants it in the ground, then shoots an arrow that pierces its shaft 8–9 sun deep; Franklin cries "well done!" and the youths notice the onlooker; Ejise (ヱジセ) is pictured on the R page. The R bottom run of tiny columns is faint and unsure (う〔し?〕まに, 〔ど?〕うと〔つ?〕きたて, かき〔?〕); also ひらめ〔か?〕し and the page numbers (十七/十八 in the Waseda copy).

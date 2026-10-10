@@ -1,0 +1,92 @@
+## R
+[margin] 万国二　五
+[caption] ○新国《しんこく》開発《かいほつ》の圖《づ》
+[main] つゞき　その
+手がらを
+せうびし
+国王■《とく》
+よりこがね
+をたまはる
+〔みつろ?〕
+〔いる?〕
+れむ
+じたい
+してうけ
+ずねがは
+くはひとつ
+のしんちを
+たまはるべし
+とねがふにぞ
+王〔に?〕いん
+しんを
+さづけて
+あめりかに
+ゆかしむ
+そのちを
+なづけて
+ぺんせへる
+ふあにいト
+[main] ▲いつかこくづゝにやくにんを
+おくはみないぎりすより
+いひつけすべていぎりすの
+おきてをもちゆるなり〔こ?〕
+ふらんすの人もまたこの
+ちのきたのかたをかいほつして
+しんふらんすといふだん〳〵きた
+よりしてみなみとひら〔く?〕
+こと〴〵くたみのすみ
+かありそのゝちいぎり
+すじんふらんす
+じんを△
+## L
+[margin] 〇二（丁付、丸囲み）
+[margin] 万国二　六
+[main] いふまた
+いぎりす人
+女王にねがふ
+てあめりかの
+みなみのちに
+ゐるそのとこ
+ろをまれい
+らんどトいふ
+またいぎり
+す人〇ひる
+ぎにあ〇みな
+みにいたる
+そのちを
+〇かろりな
+トいふこゝ
+において
+このち
+やうやく
+ひらけわけ
+て十三が
+こくとなれり
+十三がこくの
+ぞうにんじゆは
+おほむね百四
+五十万人なり▲
+[main] △おひ
+はらひ
+とちを
+うばひて
+ぞくする
+くにとなす
+又四五十
+ねんを
+へ〔て?〕たみ
+ひゞにおほく
+でんぢ〔ひら?〕く
+〔けかる?〕とき
+さんにな
+其〔うへ?〕■■
+よ■■の■
+りす王の
+こゝろよく
+しん日に
+いやまし
+[caption] つぎへ
+## order
+R top (つゞき) → L top ▲ → R bottom ▲ → L bottom △ (box つぎへ)
+## notes
+After the King rewards (Admiral Penn's) services with gold, (his son, apparently "いるれむ" = William) declines and asks instead for new land; the King grants a charter and he goes to America, naming the land "ぺんせへるふあにい" (Pennsylvania); other English settlers found Maryland (まれいらんど), Virginia (ひるぎにあ) and Carolina (かろりな), forming the thirteen colonies of about 1.45 million people. The bottom text says each colony had officials appointed from England under English law, the French opened "New France" (しんふらんす) in the north, and the English later drove the French out, after which the land prospered for 40–50 years. Unsure: the glyph after 国王 (cursive kanji glued with furigana とく/こく), the column read みつろ (possibly 其子 "his son"), and the badly worn lower L columns (でんぢ…/…とき/さんにな/其うへ…/よ…).

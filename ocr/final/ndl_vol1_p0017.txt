@@ -1,0 +1,77 @@
+## R
+[margin] 万国初
+[margin] 十三
+[caption] 賢人れほる
+[main]
+つゞきがくもんいまださかんに
+おこらずよろしくほかのくにの
+がくしやをまねぎそのみちを
+あきらむべしとてすなはちあめが
+したのがくしやをまねくなるに
+へるしやのうちぜねへるといへるところの
+ひとれほるといへる大けんじんめしに
+おうじてきたるとしいまだわかくして
+みかどゝまじはりをはかりともだちとなりつねに
+ごぜんにまゐりよきまつりごとをすゝめあげる
+みかどいふたみをへんじてぶんのみちをひらくは
+かうえきをひろくつうずるよりよろしきはなし
+おほすと海
+黒海はおろ
+しや大河▲
+▲のつうずるところなればふねをこの川に
+つうずるをびんぎなりとすそのゝちあまたの
+ふねをもつてしよこくにわたしかうえきの
+みちをもつはらにすかくてかいびやくより
+一千六百九十七年みかど
+よそのくにゝいうれき△
+△してもろ〳〵のことを
+こゝろみんとほつし
+まつりごとを三人の
+くわんにんにゆだね
+ふうぞくを見んと
+しよこくの
+ふう〔を?〕
+見ると
+いふ
+こゝに
+おいて
+しよ
+こくに
+わたり
+おらんだ
+じた
+ての
+い
+ふく
+〔を?〕
+ちや
+くし
+名をべいとる
+みかえろふ
+とあらため
+身をしよくにんに
+## L
+[margin] 万国初
+[margin] 十〔四?〕
+[caption] 魯西亜帝
+[main]
+やつしさんだんと
+いへるちに小いへを
+かりてすまゐ
+みづからしよく
+をつくるその
+ほんごくの
+まつり
+ごとを⊗
+⊗つか
+さどる
+しんかと
+てがみを
+とりかはしみづ
+からおのをとりて
+木をきるのちまた
+あむすてるだむにかへりつぎへ
+## order
+R top (つゞき … しや大河▲) → R middle (▲のつうずる … いうれき△) → R bottom (△してもろ〳〵 … 身をしよくにんに) → L bottom-right (やつし … ごとを⊗) → L bottom-left (⊗つかさどる … つぎへ)
+## notes
+Russia lacks learning, so Peter invites scholars; the sage Lefort (れほる) of Geneva (ぜねへる, said to be in へるしや) becomes his friend and urges trade; ships are sent via the Baltic (おほすと海), Black Sea and Russia's great rivers; in 1697 Peter travels abroad, leaves government to three officials, goes to Holland (おらんだ) in Dutch clothes under the name Pyotr Mikhailov (べいとるみかえろふ), lives disguised as a workman at Zaandam (さんだん), corresponds with his ministers, fells timber himself, and returns to Amsterdam (あむすてるだむ). Unsure: the bottom-right of R is torn in the NDL copy and was read from the Waseda copy; "ふうぞくを見んと / しよこくの / ふう〔を?〕 / 見ると" and "い / ふく / 〔を?〕 / ちや / くし" (= 衣服を着し?) are uncertain; "みかどいふ" and "しよくをつくる" read as printed but sense unclear.

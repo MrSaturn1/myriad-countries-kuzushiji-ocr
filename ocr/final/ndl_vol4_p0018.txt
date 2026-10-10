@@ -1,0 +1,66 @@
+## R
+[margin] 万国四
+[margin] 十四
+[main] つゞき かんじてこのものなりせばわが
+いへをゆづりてよろしさはあれかれには
+はゝあればむこにとらんとなすこと
+かたしとそのまゝおもひとゞまりしが
+いまはかれが身ひとつなればうけ
+ひくこともあらんかとてある日あゝだ
+むすをうちまねき〔か?〕う〴〵のよしいひ
+きけるにあゝだむすはこれをぢし〽いや
+しきどみんのやつがれを大せうくわんの
+むこがねにめさるゝことはめうがなけれど
+くみしたのさとびとらがもしやつがれの
+げぢをうけずばせうくわんの名
+を〔ま?〕れにしてのちにこうくわいし給ふ
+べしこのきはひらにみゆるしありて
+こみぶんにつりあふむこをさがさ
+せ給へといひけるにぞマヂサはいよ〳〵
+かんげきしてなほこのましくおもふ
+ものからしあんをさだめていへるやう
+しからばわれらがくみしたのもの
+どもがいちどうにとくしんなさば
+むこがねになりて給はるこゝろなりや
+そのことをきかまほしととふにこなたは
+いちぎにおよばず〽やつがれ身ぶんいやし
+ければひとのきふくせざるをはぢてかくはいなみ
+たてまつれどもしやつがれがげぢをうけんと
+いちどうのものとく〔ど?〕うなさばこのみの
+さいはひこの身にすぎずなにとて
+いなみたてまつらんといふに
+## L
+[margin] 万国四
+[margin] 十五〔?〕
+[main] マヂサはおほいによろこび
+その日はあゝだむすを
+いへにかへしつぎの
+日おのがしはい
+なす三十六かそんのたみを
+まねき〽こたびわれらが
+めがねによりてあゝだ
+むすをむことなしやくぎを
+かれにゆづらんと
+思ふなり
+さは
+あれ
+かれ
+は
+〔たゞ?〕
+むら
+の小
+びやく
+せうの
+せがれ
+なるを
+いやしめ
+かろんじ
+そのげぢ
+にした
+がはざる
+ものある
+つぎへ
+## order
+R top つゞき → L top long columns → L top short columns つぎへ
+## notes
+Majisa (マヂサ), moved by Adams (あゝだむす), offers him his house and his daughter; Adams demurs as a lowly peasant whom the villagers might not obey, and the next day Majisa summons the people of his 36 villages to announce he will make Adams his son-in-law and heir to his office. Unsure: R col 13 "を〔ま?〕れにして" (glyph after を unclear in both scans), "かう〴〵" (draft しつ〳〵), "とく〔ど?〕う", L short column "〔たゞ?〕" (draft たち), and the L page number (十五 per the Waseda copy); pseudo-Latin script on signs in both pictures not transcribed.

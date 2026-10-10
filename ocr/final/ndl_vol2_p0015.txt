@@ -1,0 +1,67 @@
+## R
+[margin] 万国〔三?〕
+[caption] 魯文訳
+[caption] 芳虎画
+[main] ○そも〳〵あめりか
+こくのおきてにとう
+りやうのくらゐに
+あること四年をかぎり
+とすわしんとんくら
+ゐにあることつがふ
+八年にしてあゝだむす
+といふものにとうりやうを
+ゆづりつたふわしんとんつひに
+世をさりければおの〳〵よびて
+国父〔殿?〕といふくにの▲
+[main] ▲ために大こうあるを
+もつてふかくそんきやうなす
+ゆへなりあゝだむすくらゐにあること
+四年にしてゑつひるそんといふものにくらゐ
+をゆづる
+ゑつひる
+そんくら
+ゐに△
+[main] △あること八年にしてまぢぞん
+といふものにくらゐをつたふ
+まぢそんくらゐにあること
+八年にしてあゝだむすの子あ
+だむしすにつたふあだむし
+すくらゐにあること八年
+にしてばんびゆれんと
+いふ
+ものに
+つ〔たへ?〕り
+とぞ
+## L
+[margin] 〔印〕〔樽?〕 ㊂
+[margin] 万国二 … 二（半欠）
+[caption] ○火輪舩《くわりんせん》の圖《づ》
+[caption] 二の巻より〔直?〕
+[main] ばそのはじめひやう
+ぎをさだめとりれう
+をたてくにのおきて
+をまうくるときは▲
+[main] ▲その
+くにたゞ
+十三部なりしが
+のちにふるまん
+どをまして△
+[main] △〔ゑ?〕にやす○おいを○ろいしあな
+○いんちあな○みすしすしつぴ○いるり
+のいす○みつそをり○みしかん○あるかんさ
+すをましてつがふ二十六部にんべつ千三百よ万
+ありあめりかのこくないはもとあじあしうの
+うちから日本しやむろ越南《あんなん》しよこくの人
+はいたることなしたゞゑうろつぱしうのうち○いたりや
+○ふらんす○おらんだ○いぎりす○いすぱにや○すゑい
+てんとうのくにのひといたるのみしかしこのしよこくの人も
+とし〴〵きたりとし〴〵かへるのみにてひさしくあめりかに
+とうりうするものはたゞいぎりすのひとを
+おほしとすゆへにあめりかのじんぶつ
+いせうのこしらへはいぎりすに
+おなじやうなりそのゝち
+ふらんす〔つぎへ〕
+## order
+R top → R middle ▲ (beside 魯文訳 box) → R bottom △ (ends とぞ) → L right: 二の巻より box column → L small block ▲ → L main block △ → つぎへ
+## notes
+America's presidents serve four-year terms: Washington (8 years, honoured as 国父 "father of the country"), then Adams (あゝだむす), Jefferson (ゑつひるそん), Madison (まぢそん), J. Q. Adams (あだむしす) and Van Buren (ばんびゆれん); the country grows from 13 to 26 states (Vermont ふるまんど, Ohio, Louisiana, Indiana, Mississippi, Illinois, Missouri, Michigan, Arkansas…), population over 13 million, settled by Europeans (Italy, France, Holland, England, Spain, Sweden) rather than Chinese/Japanese/Siamese/Vietnamese, mostly English in dress and manners; caption: picture of a steamship. Unsure: glyph after 国父 (〔殿?〕), first state name after △ (〔ゑ?〕にやす), the kanji after 二の巻より in the box, and R bottom 「つ〔たへ〕り」; L top has two printed round marks (a seal-like 〔樽?〕 and ㊂).

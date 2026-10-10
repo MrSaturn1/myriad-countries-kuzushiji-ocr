@@ -1,0 +1,29 @@
+## L
+[caption] 甲《きのへ》
+[caption] 乙《きのと》
+[caption] 丙《ひのへ》
+[caption] 丁《ひのと》
+[caption] 戊《つちのへ》
+[caption] 己《つちのと》
+[caption] 庚《かのへ》
+[caption] 辛《かのと》
+[caption] 壬《みづのへ》
+[caption] 癸《みづのと》
+[caption] 子《ね》
+[caption] 丑《うし》
+[caption] 寅《とら》
+[caption] 卯《う》
+[caption] 辰《たつ》
+[caption] 巳《み》
+[caption] 午《むま》
+[caption] 未《ひつじ》
+[caption] 申《さる》
+[caption] 酉《とり》
+[caption] 戌《いぬ》
+[caption] 亥《ゐ》
+[main] 南傳馬丁二丁目
+[main] 東都地本錦繪問屋 山田屋庄次郎板
+## order
+L top picture (no text) → zodiac grid, columns right to left: 十干 甲–戊, 己–癸, then 十二支 子–巳, 午–亥 → publisher line (南傳馬丁二丁目 small, 山田屋庄次郎板) at far left
+## notes
+Colophon page of the Waseda (山田屋) issue: a grid of small pictures labelling the ten heavenly stems and twelve zodiac branches with their kana readings, and the imprint "published by Yamadaya Shōjirō, Edo picture-book and nishiki-e wholesaler, Minami-Denmachō 2-chōme". The furigana of 亥 is a hentaigana read as ゐ; the library barcode sticker is not transcribed, and the 魯文譯 / 芳虎画圖 cartouche at the gutter belongs to the right page (other job).

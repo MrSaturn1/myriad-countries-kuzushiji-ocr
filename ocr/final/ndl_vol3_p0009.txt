@@ -1,0 +1,85 @@
+## R
+[margin] 万国三
+[margin] 六
+[main] つゞき
+じやうりく
+することを
+えたり
+これいま▲
+[main] ▲のこ
+ろんびや
+のち△
+[main] △なり
+とぞその
+のち永正
+五年ほるとがる
+[main] △かくは
+となふる
+ものなり
+けるそれ
+より三百よ
+ねんをへて
+きたあめりか
+の一地を
+たてゝ独立《どくりつ》
+のくにとなせし
+〔一?〕わしんとんと
+いへる人のいさほし
+をくわしくたづぬる
+にその父母はいぎ
+りすびとにてちゝの
+なをめりけんと⊠
+[main] ⊠よびあめり
+きゆすのばつそん
+にてぢいのとき
+## L
+[margin] 万国三
+[caption] 閣龍
+[main] こくわうのしん
+かあめりきゆす
+といへるものころん
+がしんせかいを見
+いだしたるたい
+こうをしたひてん
+ちのひろきなほ
+このうへにもしんせかい
+あるべきなりわれ又
+あらたにくにをえて
+そのいさほしをのち
+の世につたへんもの
+と大ふねをあら
+うみにのりいだし
+つひにころんがえたる
+ちのみなみのかたいま
+のがらなだのちに
+いたりてちをひらく
+ことすかしよなりゆへに
+なんぼくのしんせかいを
+はあめりかしうとよぶ
+ことはあめりきゆすの
+なにもと
+づき
+△
+[main] ゆゑありて
+ほるとがるの
+く
+に
+を
+去
+いぎ
+りす
+こくにうつり
+すみめり
+けん
+のときに
+いたる⊠
+[main] ⊠めりけん
+おさなきよりさい
+ちすぐれもろ〳〵のぶげいに
+つうじてんちかくぶつきうりの
+がくにこゝろをゆだねとし
+[caption] つゞく
+## order
+R top つゞき…これいま▲ → R top ▲のころんびやのち△ → R top-left △なりとぞそののち永正五年ほるとがる → L top こくわうのしんかあめりきゆす…なにもとづき△ → R bottom △かくはとなふる…めりけんと⊠ → R bottom-left ⊠よびあめりきゆすのばつそんにてぢいのとき → L bottom ゆゑありて…いたる⊠ → L bottom-left ⊠めりけん…ゆだねとし → つゞく box
+## notes
+Columbus (ころん) lands on what is now Colombia (ころんびや); in Eishō 5 the Portuguese king's vassal Americus (あめりきゆす) sails out hoping to equal Columbus, opens lands south near New Granada (がらなだ), and so the New World north and south is called America; 300 years later Washington (わしんとん) founds an independent nation in North America — his father, of English stock and called Meriken (めりけん), descended from Americus, moved from Portugal to England, and Meriken was brilliant from childhood and devoted to the martial arts and natural philosophy. Unsure: the mark before わしんとん (〔一?〕), 去 in くにを去いぎりす (could be さ), おさなき (first glyph あ/お), the furigana on 独立, and second あめりきゆす (top-left col) read as ゆ like the later one.

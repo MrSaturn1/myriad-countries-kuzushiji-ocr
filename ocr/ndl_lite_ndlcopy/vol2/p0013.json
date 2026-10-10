@@ -1,0 +1,462 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            2612,
+            588
+          ],
+          [
+            2612,
+            1276
+          ],
+          [
+            2692,
+            588
+          ],
+          [
+            2692,
+            1276
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "女女女女母母母母母母母母母母母",
+        "isTextline": "true",
+        "confidence": 0.623
+      },
+      {
+        "boundingBox": [
+          [
+            2075,
+            731
+          ],
+          [
+            2075,
+            978
+          ],
+          [
+            2144,
+            731
+          ],
+          [
+            2144,
+            978
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "成」巻2",
+        "isTextline": "true",
+        "confidence": 0.37
+      },
+      {
+        "boundingBox": [
+          [
+            2057,
+            724
+          ],
+          [
+            2057,
+            889
+          ],
+          [
+            2140,
+            724
+          ],
+          [
+            2140,
+            889
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "盛ん",
+        "isTextline": "true",
+        "confidence": 0.301
+      },
+      {
+        "boundingBox": [
+          [
+            2047,
+            729
+          ],
+          [
+            2047,
+            853
+          ],
+          [
+            2107,
+            729
+          ],
+          [
+            2107,
+            853
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "国",
+        "isTextline": "true",
+        "confidence": 0.389
+      },
+      {
+        "boundingBox": [
+          [
+            2001,
+            601
+          ],
+          [
+            2001,
+            734
+          ],
+          [
+            2089,
+            601
+          ],
+          [
+            2089,
+            734
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "政治",
+        "isTextline": "true",
+        "confidence": 0.679
+      },
+      {
+        "boundingBox": [
+          [
+            1976,
+            726
+          ],
+          [
+            1976,
+            853
+          ],
+          [
+            2035,
+            726
+          ],
+          [
+            2035,
+            853
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "中目!",
+        "isTextline": "true",
+        "confidence": 0.513
+      },
+      {
+        "boundingBox": [
+          [
+            1902,
+            591
+          ],
+          [
+            1902,
+            729
+          ],
+          [
+            1978,
+            591
+          ],
+          [
+            1978,
+            729
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "舟は",
+        "isTextline": "true",
+        "confidence": 0.69
+      },
+      {
+        "boundingBox": [
+          [
+            1740,
+            599
+          ],
+          [
+            1740,
+            740
+          ],
+          [
+            1822,
+            599
+          ],
+          [
+            1822,
+            740
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "固づ",
+        "isTextline": "true",
+        "confidence": 0.726
+      },
+      {
+        "boundingBox": [
+          [
+            2052,
+            1115
+          ],
+          [
+            2052,
+            1285
+          ],
+          [
+            2132,
+            1115
+          ],
+          [
+            2132,
+            1285
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "合",
+        "isTextline": "true",
+        "confidence": 0.454
+      },
+      {
+        "boundingBox": [
+          [
+            1963,
+            1161
+          ],
+          [
+            1963,
+            1271
+          ],
+          [
+            2035,
+            1161
+          ],
+          [
+            2035,
+            1271
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "射曲",
+        "isTextline": "true",
+        "confidence": 0.495
+      },
+      {
+        "boundingBox": [
+          [
+            1880,
+            1159
+          ],
+          [
+            1880,
+            1261
+          ],
+          [
+            1951,
+            1159
+          ],
+          [
+            1951,
+            1261
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "四丁",
+        "isTextline": "true",
+        "confidence": 0.539
+      },
+      {
+        "boundingBox": [
+          [
+            1429,
+            579
+          ],
+          [
+            1429,
+            1294
+          ],
+          [
+            1520,
+            579
+          ],
+          [
+            1520,
+            1294
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "こそめて文をえられ",
+        "isTextline": "true",
+        "confidence": 0.444
+      },
+      {
+        "boundingBox": [
+          [
+            1286,
+            577
+          ],
+          [
+            1286,
+            1306
+          ],
+          [
+            1377,
+            577
+          ],
+          [
+            1377,
+            1306
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "ろいハミク",
+        "isTextline": "true",
+        "confidence": 0.307
+      },
+      {
+        "boundingBox": [
+          [
+            2038,
+            1653
+          ],
+          [
+            2038,
+            2048
+          ],
+          [
+            2092,
+            1653
+          ],
+          [
+            2092,
+            2048
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "一日廿一日一旦甲",
+        "isTextline": "true",
+        "confidence": 0.341
+      },
+      {
+        "boundingBox": [
+          [
+            893,
+            1132
+          ],
+          [
+            893,
+            1937
+          ],
+          [
+            984,
+            1132
+          ],
+          [
+            984,
+            1937
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "ふみららちののせみ",
+        "isTextline": "true",
+        "confidence": 0.466
+      },
+      {
+        "boundingBox": [
+          [
+            842,
+            1090
+          ],
+          [
+            842,
+            2128
+          ],
+          [
+            967,
+            1090
+          ],
+          [
+            967,
+            2128
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "↑そうちちら",
+        "isTextline": "true",
+        "confidence": 0.348
+      },
+      {
+        "boundingBox": [
+          [
+            719,
+            1096
+          ],
+          [
+            719,
+            2152
+          ],
+          [
+            807,
+            1096
+          ],
+          [
+            807,
+            2152
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "ろんをもていへ",
+        "isTextline": "true",
+        "confidence": 0.354
+      },
+      {
+        "boundingBox": [
+          [
+            408,
+            1104
+          ],
+          [
+            408,
+            2190
+          ],
+          [
+            512,
+            1104
+          ],
+          [
+            512,
+            2190
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "のできか",
+        "isTextline": "true",
+        "confidence": 0.438
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 4582,
+    "img_height": 4316,
+    "img_path": "童絵解万国噺 (1861) - NDL 207-1695/vol2/p0013.jpg",
+    "img_name": "p0013.jpg"
+  }
+}

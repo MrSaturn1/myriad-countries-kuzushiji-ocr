@@ -1,0 +1,52 @@
+## R
+[margin] 万国二
+[margin] 十五
+[main] 〇およそあめりかはものにかたありてもこれをつくることを
+しらざればほかのくによりつくるものをよびよせてくにの
+うちのひと〴〵にならはせをしゆるなり又つくることを
+しるものありても人のちからなければみつのちから
+火のちからけものゝちからをかりてこれをつくるわたを
+ぬのにおるにみづのちからをもつておりいだすその
+〔ほか?〕は小女たちの手にておるなりそのしな五分の一を
+くにゝとゞめてそのよはたこくへうりさばく也
+らしやをおるにもみづのちからをかりて
+せいすなりせとものはくにの
+うちにつちありてつくると
+いへどもからにはおよばず
+しよもつはん木はいたつて
+おほしみな正はんをもちひ
+ずみなどうばんをもちゆる也
+このゆへにもじのゐものし
+かみすきはんしたかきの
+たぐひはなはだおほしとぞ
+〇かづしゆうこくのみやこ
+には都城《とじやう》の
+官〔府?〕ありて
+とうりやうを
+ひとりづゝまた
+ふくしやうを
+ひとりづゝその
+## L
+[margin] 万国二
+[margin] 十六
+[main] ほかのやくにんはいくにんと
+さだめなしやくしよにはとうりやう
+ふくしやうおよびひやくしやうまで
+もひやうぎするところあり
+せいじにおいては大小のさべつ
+なくおの〳〵官人くわいがふして
+ひやうぎのうへほどこしおこなふ
+もし又どういせざることも十人の
+うち六七人どういのものあら
+ばそれときめてしまふ也みや
+このうちには一人の大とうりやう
+ありてくにのぬしとなり一人の▲
+[main] ▲そへとうりやうありてたすけとなりぬ右の
+ふたりはおほせいのものゝえらびによりて
+もちゆるなりこのしよくにいたるもの年三十五
+いじやうにおよびこのくにしゆつせうのひとにあら
+ざればこのしよくにんずることをゆるさず四年を（つゞく）
+## order
+R top (〇 paragraph on manufactures, then 〇 paragraph on the capital) → L top block → ▲ L left block → つゞく
+## notes
+On American industry and government: lacking know-how, America brings in craftsmen from other countries to teach its people, uses water, fire and animal power; cotton cloth is woven by water power and by girls, one-fifth kept at home and the rest sold abroad; woolen cloth, pottery (inferior to China's), books printed with copper plates. In the capital of the United States there are offices with one president (とうりやう) and one vice-president each; officials deliberate together and decide by majority; a single great president and a vice-president are chosen by popular election, must be 35 or older and native-born, and serve four-year terms. Margin page numbers read from the Waseda copy (same spread); unsure: 〔ほか?〕は at the head of R col. 7, 官〔府?〕.

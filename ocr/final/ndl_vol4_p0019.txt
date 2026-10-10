@@ -1,0 +1,119 @@
+## R
+[margin] 万国四
+[margin] 十五
+[caption] 阿丹土
+[main] つゞき ときは配下《はいか》
+のさうどうやむ
+べからずしかる
+ときはわがいへに
+かゝはるだいじ
+いで
+きなん
+よりて
+おの〳〵を
+よびつどへ
+このむこ
+とりて
+よきか
+あしきや
+めい〳〵
+これなる
+はこのうちへ
+名まへを
+しるさせいれ
+ふだをせら
+れんことを
+たのむなりト
+ひとつの
+はこを▲
+▲さし
+いだせばいち
+どうこゝろえよし
+あしをかきしたゝめて
+かのはこへめい〳〵になげ
+⧗うけひきければマヂサは
+日ならずあゝだむすをよび
+てこれらのことをしめしやく
+そくなればよき日
+をゑら
+み〔て?〕⊗
+⊗むすめと
+こんいんさす
+べしといふに
+こなたはのがるゝすべ
+なくえんかのものにも
+これをつげさて吉日をえらみ
+つゝせうくわんがいへにいりてむすめ
+とこんれいのぎしきをなし
+かいらうどうけつのちぎり
+あさからずせんしうらくとぞ
+しゆくしけるさるほどにあゝだ
+むすはせうくわんマヂサが
+むことなりてはいかのものに
+ひろうなしたうじしう
+とのみならひとて
+むら〳〵のしはい
+なすにあま
+たのひやく
+## L
+[margin] ㊃
+[margin] 万国四
+[margin] 十六〔?〕
+[caption] 拂郎基林
+[main] いれたりかくて三十六かそんのひやく
+せうばらはたちかへりしあとにてマヂ
+サはかのはこよりみな〳〵がいれ
+ふだせしかきつけをいち〳〵に
+ひらきみるにあまたのものゝいひ
+あはせたるごとくにてひとしくよし
+とぞかきたりけるマヂサは
+こゝろのうちにさも△
+△あらんと
+したりがほ
+してむすめ
+のヱジせを
+よびいだし
+てあゝだ
+むすを
+むこに
+とるべき
+ことを
+さだめし
+はいかのもの
+らがいれ
+ふだを
+見する
+にむす
+めはいちぎにおよばず
+そくじにこれを⧗
+しやう
+あゝだ▲
+▲むすが
+とりあつかひの
+よきをかんじその
+げぢをそむくもの
+なくよろづのこと
+マヂサよりは
+としわかく
+ともあゝだ
+むすこそ⊖
+⊖けつだん
+はやしと
+もてはやし
+なにごとも
+みなげぢ
+をうけ
+なび
+かぬ
+ものは
+なか〔?〕
+りけり〔?〕
+○さるほどに
+あゝだむすは
+このやにある
+ことひとゝせ
+つぎへ
+## order
+R top つゞき → R upper-left ▲さし → L top いれたり → L upper-left △あらんと → R middle ⧗うけひき → R lower ⊗むすめと → L lower-right corner しやうあゝだ▲ → L lower-right ▲むすが → L bottom ⊖けつだん → L bottom-left ○さるほどに つぎへ
+## notes
+Majisa (マヂサ) has the people of his 36 villages drop ballots into a box on whether Adams (あゝだむす, captioned 阿丹土) should be his son-in-law; all approve, his daughter Ejise (ヱジセ) consents, they marry, and Adams wins the villagers' respect for his decisive management; Franklin is pictured (caption 拂郎基林). Unsure: "み〔て?〕" before ⊗, the last bottom-left words "なかりけり" (faint), the L page number (十六 in the Waseda copy); continuation marks normalised to ▲△⧗⊗⊖.

@@ -1,0 +1,62 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1732,
+            554
+          ],
+          [
+            1732,
+            946
+          ],
+          [
+            1971,
+            554
+          ],
+          [
+            1971,
+            946
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "川口町",
+        "isTextline": "true",
+        "confidence": 0.658
+      },
+      {
+        "boundingBox": [
+          [
+            474,
+            552
+          ],
+          [
+            474,
+            2456
+          ],
+          [
+            782,
+            552
+          ],
+          [
+            782,
+            2456
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "万国噺弐篇",
+        "isTextline": "true",
+        "confidence": 0.484
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 4582,
+    "img_height": 4316,
+    "img_path": "童絵解万国噺 (1861) - NDL 207-1695/vol2/p0001.jpg",
+    "img_name": "p0001.jpg"
+  }
+}

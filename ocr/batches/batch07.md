@@ -1,0 +1,25 @@
+# Batch 07
+
+Process these jobs in order. For each: SCAN, DRAFT, optional ALT_SCAN; write `ocr/final/<id>.txt`. Skip a job whose output already exists.
+
+## ndl_vol2_p0006
+- pages: L
+- SCAN: `童絵解万国噺 (1861) - NDL 207-1695/vol2/p0006.jpg` (~4500 px)
+- DRAFT: `ocr/merged/ndl_vol2/p0006.tsv`
+
+## ndl_vol2_p0007
+- pages: R
+- SCAN: `童絵解万国噺 (1861) - NDL 207-1695/vol2/p0007.jpg` (~4500 px)
+- DRAFT: `ocr/merged/ndl_vol2/p0007.tsv`
+
+## ndl_vol2_p0008
+- pages: RL
+- SCAN: `童絵解万国噺 (1861) - NDL 207-1695/vol2/p0008.jpg` (~4500 px)
+- DRAFT: `ocr/merged/ndl_vol2/p0008.tsv`
+- ALT_SCAN: `童絵解万国噺 (1861) - Waseda 文庫11 a0380/vol1/p0025.jpg` (Waseda copy, 2592 px; matched by OCR text, score 0.77 — check it is the same spread)
+
+## ndl_vol2_p0009
+- pages: RL
+- SCAN: `童絵解万国噺 (1861) - NDL 207-1695/vol2/p0009.jpg` (~4500 px)
+- DRAFT: `ocr/merged/ndl_vol2/p0009.tsv`
+- ALT_SCAN: `童絵解万国噺 (1861) - Waseda 文庫11 a0380/vol1/p0026.jpg` (Waseda copy, 2592 px; matched by OCR text, score 0.79 — check it is the same spread)

@@ -1,0 +1,312 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            4226,
+            890
+          ],
+          [
+            4226,
+            1167
+          ],
+          [
+            4307,
+            890
+          ],
+          [
+            4307,
+            1167
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "ヲ聞二",
+        "isTextline": "true",
+        "confidence": 0.501
+      },
+      {
+        "boundingBox": [
+          [
+            3959,
+            2951
+          ],
+          [
+            3959,
+            3063
+          ],
+          [
+            4021,
+            2951
+          ],
+          [
+            4021,
+            3063
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "やく",
+        "isTextline": "true",
+        "confidence": 0.334
+      },
+      {
+        "boundingBox": [
+          [
+            3891,
+            2916
+          ],
+          [
+            3891,
+            3051
+          ],
+          [
+            3959,
+            2916
+          ],
+          [
+            3959,
+            3051
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "○百",
+        "isTextline": "true",
+        "confidence": 0.357
+      },
+      {
+        "boundingBox": [
+          [
+            3687,
+            2991
+          ],
+          [
+            3687,
+            3090
+          ],
+          [
+            3807,
+            2991
+          ],
+          [
+            3807,
+            3090
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "姓",
+        "isTextline": "true",
+        "confidence": 0.489
+      },
+      {
+        "boundingBox": [
+          [
+            1739,
+            1114
+          ],
+          [
+            1739,
+            1261
+          ],
+          [
+            1826,
+            1114
+          ],
+          [
+            1826,
+            1261
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.4
+      },
+      {
+        "boundingBox": [
+          [
+            1816,
+            1401
+          ],
+          [
+            1816,
+            1539
+          ],
+          [
+            1892,
+            1401
+          ],
+          [
+            1892,
+            1539
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.323
+      },
+      {
+        "boundingBox": [
+          [
+            2859,
+            2464
+          ],
+          [
+            2859,
+            2910
+          ],
+          [
+            2968,
+            2464
+          ],
+          [
+            2968,
+            2910
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "○合衆国",
+        "isTextline": "true",
+        "confidence": 0.744
+      },
+      {
+        "boundingBox": [
+          [
+            2701,
+            2600
+          ],
+          [
+            2701,
+            2885
+          ],
+          [
+            2802,
+            2600
+          ],
+          [
+            2802,
+            2885
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "民家",
+        "isTextline": "true",
+        "confidence": 0.723
+      },
+      {
+        "boundingBox": [
+          [
+            2536,
+            2679
+          ],
+          [
+            2536,
+            3117
+          ],
+          [
+            2651,
+            2679
+          ],
+          [
+            2651,
+            3117
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "耕作の図",
+        "isTextline": "true",
+        "confidence": 0.811
+      },
+      {
+        "boundingBox": [
+          [
+            1855,
+            2224
+          ],
+          [
+            1855,
+            2565
+          ],
+          [
+            1970,
+            2224
+          ],
+          [
+            1970,
+            2565
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "○荘官",
+        "isTextline": "true",
+        "confidence": 0.504
+      },
+      {
+        "boundingBox": [
+          [
+            1720,
+            2829
+          ],
+          [
+            1720,
+            2993
+          ],
+          [
+            1860,
+            2829
+          ],
+          [
+            1860,
+            2993
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "○荘",
+        "isTextline": "true",
+        "confidence": 0.456
+      },
+      {
+        "boundingBox": [
+          [
+            1396,
+            2912
+          ],
+          [
+            1396,
+            3082
+          ],
+          [
+            1896,
+            2912
+          ],
+          [
+            1896,
+            3082
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "★2官社社子",
+        "isTextline": "true",
+        "confidence": 0.334
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 4582,
+    "img_height": 4316,
+    "img_path": "童絵解万国噺 (1861) - NDL 207-1695/vol2/p0007.jpg",
+    "img_name": "p0007.jpg"
+  }
+}

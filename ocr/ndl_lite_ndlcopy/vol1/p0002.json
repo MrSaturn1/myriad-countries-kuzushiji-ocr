@@ -1,0 +1,1512 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            3899,
+            697
+          ],
+          [
+            3899,
+            870
+          ],
+          [
+            3961,
+            697
+          ],
+          [
+            3961,
+            870
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "口中",
+        "isTextline": "true",
+        "confidence": 0.619
+      },
+      {
+        "boundingBox": [
+          [
+            3891,
+            1402
+          ],
+          [
+            3891,
+            1850
+          ],
+          [
+            3955,
+            1402
+          ],
+          [
+            3955,
+            1850
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "大包代百銅",
+        "isTextline": "true",
+        "confidence": 0.69
+      },
+      {
+        "boundingBox": [
+          [
+            3825,
+            694
+          ],
+          [
+            3825,
+            873
+          ],
+          [
+            3899,
+            694
+          ],
+          [
+            3899,
+            873
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "御薬",
+        "isTextline": "true",
+        "confidence": 0.732
+      },
+      {
+        "boundingBox": [
+          [
+            3827,
+            1401
+          ],
+          [
+            3827,
+            1842
+          ],
+          [
+            3888,
+            1401
+          ],
+          [
+            3888,
+            1842
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "小包代三十二銅",
+        "isTextline": "true",
+        "confidence": 0.666
+      },
+      {
+        "boundingBox": [
+          [
+            3817,
+            869
+          ],
+          [
+            3817,
+            1416
+          ],
+          [
+            3958,
+            869
+          ],
+          [
+            3958,
+            1416
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "固齦散",
+        "isTextline": "true",
+        "confidence": 0.667
+      },
+      {
+        "boundingBox": [
+          [
+            3598,
+            677
+          ],
+          [
+            3598,
+            757
+          ],
+          [
+            3677,
+            677
+          ],
+          [
+            3677,
+            757
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "能",
+        "isTextline": "true",
+        "confidence": 0.513
+      },
+      {
+        "boundingBox": [
+          [
+            3684,
+            684
+          ],
+          [
+            3684,
+            748
+          ],
+          [
+            3763,
+            684
+          ],
+          [
+            3763,
+            748
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "切",
+        "isTextline": "true",
+        "confidence": 0.352
+      },
+      {
+        "boundingBox": [
+          [
+            3707,
+            828
+          ],
+          [
+            3707,
+            1076
+          ],
+          [
+            3768,
+            828
+          ],
+          [
+            3768,
+            1076
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "ぬけば",
+        "isTextline": "true",
+        "confidence": 0.772
+      },
+      {
+        "boundingBox": [
+          [
+            3630,
+            830
+          ],
+          [
+            3630,
+            1074
+          ],
+          [
+            3692,
+            830
+          ],
+          [
+            3692,
+            1074
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "血いづる",
+        "isTextline": "true",
+        "confidence": 0.731
+      },
+      {
+        "boundingBox": [
+          [
+            3712,
+            1177
+          ],
+          [
+            3712,
+            1432
+          ],
+          [
+            3769,
+            1177
+          ],
+          [
+            3769,
+            1432
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "うきば",
+        "isTextline": "true",
+        "confidence": 0.581
+      },
+      {
+        "boundingBox": [
+          [
+            3712,
+            1488
+          ],
+          [
+            3712,
+            1794
+          ],
+          [
+            3778,
+            1488
+          ],
+          [
+            3778,
+            1794
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "一うみ血",
+        "isTextline": "true",
+        "confidence": 0.46
+      },
+      {
+        "boundingBox": [
+          [
+            3638,
+            1164
+          ],
+          [
+            3638,
+            1498
+          ],
+          [
+            3693,
+            1164
+          ],
+          [
+            3693,
+            1498
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "はぐきはれ",
+        "isTextline": "true",
+        "confidence": 0.695
+      },
+      {
+        "boundingBox": [
+          [
+            3561,
+            808
+          ],
+          [
+            3561,
+            1803
+          ],
+          [
+            3618,
+            808
+          ],
+          [
+            3618,
+            1803
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "〇用ひやうのう書にくわしく相しるし候",
+        "isTextline": "true",
+        "confidence": 0.742
+      },
+      {
+        "boundingBox": [
+          [
+            3427,
+            1063
+          ],
+          [
+            3427,
+            1448
+          ],
+          [
+            3488,
+            1063
+          ],
+          [
+            3488,
+            1448
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "此御薬あらひ",
+        "isTextline": "true",
+        "confidence": 0.749
+      },
+      {
+        "boundingBox": [
+          [
+            3356,
+            970
+          ],
+          [
+            3356,
+            1529
+          ],
+          [
+            3421,
+            970
+          ],
+          [
+            3421,
+            1529
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "粉はいかほど色黒き〳〵",
+        "isTextline": "true",
+        "confidence": 0.795
+      },
+      {
+        "boundingBox": [
+          [
+            3286,
+            961
+          ],
+          [
+            3286,
+            1565
+          ],
+          [
+            3353,
+            961
+          ],
+          [
+            3353,
+            1565
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "方にてもぬかぶくろの中へ",
+        "isTextline": "true",
+        "confidence": 0.769
+      },
+      {
+        "boundingBox": [
+          [
+            3196,
+            916
+          ],
+          [
+            3196,
+            1144
+          ],
+          [
+            3275,
+            916
+          ],
+          [
+            3275,
+            1144
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "清浄",
+        "isTextline": "true",
+        "confidence": 0.609
+      },
+      {
+        "boundingBox": [
+          [
+            3198,
+            1431
+          ],
+          [
+            3198,
+            1579
+          ],
+          [
+            3264,
+            1431
+          ],
+          [
+            3264,
+            1579
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "一包代",
+        "isTextline": "true",
+        "confidence": 0.701
+      },
+      {
+        "boundingBox": [
+          [
+            3195,
+            893
+          ],
+          [
+            3195,
+            1470
+          ],
+          [
+            3288,
+            893
+          ],
+          [
+            3288,
+            1470
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "清浄しちゝうへ一つ",
+        "isTextline": "true",
+        "confidence": 0.331
+      },
+      {
+        "boundingBox": [
+          [
+            3112,
+            1137
+          ],
+          [
+            3112,
+            1423
+          ],
+          [
+            3249,
+            1137
+          ],
+          [
+            3249,
+            1423
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "白妙",
+        "isTextline": "true",
+        "confidence": 0.44
+      },
+      {
+        "boundingBox": [
+          [
+            3111,
+            1423
+          ],
+          [
+            3111,
+            1584
+          ],
+          [
+            3181,
+            1423
+          ],
+          [
+            3181,
+            1584
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "生銅",
+        "isTextline": "true",
+        "confidence": 0.647
+      },
+      {
+        "boundingBox": [
+          [
+            3084,
+            914
+          ],
+          [
+            3084,
+            1144
+          ],
+          [
+            3180,
+            914
+          ],
+          [
+            3180,
+            1144
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "精製",
+        "isTextline": "true",
+        "confidence": 0.711
+      },
+      {
+        "boundingBox": [
+          [
+            3003,
+            949
+          ],
+          [
+            3003,
+            1534
+          ],
+          [
+            3071,
+            949
+          ],
+          [
+            3071,
+            1534
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "少しづゝ入れ用ゆれば色",
+        "isTextline": "true",
+        "confidence": 0.73
+      },
+      {
+        "boundingBox": [
+          [
+            2936,
+            965
+          ],
+          [
+            2936,
+            1502
+          ],
+          [
+            2997,
+            965
+          ],
+          [
+            2997,
+            1502
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "白くなる事ゆきの",
+        "isTextline": "true",
+        "confidence": 0.669
+      },
+      {
+        "boundingBox": [
+          [
+            3884,
+            1938
+          ],
+          [
+            3884,
+            2113
+          ],
+          [
+            3976,
+            1938
+          ],
+          [
+            3976,
+            2113
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "無病",
+        "isTextline": "true",
+        "confidence": 0.642
+      },
+      {
+        "boundingBox": [
+          [
+            3766,
+            1924
+          ],
+          [
+            3766,
+            2106
+          ],
+          [
+            3853,
+            1924
+          ],
+          [
+            3853,
+            2106
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "長寿",
+        "isTextline": "true",
+        "confidence": 0.69
+      },
+      {
+        "boundingBox": [
+          [
+            3778,
+            2087
+          ],
+          [
+            3778,
+            2734
+          ],
+          [
+            3935,
+            2087
+          ],
+          [
+            3935,
+            2734
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "養生手引草二十",
+        "isTextline": "true",
+        "confidence": 0.567
+      },
+      {
+        "boundingBox": [
+          [
+            3867,
+            2863
+          ],
+          [
+            3867,
+            3208
+          ],
+          [
+            3961,
+            2863
+          ],
+          [
+            3961,
+            3208
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "京山翁著",
+        "isTextline": "true",
+        "confidence": 0.767
+      },
+      {
+        "boundingBox": [
+          [
+            3747,
+            2870
+          ],
+          [
+            3747,
+            3180
+          ],
+          [
+            3841,
+            2870
+          ],
+          [
+            3841,
+            3180
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "広重画",
+        "isTextline": "true",
+        "confidence": 0.751
+      },
+      {
+        "boundingBox": [
+          [
+            3601,
+            1908
+          ],
+          [
+            3601,
+            3178
+          ],
+          [
+            3716,
+            1908
+          ],
+          [
+            3716,
+            3178
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "美玉百人一首中本形全一冊",
+        "isTextline": "true",
+        "confidence": 0.713
+      },
+      {
+        "boundingBox": [
+          [
+            3478,
+            1926
+          ],
+          [
+            3478,
+            3164
+          ],
+          [
+            3583,
+            1926
+          ],
+          [
+            3583,
+            3164
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "紅梅百人一首半紙太全一冊",
+        "isTextline": "true",
+        "confidence": 0.631
+      },
+      {
+        "boundingBox": [
+          [
+            3318,
+            2570
+          ],
+          [
+            3318,
+            2830
+          ],
+          [
+            3407,
+            2570
+          ],
+          [
+            3407,
+            2830
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "紅摺太本",
+        "isTextline": "true",
+        "confidence": 0.549
+      },
+      {
+        "boundingBox": [
+          [
+            3313,
+            1927
+          ],
+          [
+            3313,
+            2834
+          ],
+          [
+            3430,
+            1927
+          ],
+          [
+            3430,
+            2834
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "〃〃鶴笹湯寿紅琶大本",
+        "isTextline": "true",
+        "confidence": 0.552
+      },
+      {
+        "boundingBox": [
+          [
+            3196,
+            1920
+          ],
+          [
+            3196,
+            2526
+          ],
+          [
+            3297,
+            1920
+          ],
+          [
+            3297,
+            2526
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "一女中用文玉手箱",
+        "isTextline": "true",
+        "confidence": 0.539
+      },
+      {
+        "boundingBox": [
+          [
+            3198,
+            2561
+          ],
+          [
+            3198,
+            2818
+          ],
+          [
+            3274,
+            2561
+          ],
+          [
+            3274,
+            2818
+          ]
+        ],
+        "id": 34,
+        "isVertical": "true",
+        "text": "中本形",
+        "isTextline": "true",
+        "confidence": 0.526
+      },
+      {
+        "boundingBox": [
+          [
+            3240,
+            2804
+          ],
+          [
+            3240,
+            3174
+          ],
+          [
+            3338,
+            2804
+          ],
+          [
+            3338,
+            3174
+          ]
+        ],
+        "id": 35,
+        "isVertical": "true",
+        "text": "京山翁著",
+        "isTextline": "true",
+        "confidence": 0.768
+      },
+      {
+        "boundingBox": [
+          [
+            3020,
+            1912
+          ],
+          [
+            3020,
+            2769
+          ],
+          [
+            3138,
+            1912
+          ],
+          [
+            3138,
+            2769
+          ]
+        ],
+        "id": 36,
+        "isVertical": "true",
+        "text": "南詞白石新全二冊",
+        "isTextline": "true",
+        "confidence": 0.559
+      },
+      {
+        "boundingBox": [
+          [
+            2908,
+            1916
+          ],
+          [
+            2908,
+            2521
+          ],
+          [
+            3017,
+            1916
+          ],
+          [
+            3017,
+            2521
+          ]
+        ],
+        "id": 37,
+        "isVertical": "true",
+        "text": "一伊賀越敵討物語",
+        "isTextline": "true",
+        "confidence": 0.518
+      },
+      {
+        "boundingBox": [
+          [
+            3041,
+            2558
+          ],
+          [
+            3041,
+            2755
+          ],
+          [
+            3124,
+            2558
+          ],
+          [
+            3124,
+            2755
+          ]
+        ],
+        "id": 38,
+        "isVertical": "true",
+        "text": "全二冊",
+        "isTextline": "true",
+        "confidence": 0.415
+      },
+      {
+        "boundingBox": [
+          [
+            2922,
+            2558
+          ],
+          [
+            2922,
+            2761
+          ],
+          [
+            3000,
+            2558
+          ],
+          [
+            3000,
+            2761
+          ]
+        ],
+        "id": 39,
+        "isVertical": "true",
+        "text": "全二冊",
+        "isTextline": "true",
+        "confidence": 0.489
+      },
+      {
+        "boundingBox": [
+          [
+            2962,
+            2781
+          ],
+          [
+            2962,
+            3189
+          ],
+          [
+            3066,
+            2781
+          ],
+          [
+            3066,
+            3189
+          ]
+        ],
+        "id": 40,
+        "isVertical": "true",
+        "text": "芳虎画録",
+        "isTextline": "true",
+        "confidence": 0.79
+      },
+      {
+        "boundingBox": [
+          [
+            2637,
+            637
+          ],
+          [
+            2637,
+            1543
+          ],
+          [
+            2779,
+            637
+          ],
+          [
+            2779,
+            1543
+          ]
+        ],
+        "id": 41,
+        "isVertical": "true",
+        "text": "寝小便大奇薬",
+        "isTextline": "true",
+        "confidence": 0.751
+      },
+      {
+        "boundingBox": [
+          [
+            2718,
+            1610
+          ],
+          [
+            2718,
+            1817
+          ],
+          [
+            2784,
+            1610
+          ],
+          [
+            2784,
+            1817
+          ]
+        ],
+        "id": 42,
+        "isVertical": "true",
+        "text": "白代",
+        "isTextline": "true",
+        "confidence": 0.647
+      },
+      {
+        "boundingBox": [
+          [
+            2625,
+            1546
+          ],
+          [
+            2625,
+            1815
+          ],
+          [
+            2701,
+            1546
+          ],
+          [
+            2701,
+            1815
+          ]
+        ],
+        "id": 43,
+        "isVertical": "true",
+        "text": "三百銅",
+        "isTextline": "true",
+        "confidence": 0.72
+      },
+      {
+        "boundingBox": [
+          [
+            2508,
+            651
+          ],
+          [
+            2508,
+            1842
+          ],
+          [
+            2592,
+            651
+          ],
+          [
+            2592,
+            1842
+          ]
+        ],
+        "id": 44,
+        "isVertical": "true",
+        "text": "いのほと年久しき病症にても大人小児男女",
+        "isTextline": "true",
+        "confidence": 0.624
+      },
+      {
+        "boundingBox": [
+          [
+            2413,
+            773
+          ],
+          [
+            2413,
+            1538
+          ],
+          [
+            2488,
+            773
+          ],
+          [
+            2488,
+            1538
+          ]
+        ],
+        "id": 45,
+        "isVertical": "true",
+        "text": "下包にて治すもべし",
+        "isTextline": "true",
+        "confidence": 0.495
+      },
+      {
+        "boundingBox": [
+          [
+            2755,
+            2554
+          ],
+          [
+            2755,
+            3033
+          ],
+          [
+            2858,
+            2554
+          ],
+          [
+            2858,
+            3033
+          ]
+        ],
+        "id": 46,
+        "isVertical": "true",
+        "text": "三編種清",
+        "isTextline": "true",
+        "confidence": 0.641
+      },
+      {
+        "boundingBox": [
+          [
+            2655,
+            1901
+          ],
+          [
+            2655,
+            2560
+          ],
+          [
+            2828,
+            1901
+          ],
+          [
+            2828,
+            2560
+          ]
+        ],
+        "id": 47,
+        "isVertical": "true",
+        "text": "頼三升曽我神垣",
+        "isTextline": "true",
+        "confidence": 0.743
+      },
+      {
+        "boundingBox": [
+          [
+            2637,
+            2562
+          ],
+          [
+            2637,
+            3005
+          ],
+          [
+            2727,
+            2562
+          ],
+          [
+            2727,
+            3005
+          ]
+        ],
+        "id": 48,
+        "isVertical": "true",
+        "text": "讀切團長",
+        "isTextline": "true",
+        "confidence": 0.7
+      },
+      {
+        "boundingBox": [
+          [
+            2500,
+            1901
+          ],
+          [
+            2500,
+            2726
+          ],
+          [
+            2600,
+            1901
+          ],
+          [
+            2600,
+            2726
+          ]
+        ],
+        "id": 49,
+        "isVertical": "true",
+        "text": "一新板橋内舎人男舎",
+        "isTextline": "true",
+        "confidence": 0.373
+      },
+      {
+        "boundingBox": [
+          [
+            2485,
+            1888
+          ],
+          [
+            2485,
+            2980
+          ],
+          [
+            2596,
+            1888
+          ],
+          [
+            2596,
+            2980
+          ]
+        ],
+        "id": 50,
+        "isVertical": "true",
+        "text": "新板橋旧人早倉之助",
+        "isTextline": "true",
+        "confidence": 0.404
+      },
+      {
+        "boundingBox": [
+          [
+            2372,
+            1893
+          ],
+          [
+            2372,
+            3122
+          ],
+          [
+            2469,
+            1893
+          ],
+          [
+            2469,
+            3122
+          ]
+        ],
+        "id": 51,
+        "isVertical": "true",
+        "text": "川柳浜地口風子本類氏・",
+        "isTextline": "true",
+        "confidence": 0.531
+      },
+      {
+        "boundingBox": [
+          [
+            1848,
+            800
+          ],
+          [
+            1848,
+            1805
+          ],
+          [
+            2025,
+            800
+          ],
+          [
+            2025,
+            1805
+          ]
+        ],
+        "id": 52,
+        "isVertical": "true",
+        "text": "○仮名垣魯文訳",
+        "isTextline": "true",
+        "confidence": 0.765
+      },
+      {
+        "boundingBox": [
+          [
+            1422,
+            792
+          ],
+          [
+            1422,
+            1761
+          ],
+          [
+            1731,
+            792
+          ],
+          [
+            1731,
+            1761
+          ]
+        ],
+        "id": 53,
+        "isVertical": "true",
+        "text": "童絵解",
+        "isTextline": "true",
+        "confidence": 0.78
+      },
+      {
+        "boundingBox": [
+          [
+            1124,
+            778
+          ],
+          [
+            1124,
+            1735
+          ],
+          [
+            1393,
+            778
+          ],
+          [
+            1393,
+            1735
+          ]
+        ],
+        "id": 54,
+        "isVertical": "true",
+        "text": "万国噺",
+        "isTextline": "true",
+        "confidence": 0.743
+      },
+      {
+        "boundingBox": [
+          [
+            856,
+            796
+          ],
+          [
+            856,
+            1732
+          ],
+          [
+            1109,
+            796
+          ],
+          [
+            1109,
+            1732
+          ]
+        ],
+        "id": 55,
+        "isVertical": "true",
+        "text": "初編立巻",
+        "isTextline": "true",
+        "confidence": 0.813
+      },
+      {
+        "boundingBox": [
+          [
+            584,
+            784
+          ],
+          [
+            584,
+            1836
+          ],
+          [
+            782,
+            784
+          ],
+          [
+            782,
+            1836
+          ]
+        ],
+        "id": 56,
+        "isVertical": "true",
+        "text": "○孟斎芳虎画",
+        "isTextline": "true",
+        "confidence": 0.738
+      },
+      {
+        "boundingBox": [
+          [
+            1508,
+            2826
+          ],
+          [
+            1508,
+            3161
+          ],
+          [
+            1660,
+            2826
+          ],
+          [
+            1660,
+            3161
+          ]
+        ],
+        "id": 57,
+        "isVertical": "true",
+        "text": "錦橋",
+        "isTextline": "true",
+        "confidence": 0.725
+      },
+      {
+        "boundingBox": [
+          [
+            1316,
+            2972
+          ],
+          [
+            1316,
+            3133
+          ],
+          [
+            1450,
+            2972
+          ],
+          [
+            1450,
+            3133
+          ]
+        ],
+        "id": 58,
+        "isVertical": "true",
+        "text": "堂",
+        "isTextline": "true",
+        "confidence": 0.5
+      },
+      {
+        "boundingBox": [
+          [
+            1062,
+            2863
+          ],
+          [
+            1062,
+            3193
+          ],
+          [
+            1253,
+            2863
+          ],
+          [
+            1253,
+            3193
+          ]
+        ],
+        "id": 59,
+        "isVertical": "true",
+        "text": "寿梓",
+        "isTextline": "true",
+        "confidence": 0.565
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 4596,
+    "img_height": 4401,
+    "img_path": "童絵解万国噺 (1861) - NDL 207-1695/vol1/p0002.jpg",
+    "img_name": "p0002.jpg"
+  }
+}

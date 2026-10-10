@@ -1,0 +1,24 @@
+## R
+[caption] 童繪解萬國噺《おさなゑときばんこくばなし》
+[caption] 初編
+[caption] 下之巻
+[caption] 假名垣魯文譯
+[caption] 孟齋芳虎画
+[caption] 山田屋藏板
+## L
+[margin] 万国初　一
+[caption] 一
+[main] 梅松《うめまつ》愛《めで》させ給ふ菅神《かんじん》の詠歌《えいか》に。海と山千里《ちさと》を隔《へだて》すむ人も。
+[main] 物言《ものいひ》かはす文字《もじ》の機《はた》とつらね給ひしも宜《うべ》なる哉文化盛典《ぶんくわせいてん》
+[main] の徳たる。居ながらにして。海外萬里《かいぐわいばんり》の情態《じやうたい》を精通《せいつう》し臥寐《ふしゐ》て
+[main] 諸蠻《しよばん》の治乱を覈明《かくめい》す。泰平の恩沢。仰尊《あふぎたふと》むべきことになん
+[main] 然《しかり》と雖《いへども》。漢蘭《かんらん》の異文外藩の字音我童蒙婦女《どうもうふぢよ》の為に
+[main] 讀安《よみやす》からず。茲《こゝ》に於て。皇國《みくに》假字《かな》に解和《ときやはら》げ。萬里外《ばんりぐわい》の情
+[main] 景《じやうけい》を諸書の中より抜翠《ばつすい》して萬国話《ばんこくばなし》と号《なづ》るものは。春日《しゆんじつ》
+[main] 秋夜《しうや》の長きに倦《うむ》の。御伽草紙《おとぎざうし》といはまく而已《のみ》
+[main] 萬延二辛酉春
+[main] 假名垣魯文記
+## order
+R (inner title page) → L (preface, right → left, ending with date and signature)
+## notes
+Inner title page of 童繪解萬國噺 初編 (printed "下之巻"; by Kanagaki Robun, pictures by Mōsai Yoshitora, Yamadaya edition) and Robun's preface, dated spring of Man'en 2 (1861): citing Sugawara no Michizane's poem, he says that in this peaceful age one can learn of distant lands without travelling, and that he has culled foreign books and rendered them in easy kana for children and women as a pastime for long days and nights. The ALT_SCAN (Waseda) matches only the left page (its right page is different); a round seal-script mark above the preface frame is not transcribed; furigana are approximate in places.

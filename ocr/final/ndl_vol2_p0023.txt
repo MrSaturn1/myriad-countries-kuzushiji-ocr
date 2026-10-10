@@ -1,0 +1,89 @@
+## R
+[margin] 万国二　十八
+[main] つゞきたつてそのうちにちやうめんをおききんじゆのものゝ
+せいめいをしるす一トたびきんしゆのばにすゝむものはいましめ
+をやぶることをゆるさすちか
+ごろきんじゆのもの
+あまたなれ
+ばさか
+やは
+みな
+ほかの
+せうばいと
+なりてさけを
+つくることを
+なさず又
+しろの
+うちに七十
+五人のゐしや
+をえら
+び▲
+[main] ▲さけは人の
+身にそんとくいかゞあるを
+しらべさするにひと〴〵さけのそんありてゑき
+[main] △あるじとなし又一女子をせうじこれにめあ
+はすふうふのれいこれよりはじまりだい〳〵
+つたへてかはりたることなしたゞこのくにはめかけ
+をかゝゆることさらになし男女
+さりながら子
+どもの
+うち
+よ〔り?〕
+こんれい
+のやく
+そくを
+なす
+ためし
+もなし
+十五以上
+なれば
+よき
+むすめ
+をもとめ
+もしちか
+きものにあら
+## L
+[margin] 万国二　十〔九?〕
+[main] なきをしるゆへにのむことをいまし
+むるものくにのうちなかばより
+よほどおほし水主〔こ?〕のものおほくは
+ひんきうのみなればそのさいし
+までをすくひ△
+[main] △公どやにてやしない
+またくにのうちにいづ
+くわいありなづけて勧和会《くわんわくわい》といふもし
+なかまのものあらそひりやうこくむつまし
+からざればすゝめてわぼくさせきやうだい
+のごとくちなみを⊠
+[main] ⊠むすばしむ
+[main] ○くにひらけたるはじめいまだひとあらず
+上帝〔師?〕一男子をうみ給ひばん〔みん?〕の△
+[main] ざればそのちゝ
+あにゝつげよしみを
+むすびたがひに
+わうらいする
+こと三五年に
+してかれこれ
+のせいしつ
+ぎやうじやう
+をたがひに
+よくしり
+あひある
+ひはまの
+あたりみづ
+からこんいんの
+日をとり
+きめ
+おの〳〵
+その
+父母
+は◀
+[main] ◀つ〔かへる?〕■■■
+ゆいのう〔もくろく?〕などの
+れいなしこんれいの日に男女
+どうにのぼりたがいに手を
+つゞく
+## order
+R top つゞき … をえらび▲ → R left-edge ▲ (さけは人の…ゑき) → L top right (なきをしるゆへに…すくひ△) → L △ block (公どやにて…ちなみを⊠) → L ⊠ column (むすばしむ) → L ○ block (くにひらけたる…ばんみんの△) → R bottom right △ (あるじとなし…男女, running on under the man's shoes さりながら子どものうちより…もしちか / きものにあら) → L bottom right (ざればそのちゝ…その父母は◀) → L bottom left ◀ … つゞく
+## notes
+America continued: temperance pledges (names recorded in a register; sake shops changing trade after 75 doctors were chosen to study sake's harm), relief for poor sailors' families, the 勧和会 (kankwakai) peace society that reconciles quarrels, the creation myth (上帝 makes a first man as master of all people, then a woman, beginning marriage), monogamy, no child betrothals, courtship for three to five years with family consent, and the wedding ceremony. Page numbers 十八/十九 are read from the Waseda copy (NDL margin cut); unsure: the small mark after 水主 (lite 公, possibly furigana), the glyph after 上帝 (師?), ばんみん, the opening of the ◀ column (only つ…clear), and ゆいのう〔もくろく?〕 (lite むころり).

@@ -1,0 +1,22 @@
+Title:        童絵解万国噺 二編 (Osana etoki bankoku banashi, second series), 上・下 2冊
+              (catalogued as 「童絵解万国噺 1」「童絵解万国噺 2」; 巻冊数 "2編2冊"; 注記 "袋入")
+Author:       仮名垣魯文 作 / Illustrator: 歌川芳虎 画
+Publisher:    錦橋堂, Edo, 万延2年 [1861]
+Institution:  Osaka Prefectural Nakanoshima Library (大阪府立中之島図書館), via おおさかeコレクション
+Call number:  乙/342/#   (資料ID 01-0007771 = vol1 二編上, 01-0007772 = vol2 二編下)
+Contents:     vol1 = 二編 上 (16 images), vol2 = 二編 下 (15 images); p0001… in IIIF canvas order.
+              This is the 二編 issued on its own (as originally sold), with its own covers and the
+              colour-printed 袋 (publisher's wrapper) mounted at the front of 上 (vol1/p0002) —
+              not present in the NDL or Waseda copies. Text content = 二編 of the NDL / Waseda copies.
+Source pages: https://da.library.pref.osaka.jp/content/detail/01-0007771
+              https://da.library.pref.osaka.jp/content/detail/01-0007772
+Manifests:    https://da.library.pref.osaka.jp/api/items/01-0007771/manifest.json   (copy: manifest_vol1.json)
+              https://da.library.pref.osaka.jp/api/items/01-0007772/manifest.json   (copy: manifest_vol2.json)
+Images:       IIIF {service}/full/full/0/default.jpg. The server caps output at maxWidth/maxHeight 2100 px
+              (info.json), so files are 2100x1400 or 2048x1365 although the masters are 2480x1653.
+Rights:       requiredStatement "帰属: 大阪府立図書館". Freely viewable/downloadable; no open licence stated
+              for 中之島図書館 古典籍 — publication/reuse requires application:
+              https://www.library.pref.osaka.jp/site/oec/oec-help-2.html
+              https://www.library.pref.osaka.jp/site/osaka/shuppan-keisai.html
+              (Underlying work is public domain, 1861.)
+Downloaded:   2026-10-08 with scripts/download_iiif.py (31 images, all verified JPEG)

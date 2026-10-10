@@ -1,0 +1,109 @@
+## R
+[margin] 万国〔初?〕
+[margin] 四
+[caption] つゞき
+[main] まち
+[main] かず七百十三
+[main] ちやういへ
+[main] かず三万
+[main] にん
+[main] 〔じゆ?〕
+[main] 六十万人
+[main] ありて▲
+[main] ▲その
+[main] はんじやういふばかり
+[main] なくじやうかにはあまたの
+[main] あきんどやのきをならべ
+[main] しばゐ見せものかまびす
+[main] しくたちこみわうらいのくん
+[main] じゆよるひるをわ〔か?〕たずその
+[main] くにのまつりごとはおきてに
+[main] したがつてまもりぐにの王は
+[main] 男にてだい〳〵ちすぢを
+[main] たやさずおほよそ
+[main] ふらんすの人はおの〳〵
+[main] そのおきてありて上くわん
+[main] より下くわんにいたるまで身
+[main] ぶんにおうじてねんぐをたて
+[main] まつるくにの王はしも〴〵へふれを
+[main] ▲なるがくもんじよを
+[main] つくりて百がくをおほいに
+[main] なすこくちう四かしよの
+[main] がくもんじよのほか百せう
+[main] しよくにんあきう〔ど?〕の
+[main] あつまるがくもんじよありて
+[main] つとめてくにたみををしへて
+[main] みちびきもつぱらがくもんを
+[main] はげましむこゝにはりす
+[main] のしろしたにもろ〳〵の
+[main] しよくにんのさいくばを
+[main] たてぶき
+[main] あまた
+[main] をつ〔く?〕
+[main] 〔り?〕〔い?〕だす
+[main] なかにか〔も?〕ん
+[main] もるちると⊗
+[caption] ⊗つちおと
+[caption] 十里
+## L
+[margin] 万国〔初?〕
+[margin] 五
+[main] いだすにもちかひをともにする
+[main] くに〴〵の王とひやうぎをなさゞ
+[main] ればいださずそのくにのひとの
+[main] こゝろたにんとまじはりてかくすこと
+[main] なくれいぎたゞししかれどもおしい
+[main] かなそのひとゝなりかる〴〵しちかごろ
+[main] そのちにおほみぞをほりてたてよこに
+[main] 川みづをつうずることをくふうなせり
+[main] かつかうゑきのみちもさかんにして
+[main] 大ふねすそうをつくりてしよ
+[main] こくにあきなひのみちを
+[main] さかんになしところ〴〵
+[main] にがくもんじよをつくりて
+[main] おさなきものに
+[main] をしへさとしもの
+[main] いひおよびいつさいおもき
+[main] いりようのがくもんをなら
+[main] はし又てんちばんもつのこと
+[main] はりをきはむるのがくををしへ
+[main] べつに大き▲
+[caption] ○ふらんす国
+[caption] はりすのみやこ
+[caption] はんえい
+[caption] の図
+[main] いへるおほ
+[main] づゝをつくる
+[main] ばしよは
+[main] その小や
+[main] 十丁四めん
+[main] にしてまごと
+[main] にしきり
+[main] ありて
+[main] てつ
+[main] から
+[main] かね
+[main] あ〔か?〕
+[main] がね
+[main] とう
+[main] を
+[caption] 次へ
+## notes
+Block order across the spread: R header (boxed つゞき, continuing from the previous spread) → ありて▲ / ▲その → R upper block → L upper block (いだすにも… … べつに大き▲) → R lower block (▲なるがくもんじよを …) → its short columns among the figures (たてぶき / あまた / をつく / りいだす / なかにかもん / もるちると⊗) → L lower block (いへるおほづゝ … とうを) → boxed 次へ (continued on the next spread). The ⊗ after もるちると matches the ⊗ on the label 「⊗つちおと 十里」 next to the women on R. That label most likely means 槌音十里, "the hammering can be heard ten ri away," and is a side note rather than part of the running sentence, because もるちると→いへるおほづゝ reads straight on. Both copies (Waseda vol1_p0009, NDL vol1/p0008) were confirmed visually to be the same spread from the same block. All readings were checked against the sharper NDL scan, with Waseda used to settle doubtful places. The spread has no furigana.
+
+(a) Summary: The text goes on describing Paris: 713 streets, 30,000 houses and 600,000 people, with busy markets and theatres in the castle town. It says the French state is run by law with a hereditary male king, everyone from high officials to low pays taxes according to rank, and the king may not issue decrees without consulting allied rulers. The French are described as honest and courteous but frivolous. The text then describes recently dug canals, trade by large ships, many schools (four great academies plus schools for commoners, artisans and merchants), and arsenals beneath Paris castle making weapons, including the great guns called かもん (canon) and もるちる (mortier). Each gun foundry covers 10 chō square, has partitioned rooms, and works iron, bronze, copper and so on. The picture caption reads 「ふらんす国 はりすのみやこはんえいの図」, "The prosperity of Paris, capital of France."
+
+(b) Confidence: about 92% of characters are certain. Doubts are concentrated in the following places:
+- the short columns among the figures (をつく / りいだす: the glyphs look like う-ゐ-だ-す and could also be read をつゝかいだす as the OCRs do; かもん could be かのん "canon");
+- じゆ, written with the single glyph 寿 in にん寿 (人数 = にんじゆ/にんず);
+- わかたず: the か is a cursive 可 that OCR reads as つ;
+- the single-glyph-sized pairs in the tail (てつ/から/かね/あか/がね/とう);
+- the clipped 柱 character (ネ-left half on R, 刀-right half on L, so probably 初).
+- まもりぐにの: the ぐ really carries dakuten in both copies and is kept as printed.
+
+(c) Candidates, scored against the main text of about 640 characters:
+- NDL v3 on Waseda (≈90–110 wrong or missing): junk at the start (大巨不); 七百十一 for 十三; drops にん/じゆ, the 〳〵 marks, いだすにもちかひをともにする and ぎをなさゞ (about 20 characters); misreads かず→かま, ことなく→みなく, かる〴〵しちか→かるしらか, くふう→くふか, あきうど→あきらと, はりす→はり出, つくりいだす→つかいだす. Ordering is garbled around ところ〴〵/おさなきもの. It hallucinates in the picture area (御指, 月日, 八月, 同断, many □), omits the caption, and drops the tail (にしきりありててつからかねあかがねとうを).
+- NDL v3 on NDL (≈60–70): reading order is good. Misreads: いへかず→いつかす, には→忍, かまびすしく→かまひさしく, おきてに→おきても, ほりて→ちりて, はりす→はりま, 四かしよの→五つ, ほか百せう→ほつ□□, 四めん→二めん. Drops にんじゆ, the 〳〵 marks (しも〴〵へ→しもべ), じよを and おほいに. Inserts junk (一ノ目刀, やき四六月, 同日), and runs the caption into the main text.
+- NDL Lite on Waseda (≈45 wrong, plus about 15 noise lines): the column-level readings are mostly right. Order is jumbled (L lower and short columns interleaved with R), with noise lines (訓×100, long □ runs, TEL, 書肆, 100, HI) and a duplicated line. Misreads include 上くわんに入棚, 下今え, 人にの王, その心にろひこの, こゝつた, くふか, こゝにあきなひ, をしへきとしもの一, 大き出, おちいに, はんもい, ばしよい, その小つ, 十丁四と, ねつちおと. It also loses いだすにもちかひ… and the caption.
+- NDL Lite on NDL (≈25–30 wrong, plus about 25 noise lines): the most accurate. It captures the caption, the label, the short columns and the tail (てつ/から/かね/ある/がね/とう/を/次). Errors: おき丁, 上くわんます, おうじ七, まづる, 人にの王, なつにかもん, もるちると思, 奴つちおと, ぐつに大き国, ほつ百文, ある (for あか?), まごと〳〵. Lines are truncated (なるがくもん / なすこくちう四かし), one line is duplicated, and there are many noise lines (書員, 四十一, 10mm, TEL, 計画) and □ runs.
+- Claude by eye (≈300+ wrong, around 50% accuracy): it got the layout, the header numbers, the caption skeleton and the ⊗ label. Most hentaigana in the running text are wrong, it is unable to parse the gutter column on L, and many readings are fluent-looking guesses (e.g. 「〔す?〕べらぎ」, 「〔定?〕さま〔ゞ?〕なれど」).

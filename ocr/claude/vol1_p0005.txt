@@ -1,0 +1,37 @@
+## R
+[margin] 万国初
+[margin] 二
+[caption] 阿蘭陀國《おらんだこく》
+[main] 此国《おら〔んだ?〕》八人民《〔みん?〕》専《〔もは?〕》ら枝藝《ぎげい》に
+[main] 妙《めう》をえ通商《つうしやう》を〔主?〕とし能《よく》天文《てんもん》
+[main] 地理《ちり》に通じ格物《かくぶつ》究理《きうり》の
+[main] 学《がく》に達じ諸国《しよこく》の産物《さんぶつ》
+[main] 異類《いるい》奇品《きひん》を
+[main] 集《あつめ》て
+[main] 互市《ごし》
+[main] の大利《〔た?〕ひり》
+[main] を究《きハ》む
+[caption] 大清國南京人《たいしんこくなんきんじん》
+
+## L
+[margin] 一
+[margin] 〔酒?〕 (round seal-script stamp beside the cartouche)
+[caption] EЬVSHLUBIOↃƧNӨT (decorative pseudo-Latin letters on the balloon band, as printed left→right)
+[caption] 北亞墨利《きたあめり》
+[caption] 加合衆國《かがつしゆうこく》
+[caption] 華盛都府《わしんとんふ》
+[caption] 風船之圖《ふうせんのづ》
+[main] 昔々の赤本に脚色も淺き朝比奈が
+[main] 島巡《しまめぐ》り〔の?〕戯作《げさく》あり。足長《あしなが》手長《てなが》の
+[main] 春日〔殘?〕《〔あづまひ?〕》。慰《なぐさ》む小人《こびと》の童子《どうじ》等《ら》が。■《〔よさ?〕》
+[main] 翫《もてあそ》びありけるが。物換《〔ものかハ?〕》り星移《ほしうつ》り。
+[main] 當時《いまどき》の千歳児《せんざい〔じ?〕》ハ。
+[main] 飴《あめ》の棒《ぼう》の井口《〔まをち?〕》〔ゑ?〕。
+[main] 〔古?〕《〔こ?〕》でハゆかぬと品《しな》を替《〔か?〕》。萬国噺《ばんこくばなし》の
+[main] 聴取《きゝとり》学文《がくもん》國字《かな》に譯《やく》しく取次《とりつぎ》の。請《〔うけ?〕》
+[main] 賣《うり》〔殘?〕あ〔ん?〕めのあ〔ら?〕じ
+[main] 辛酉春　假名垣魯文記 〔seal〕
+
+## notes
+Summary: The right page (headed 阿蘭陀國 "Holland", with a Chinese "Nanjing man of the Great Qing" standing beside a seated Dutchman reading a book) says the Dutch devote themselves to skills and trade, are versed in astronomy, geography and natural philosophy, collect rare goods from all countries and profit from foreign trade. The left page shows a balloon labelled "Balloon of Washington, United States of North America", and finishes the author's preface: the old red-books' tales (Asahina's island travels, long-legged/long-armed folk, dwarfs) no longer satisfy today's children, so the author changes his wares and offers these "tales of all nations", put into kana from hearsay and scholarship. Signed 辛酉春 (spring 1861) 假名垣魯文記.
+Self-estimate: ~85% character accuracy for main kanji/kana text, lower (~65-70%) for furigana. Hardest parts: the furigana on R column 1 (此国/人民/専), the uncertain kanji in L column 3 (春日〔殘?〕 and the character at the column foot partly hidden by the flag drawing), L column 6 井口's reading and the following glyph, the kana run in L column 9, and the seal-script stamp. The balloon band letters are decorative pseudo-Latin that I copied by shape.

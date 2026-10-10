@@ -1,0 +1,137 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1903,
+            523
+          ],
+          [
+            1903,
+            1031
+          ],
+          [
+            2055,
+            523
+          ],
+          [
+            2055,
+            1031
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "編輯加礼留",
+        "isTextline": "true",
+        "confidence": 0.305
+      },
+      {
+        "boundingBox": [
+          [
+            1705,
+            821
+          ],
+          [
+            1705,
+            1070
+          ],
+          [
+            1779,
+            821
+          ],
+          [
+            1779,
+            1070
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.504
+      },
+      {
+        "boundingBox": [
+          [
+            1596,
+            523
+          ],
+          [
+            1596,
+            976
+          ],
+          [
+            1664,
+            523
+          ],
+          [
+            1664,
+            976
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "一英吉利の官人",
+        "isTextline": "true",
+        "confidence": 0.568
+      },
+      {
+        "boundingBox": [
+          [
+            1494,
+            471
+          ],
+          [
+            1494,
+            963
+          ],
+          [
+            1592,
+            471
+          ],
+          [
+            1592,
+            963
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "一阿修羅",
+        "isTextline": "true",
+        "confidence": 0.378
+      },
+      {
+        "boundingBox": [
+          [
+            452,
+            2010
+          ],
+          [
+            452,
+            2766
+          ],
+          [
+            573,
+            2010
+          ],
+          [
+            573,
+            2766
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "米理幹男話聖東",
+        "isTextline": "true",
+        "confidence": 0.597
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 4526,
+    "img_height": 4217,
+    "img_path": "童絵解万国噺 (1861) - NDL 207-1695/vol3/p0006.jpg",
+    "img_name": "p0006.jpg"
+  }
+}

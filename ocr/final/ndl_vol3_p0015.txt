@@ -1,0 +1,77 @@
+## R
+[margin] 万国三
+[margin] 十■
+[caption] 巴利那
+[caption] 米理幹
+[main] つゞき 大ふねくる〳〵とかざぐるまのごとくめぐりて
+いまにもくつがへるごとく▲
+▲なる
+にぞせんちうあらくして
+大なみふねにおほひかゝりいかに
+ともすべきやうなくいかゞは
+せんとふためくをり
+からまた一チぢんの
+かぜともにくろ
+くもふねに
+まひさがりその
+うちにゐぎやう
+の魔神〔こつ〕ぜん
+としてあらはれいで
+ほばしらつかんでゆさ〳〵とゆすると
+ひとしくせんちうはさらにかなへ
+わくことくのりあふもの
+どもこの◬
+[main] ◬まじん
+を一トめみる
+よりきぜつしてせうし
+へしれずなりにけりこのとき
+めりけんふうふのものはしよにん
+とかはりておどろかずめりけんは
+たんぜんといかりをとりてたち
+あがりまじんをはたとにらまへ
+つめなにものなるぞとなじり
+とふまじんは三頭《さんとう》六眼《ろくがん》
+[main] ◭いふにめりけん
+おぼつかなけれど
+かのまじんのいふ
+にまかしてさらば
+にしへやりてよと
+こふに
+まじんは
+このふねをひがし
+のかたへこぎさる
+にぞめりけんま
+じんの心をさとり
+かやつにしといへば
+ひがしへやり
+みなみと⊠
+⊠いへ
+ばきたへおも
+むくわれこのたび
+はてんどうしてこれに
+めいじこゝろみんと
+こたびは つぎへ
+## L
+[margin] 万国三
+[margin] 〔十〕五
+[main] にて三ツの大くちうちひらき
+めりけんをみてから〳〵と
+うちゑみ
+〽われは◀
+[main] ◀ある
+ま〔た〕のしまね
+にすまふ妖魔なり
+仙人〔様〕〔すなはちこれなり〕
+われなんぢ
+らがあや〔う〕を
+たすけてこのふね
+こぎてえさすべし
+ひがしへゆくやにしへ
+いづるやとくはうがく
+をしめすべしわれ
+われそのかたに
+ふねをやらんト◭
+## order
+R top (つゞき) ▲ → R main ◬ → R second ◬ (ends …三頭六眼) → L top-right (にて三ツの…〽われは) ◀ → L lower-right under the rope ◀ある… → L top-left (われなんぢ…やらんト) ◭ → R bottom ◭いふにめりけん … ⊠ → ⊠ … つぎへ
+## notes
+A storm strikes the ship and a three-headed, six-eyed demon seizes the mast; the crew faint, but Merriken (めりけん) and his wife stay calm, and the demon, calling itself a demon of some island, offers to steer the ship wherever he names; knowing it does the opposite, Merriken says "west" so it rows the ship east. The demon's speech on L (〽われは… / ◀ある… / 仙人〔様〕…) is crowded around a rope and its column order and the 仙人 column are uncertain; 〔こつ〕ぜん is a cursive form (probably 忽然); ◬/◭ = triangle continuation marks of two different shapes, ⊠ = boxed mark; R page number cut by the binding.

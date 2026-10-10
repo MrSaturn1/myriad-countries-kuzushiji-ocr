@@ -1,0 +1,106 @@
+## R
+[margin] 万国三
+[margin] 十九
+[caption] 話聖東
+[caption] 加礼留
+[main] 〔つゞき〕見るより
+いざりよりていへる
+やう〽そこなるはわが
+あふぎみのふらん
+きりんぬしなるやトこゑ
+かけられてますらをは
+おとめ〔が?〕おもてをうち見
+〔や?〕りいと
+おどろき
+たるやうす
+にてそなたはいもとの
+かれるにあら
+ずやなに
+のゆへもて
+このところに
+きたりてありしや
+いといぶかしまたそれがしを
+うたんとなせるわかものにいふこと
+ありしばらくてもとをゆるめてよ
+せうぶはあとにてしづかにはたさん
+とく〳〵つるぎをしりぞけ給へト
+いふに
+こなたは
+そのます
+らをは△
+[main] 会なるは
+せつしや
+がいもと
+名〔を?〕かれる
+とよびはべりしか
+るに☒
+[main] ☒それがししゆくぐわん
+ありてまいよ〔この社に?〕
+通夜《つや》をなしつこよひは
+まんぐわんときは〔た?〕
+りおもはずつかれて
+まどろみゐたる〔に?〕⧗
+[main] ⧗との
+かたにもの
+おとしていと
+さはがしく
+〔きこ?〕ゆるに
+## L
+[margin] 万国三
+[margin] 二十
+[caption] 拂郎基林
+[main] ▲おとめのあにとしるものから
+ぞくにあらざることをさとりつるぎを
+しりぞけ身をのきてやうすいかにと
+ひかへたりかのますらをもはう〔じぐい?〕を
+かたはらになげすてゝちりうち
+はらひ
+わしんとんが
+まへにどつかと
+ざしつゝもの
+しづ
+か
+に
+いへる
+やう
+[main] いづれの
+さとのわか
+ものなるかさい
+ぜんよりのしゆ
+れんのけんほう
+したはしくこそ候
+なれそれがし事はひるぎ
+にや部内〔ぶへ?〕にすめるのう
+みんなるふらんぼれすが
+せがれにてふらんきりんと
+いへるものなり是会
+[main] やしろのうちより
+やみとはいへど
+うかゞひ見れば
+おん身がひとを
+あやめたるやう
+すを見るより
+しさいはし〔ら?〕ねど
+ひつきやうさんぞく
+よとうのものにや
+イザくみとめんと
+ゆくてをさゝへ
+かくのしだいに
+およべるなり
+しかるに
+おん身が
+てのうちの
+するときこと
+はでんくわう
+のきらめく
+ごとくなる〔か?〕み
+のおちかゝる
+にもひとし
+ければこれ
+なん〔に?〕やまだち
+なんどの
+[つぎへ]
+## order
+R top つゞき → R top ends △ → L top ▲ (→ short columns → second L top block) ends 会 → R sub-block 会 (beside Washington's sword) ends ☒ → R bottom ☒ ends ⧗ → R bottom-left ⧗ → L bottom → つぎへ
+## notes
+Washington (話聖東/わしんとん), sword drawn, is confronted by a young man; Carol (加礼留/かれる) cries out that he is her brother, so Washington realises he is no bandit and sheathes; the youth sits down and introduces himself as Franklin (拂郎基林/ふらんきりん), son of the farmer Franklin-bores (ふらんぼれす) of Virginia (ひるぎにや), explaining he had been keeping vigil at a shrine, heard a disturbance, saw Washington apparently killing someone, and took him for a bandit. Unsure: the weapon word はう〔じぐい?〕 (perhaps ぼうちぎり "staff"), small glyphs after 部内, まいよ〔この社に?〕, and the faint end of the R-bottom block (Waseda copy checked; same spread).

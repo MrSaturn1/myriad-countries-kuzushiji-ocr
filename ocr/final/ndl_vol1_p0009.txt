@@ -1,0 +1,98 @@
+## R
+[margin] 万国初
+[main] つゞき
+たゝらに
+かけてふき
+たてあるひは
+かねをならし
+みがくにその
+つちおと十里
+のそとにひゞき
+わたりけむり
+ゑん〳〵としてそら
+[main] ⊗また
+そのほか
+にとけい
+しよくにん
+したてものしきぐ
+しよくおけやだいく
+やねかたかべぬりくつし
+かむりしのたぐひいつ
+[main] ⊗あまた
+のたみにそのかう
+えきのりぶんにおう
+じて手あてをあたふ
+せいね川のみなとには
+[main] ⧗まいにちにぎ
+わひおほかたなら
+ずこれがために
+とちうるほひ
+くにたみい〔へ?〕とみ
+さかへけるとぞ
+[caption] ○ふらん
+すの
+てつ
+ぽう
+かぢ
+たゝら
+を
+ふ
+む
+[caption] 「かひ
+がなつたぜ
+たばこに
+しよう
+## L
+[margin] 〔㊁?〕
+[main] をおほふあるひは
+みなと〳〵にて
+あまたの大ふねを
+つくりたてるにその
+さま大ぼくには
+ありのあつまる
+ごとくふなだいく
+すせんにんあしば
+をくみしやちを
+まきころをふな
+ぞこにかいこみて
+さしものたいせんへさき
+のかたをたかくもたげ
+そのふなぞこを
+じざいにつくろひこれ
+をふなぐらに▲
+[main] ▲おさむる
+ときはつなを
+もつてひいて
+ゆくにその
+しかけきみやうなりとぞ⊗
+[main] さいのしよくにんは
+まちをへだてゝそのかず
+いくにんといふをしらず
+そのくにゝぞくしたる
+しま〴〵よりはきん〴〵
+どうてつさんごじゆめ
+のうすいしやうとりけもの
+うをやさいをみつぐ
+にせいね川のみなとに
+おいてばんこくの
+ふねとかう
+えきしもろ〳〵
+のしよく
+にん△
+[main] くに〴〵のかうえき
+ぶねいかりをおろし
+はりすのみやこにしやう
+りくしてふらんすのこく
+さんのしな〴〵をもとめ
+あるひはおのれが
+もたらしたるしな〴〵と
+かうえきなす
+にぞ⧗
+[caption] 「ヤツ
+セツ
+こりや
+きた〳〵
+## order
+R top (つゞき…そら) → L upper (をおほふ…ふなぐらに ▲) → L far-left ▲ (おさむる…とぞ ⊗) → R middle ⊗ (また そのほかに…いつ) → L middle (さいのしよくにんは…しよくにん △) → R lower ⊗ (あまたのたみに…みなとには) → L lower (くに〴〵のかうえきぶね…にぞ ⧗) → R bottom ⧗ (まいにち…とぞ); captions: R ○ふらんすのてつぽうかぢ…, R balloon かひがなつたぜ, L balloon ヤツセツ
+## notes
+Continuation of the France section: Paris industry—gunsmiths at the bellows, shipyards on the Seine where thousands of shipwrights build and haul great ships, countless craftsmen (clockmakers, tailors, coopers, carpenters, roofers, plasterers, shoemakers, hatters), tribute of metals, coral, crystal and produce from France's islands, and foreign trading ships unloading at Paris, so the land prospers. Order is from the marks and sense: the ⊗ after とぞ and the ⊗ before あまた look identical; the L-middle block ends in a △-like mark (taken to lead to ⊗あまた), and いつ|さいの (一切の) joins R middle to L middle with no mark. Unsure: いへとみ (worn), the circled numeral above the left page.

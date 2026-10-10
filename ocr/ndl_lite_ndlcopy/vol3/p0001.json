@@ -1,0 +1,112 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            1663,
+            402
+          ],
+          [
+            1663,
+            797
+          ],
+          [
+            1913,
+            402
+          ],
+          [
+            1913,
+            797
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "朝鮮",
+        "isTextline": "true",
+        "confidence": 0.684
+      },
+      {
+        "boundingBox": [
+          [
+            496,
+            1739
+          ],
+          [
+            496,
+            2156
+          ],
+          [
+            633,
+            1739
+          ],
+          [
+            633,
+            2156
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "こす",
+        "isTextline": "true",
+        "confidence": 0.424
+      },
+      {
+        "boundingBox": [
+          [
+            424,
+            368
+          ],
+          [
+            424,
+            1580
+          ],
+          [
+            688,
+            368
+          ],
+          [
+            688,
+            1580
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "万国噺",
+        "isTextline": "true",
+        "confidence": 0.426
+      },
+      {
+        "boundingBox": [
+          [
+            371,
+            2132
+          ],
+          [
+            371,
+            2534
+          ],
+          [
+            565,
+            2132
+          ],
+          [
+            565,
+            2534
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "○",
+        "isTextline": "true",
+        "confidence": 0.321
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 4526,
+    "img_height": 4217,
+    "img_path": "童絵解万国噺 (1861) - NDL 207-1695/vol3/p0001.jpg",
+    "img_name": "p0001.jpg"
+  }
+}

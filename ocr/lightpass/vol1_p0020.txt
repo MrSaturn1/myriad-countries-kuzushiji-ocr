@@ -1,0 +1,86 @@
+## R
+[margin] 万国噺
+[margin] 〔十五?〕
+[main] 〔つゞき〕うみに
+うかむのわざを〔たし?〕み
+うみのうへのありさまを
+こと〴〵くしらんどほつしせん
+どうのすがたとなりて
+いぎりすにわたり
+ろんどんにいたりて
+〔その?〕ふねの
+さいく
+ばに
+すまふこのくにゝ
+ある〔あ?〕ひだ
+みかどにつかへる
+もの六百よにん
+みな一チげいにちやうずる
+ものなりといふみかどゝ
+[main] ▲みかど
+このものを
+あげもち
+ひみづ
+から
+いへる
+やう
+おほ
+## L
+[margin] (四)
+[margin] 万国噺
+[margin] 〔十六?〕
+[caption] 魯西亞《おろしや》の百姓《ひやくしやう》耕作《かうさく》の道《みち》を励《はげ》む
+[main] まじはるもの
+みかどのきりやう
+をほめざるはなしそれ
+よりいぎりすをさり
+おらんだをすぎでれす
+でんをへてうゑんねんの
+ふないにおもむきいた
+りやこくにいたらんと
+ほつするにぞくこくのもの
+どもらんをおこしてみかど
+をはいせんとはかるゆへを
+もつてほんごくにかへるこの
+ときおろしやのごるとんと
+いへるものすでにそのらんを
+たひらぐしかれどもみかどの
+いかりなほはれずそのらんを
+おこせしものをこと〴〵
+くけいばつにおこ
+なふこゝにめれ
+しこうといふ
+ものあ〔り?〕
+さいちすぐ
+れちからを
+つくしてちう
+きんをはげむ▲
+[main] よそ
+くに
+を
+おさ
+め
+たみを
+やすん
+ずるはもつ
+ともつとめ
+べきなり
+とせい
+をはげ
+まし
+おさむる
+ことをはかるこゝろ
+いよ〳〵せつなり
+こゝにおゐてくに
+のうちのねんぐ
+をへらしまた
+くにのえき
+をはかる
+がために
+〔あ?〕しよこくの
+〔三?〕人じばんをはし
+いりようの〔つぎへ〕
+## order
+R top (つゞき box) → L top (ends ▲) → R bottom ▲みかど (ends おほ) → L bottom (よそ…, ends つぎへ box)
+## notes
+Peter the Great (unnamed "みかど" of Russia) learns shipbuilding disguised as a boatman in London, with 600 skilled followers; he tours Holland, Dresden, Vienna, and heads for Italy but returns when a revolt breaks out; Gordon (ごるとん) has already crushed it, but the emperor punishes the rebels; Menshikov (めれしこう) serves loyally; the emperor rules diligently, lowers taxes and promotes national profit. Unsure: うかむ (OCR read うつむ), たしみ, その (hentaigana) ふねの, あるあひだ (OCR すひだ), ものあり (OCR あか), and the last columns of L bottom (〔あ?〕しよこくの / 〔三?〕人じばんをはし / いりよう) are worn and only tentatively read; page numbers half-hidden in the gutter.

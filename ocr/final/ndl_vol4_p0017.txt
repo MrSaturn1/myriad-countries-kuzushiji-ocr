@@ -1,0 +1,63 @@
+## R
+[margin] 万国四　十三
+[caption] 阿丹土
+[main] つゞき もしたゞちにおろちの
+しがいをやきすてせうくわんがいへに
+もどりておろちのことどもものがたり
+あゝだむすがかうしんとゆう
+きのほどをかんせうしこれより
+あゝだむすをたつとむことおほ
+かたならずさればこのさとの
+せうくわんは
+つまはさきに
+みまかりて
+いちにんの▲
+[main] ▲むす
+めをもてり
+かほばせのあて
+やかなるのみならずしてこゝろ
+ばへも△
+[main] ∞ことしは二八の
+はるをむかへちゝに
+つかへてまめやかな
+ればせうくわん
+マヂサハすぐれし
+ものをむこに
+とりて世をゆ
+ずりその身は
+いんきよ⧗
+## L
+[margin] 万国四　十四
+[main] △世に
+すぐれ
+よろづ
+をな
+ご
+の
+たし
+なむわざ
+はなにくれとなく
+これをたしなみかりにも
+うきたるおこなひなく∞
+[main] ⧗せん
+もの
+と
+こぞ
+より
+これを
+たづぬる
+に心に
+かな
+ひし◀
+[main] ◀ものなけれ
+ばそのまゝにうち
+すぎけるがあゝ
+だむすが日ごろ
+よくはゝにつかへて
+かうしんなるとよろづの
+わざにたけたるをふかく
+[caption] つゞく
+## order
+R top つゞき ▲ → R middle ▲…△ → L top △…∞ → R lower ∞…⧗ → L bottom short columns ⧗…◀ → L bottom-left ◀ → つゞく box. (∞ = 8-shaped mark, ⧗ = hourglass box mark, ◀ = small triangle mark.)
+## notes
+After the serpent's corpse is burned, あゝだむす (Adams, 阿丹土) returns to the village headman's (せうくわん) house; the widowed headman, impressed by Adams's filial piety, has a sixteen-year-old daughter of fine looks and accomplishments, and wants to take a worthy son-in-law and retire, and begins to favour Adams; picture shows Adams stabbing the serpent coiled round the eagle. Unsure: first character after つゞき (〔ろ?〕し, possibly the end of ころし), and the katakana マヂサハ (read as printed; meaning unclear — possibly a name).

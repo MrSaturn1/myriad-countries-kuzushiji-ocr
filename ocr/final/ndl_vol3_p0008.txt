@@ -1,0 +1,119 @@
+## R
+[margin] 万国三
+[margin] 四
+[caption] 閣龍
+[main] つゞき
+と思ひ
+〔た?〕
+ち
+いすは
+にや国
+王〔家?〕
+にそう
+もんなし
+そのゆるし
+をえて
+たいせんを
+つくりなし
+これに
+ひやうらう
+〔ろよろ?〕を
+たくはへわが
+くに明應
+二年かの
+くにの八月
+三日はろ
+すといへる
+みなとより
+かの大せんに
+まほうち
+[main] ▲あまたのもの
+どもくち〴〵に
+ころんを
+[main] ◀のゝしり
+いへるやう「や〔を?〕れ
+せんせいそこ
+もとむゑき
+のことを
+いひたて⊗
+[main] △大
+かいにわれ〳〵
+をのりいださせすで
+にいくばく日をふれども
+一トつまみの
+しまさへ
+見ず
+しんせかい
+はいづれに
+ありやわれ
+らはこきやうに
+ふぼもありつま子
+もあるをこゝろなく
+いつまでかくて日を
+ふるぞや「モウよき
+ほどにこのことをやめ
+にして可ならん
+かもしこんにち
+より三日をかぎり
+## L
+[margin] 万国三
+[margin] 五〔と?〕
+[main] あげじしやく
+の〔むし?〕を
+にしにむけ
+さかまく
+なみを
+うちやぶり
+すでに
+日〔を?〕へて
+三十四日
+ゆけども
+〳〵ひやう
+ばうたる
+あをうな
+ばらをす
+ぐるのみ
+こゝぞと
+思ふしまも
+見ずうみ
+よりいでて
+うみにいる
+つき日のひか
+りをあほぐ
+のみせんちう
+にしたがへ
+つれたる▲
+[main] ⊠わがこく
+わうに
+ばくたい
+のいりめを
+かけたる●
+[main] ●のみ
+ならず
+ためしもきか
+ざるふねを
+つくりはても
+しれざる△
+[main] しんせかいを見いだ
+さずばわれ〳〵
+一どう心を
+あはせなん
+ぢをうみに
+しづめるか
+たゞしは五たい
+を〔つ?〕
+ぼう
+に
+て
+うち
+くだきのち
+の世の
+いまし
+めとなすべしと
+かしましくのゝしり
+〔さわ?〕げばころん〔は?〕
+[caption] つゞく
+## order
+R top つゞき → L top ending つれたる▲ → R bottom-right ▲あまたのもの…ころんを → R bottom ◀のゝしり…いひたて⊗ → L bottom-right ⊠わがこくわうに…かけたる● → L bottom-left ●のみならず…しれざる△ → R lower △大かいに…三日をかぎり → L lower しんせかいを見いださずば…ころんは → つゞく box
+## notes
+Columbus (ころん), having won the approval of the King of Hispania (いすはにや), builds a great ship, stocks it with provisions and sails west from the port of Palos (はろす) on 3rd August of Meiō 2; after 34 days of seeing nothing but ocean, the crew turns on him, complaining he has wasted the king's money and they have families at home, and threaten to drown him or beat him to death unless land is found within three days. Unsure: the third column (glyph looks like さ, read as た of 思ひたち?), 王〔家?〕, the column after ひやうらう (〔ろよろ?〕を, perhaps よろづ), 〔むし?〕 (perhaps むき, compass "heading"), 日〔を?〕へて, the column after 五たい (を〔つ?〕 ぼうにて, perhaps a club/rod), and the last faint column before つゞく; continuation marks drawn as ◀/⊗/⊠/● are transcribed as they appear.

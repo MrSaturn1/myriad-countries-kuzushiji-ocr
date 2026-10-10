@@ -1,0 +1,91 @@
+## R
+[margin] 万国四　十一
+[caption] 仙女
+[main] ▲ねらへど〔ぢん?〕つう
+ぢざいのどくじやの
+いきほひ
+すでにあや
+ふきその
+をりしも羽《は》
+がひをやす
+めしくだんの
+あらわし
+はしをならし
+てまひさか
+りおろちが
+せんしん
+そこゝと
+くちばしを
+もて
+つきつら
+ぬき
+ある
+ひは
+つめ
+もて
+かきさば
+きあゝだ
+むすは
+たすくる
+にぞこれに
+気をえて
+## L
+[margin] 万国四　十二
+[caption] 阿丹土
+[main] つゞき
+こずゑに
+とまりたるはの
+あらわしにまなこを
+つけのまんけしき
+にあらわしは
+まなこを
+いからし
+羽をさか
+だておろ
+ちがよらば
+くちばし
+もてつひば
+まんありさま
+なればさしもの
+おろちもさうなく
+かゝらずそうほう
+うへとしたとにてしばし
+にらまへつめたるをあゝだむすは木かげより
+とくとうかゞひ仙女よりえたる霊樹《れいじゆ》をこし
+にさしけんひきぬきておどりいでおろちがまつかう
+めがけつゝはつしときれはあやまたずまなこの
+きはよりはなつらまでばらりずんときりさげたり
+おろちはこれにおどろきいかりくちよりくわゑんを
+はきいだし大くちあいてあゝだむすをたゞひとのみときそひ
+かゝるをこなたははやくみをそむけみぎにあたりひだりを▲
+[main] つばさを
+うちふり
+おろち〔が?〕
+よはるきあひ
+につけいり
+あたるに
+まかせてきり
+ちらしつき
+つらぬけば
+さしもの
+どくじやも△
+[main] △しんたい
+いまはなます
+のごとくし
+だい〳〵に
+いきほひ
+つきぢひゞき
+うつてたに
+〔そこへ?〕
+どう
+と∞
+[main] ∞のけ
+ぞりいき
+たゆるをとくと
+見すましかのわしは
+こくうはるかに
+[caption] つゞく
+## order
+L top つゞき → ▲ R bottom ▲ (ends 気をえて) → L bottom-right block → △ L bottom-centre → ∞ L bottom-left → つゞく box. (The R-bottom block flows straight into the L block つばさを…; ∞ stands for an 8-shaped linking mark.)
+## notes
+The serpent faces the eagle on the treetop; あゝだむす (Adams, 阿丹土) leaps from hiding with the sword hung on his waist by the immortal's 霊樹 and slashes the serpent from eye to snout; it breathes fire and lunges, the eagle pecks and claws it, and Adams hacks it until it falls dead into the valley as the eagle soars away; picture shows the immortal (仙女) and Adams. Unsure: ねらへど〔ぢん?〕つう (both OCRs がうつう; likely 神通自在), the faint short column 〔そこへ?〕, おろち〔が?〕, and the start of the △ block (しんたい).

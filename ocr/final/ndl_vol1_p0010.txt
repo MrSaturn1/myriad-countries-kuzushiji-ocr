@@ -1,0 +1,40 @@
+## R
+[margin] 万国初
+[margin] 六
+[caption] 英吉利《いぎりす》国《こく》部《のぶ》
+[main] ○このくには
+ゑうらつぱ
+しうにしのかたのうみのなかにある
+ひとつのおほしまぐになりきたの
+かたのちをすこしやといふそのしま
+にはむかしよりぬしありてこれを
+## L
+[margin] 万国初
+[margin] 七
+[main] りやうせりしかるにいぎりすの女王
+あんなの世にあたりてそのちをあはせ
+又にしのかたにあるいるらんどゝいふしま
+をもりやうぶんとしてくにの名を大ぶり
+たにやといふそのくにのとちをわけて
+十二かこくとな〔し?〕これに六十二の
+だいめうをほうずそのみなみの
+かたはからいすといへるうみの
+けわしきやまをへだちておらんだ
+ふらんすのりやうこくにむかひ
+あふそのあひだへだゝること
+わづかに
+十二三り
+よき
+かぜ
+に▲
+[main] ▲ほをあげて
+ふねをはしらするときは
+いちにちにしておうらい
+するなりいにしへよりそのくにの王は
+をとこなるときもあり女の〔王?〕もあり
+てさだまらずたうじは女王にて
+[caption] つゞく
+## order
+R header (英吉利国部) → R main (○このくには…これを) → L main (りやうせり…よきかぜに ▲) → L far-left ▲ (ほをあげて…女王にて) → つゞく
+## notes
+Start of the England section: Britain as a great island west of Europe with Scotland ("すこしや") to the north, united with Ireland under Queen Anne as Great Britain, divided into twelve countries with 62 lords (だいめう), separated from Holland and France by the Calais strait (12–13 ri, a day's sail), and ruled by kings or queens—currently a queen. Page numbers 六/七 and the left 柱 are clearer in the Waseda copy. The 王 after いぎりすの女 and in 女の〔王〕もあり is written like モ/エ (lite read も and こと); だいめう is under a smudge, read with the Waseda copy.

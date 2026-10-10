@@ -1,0 +1,33 @@
+## L
+[margin] 万国二　■
+[caption] ○合衆国《〔がつしゆうこく?〕》内《ない》華盛頓《わしんとん》政府《せいふ》の圖《づ》
+[main] つゞき　兵卒〔等?〕はこと〴〵く
+のうみんなりいまわぼく
+すればみな〳〵ちりはな
+れてほこをすてゝのう
+ぎやうをことゝすべし
+ふらんすのかせいもまた
+ほんごくへひきとりたい
+せうわしんとんもこけう
+のさとへかへるべししかる
+のちいぎりす王もし
+ちかひをやぶりふたゝび
+らんをおこさばそのとき
+なにをもつてこれを
+ふせがんかつあめりかは
+もとよりとうり〔やう?〕の▲
+[main] ▲ひとなしもし
+くじそせうあ
+らばたれか
+これをさば
+〔ばん?〕せんや
+ゆへにけふよりをさ
+やくをたてゝはつとをさだ
+めなばながくおさまりくに
+ひさしくたみやすからんしかれどもそのをさを
+たつもいちだいはよろしけれどももしその
+[caption] つゞく
+## order
+L page is printed sideways (rotate 90° counter-clockwise to read): caption top-left → つゞき block lower right (…の▲) → ▲ block on the left: five short columns then five long ones (box つゞく)
+## notes
+The American elders reason that their soldiers are all farmers who will scatter back to farming once peace is made, the French reinforcements will go home, and General Washington (わしんとん) will return to his home village; if the English king broke the treaty and made war again, there would be nobody to defend them, and America has never had a leader (とうりやう) to judge lawsuits. So they should appoint officials and set laws so that the country stays at peace, though even that works only for one generation. The picture shows Washington's government of the United States (合衆国). The page is rotated, so the merged draft was unusable; the text was read from rotated crops (helped by a fresh NDL-Lite pass and the Waseda copy, vol1/p0030). Unsure: 兵卒〔等〕, とうり〔やう〕, 〔ばん〕せんや, the furigana on 合衆国, and the page number.

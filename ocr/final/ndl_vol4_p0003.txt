@@ -1,0 +1,17 @@
+## R
+[main] 童繪解《おさなゑとき》
+萬國噺《ばんこくばなし》
+[caption] 上
+[caption] 大惣かし本（貸本屋印）
+## L
+[margin] 万国四
+[main] 第四編《だいしへん》
+假名垣魯文譯
+一猛齋芳虎画
+錦橋堂壽梓
+[caption] 下
+[caption] 大惣かし本（貸本屋印）
+## order
+R title (童繪解 萬國噺, 上) → L (第四編, translator, artist, publisher, 下)
+## notes
+Colour frontispiece of part 4: the title 童絵解万国噺 runs across the spread, beside a Western woman holding a staff (right) and a man in a black hat drawing a sword and holding a branch (left), crediting 假名垣魯文 (trans.), 一猛齋芳虎 (ill.) and publisher 錦橋堂; 上/下 are red roundels and 大惣かし本 is a lending-library seal, not printed text. No uncertain readings.

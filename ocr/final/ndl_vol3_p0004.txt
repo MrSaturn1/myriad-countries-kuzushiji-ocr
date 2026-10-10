@@ -1,0 +1,20 @@
+## L
+[margin] 万国三　〔一?〕
+[caption] 一 〔序?〕
+[main] 演義小説《えんぎせうせつ》の本据《ほんきよ》たる。事を凡《おほよそ》の近きに採て。義《ぎ》を勧懲《くわんちやう》
+[main] に発すをもて。編者《へんしや》の用意《ようい》と為《な》せるにこそ。莫遮《さばれ》此《この》書の
+[main] 体載《ていさい》や。例の稗史《はいし》の顰《ひそみ》に倣へど。寓言架空《ぐうげんかくう》の話説《わせつ》を
+[main] 設《まうけ》ず。蘭人《らんじん》葛拉墨兒氏《うるめろし》が原譯たるを。清人《せいひと》の飜譯せし。
+[main] 海國圖志《かいこくづし》を始とし。其他《そのた》増譯采覧異言《ぞうやくさいらんいげん》。或は亜墨《あめ》
+[main] 利加一統志《りかいつとうし》。西洋襍記《せいやうざつき》の諸書《しよしよ》に原《もと》き。童蒙婦幼《どうもうふよう》に
+[main] 見安《みやす》くせんとて。皇國言葉《みくにことば》を假名文《かなぶみ》に。解和《ときやは》らげし珍説《ちんせつ》
+[main] 異聞《いぶん》。彼《かの》新国《しんこく》の事實《じじつ》を探りて。新板物《しんぱんもの》の數《かず》に
+[main] 充《みつ》るも。既《すで》に此度《このたび》で三編目《さんへんめ》。煙草《たばこ》呑間もあら沙婆《しやば》
+[main] の。作者と共に賣出《うりだ》しを。梓《あづさ》の主《ぬし》が急ぎ侍りぬ
+[main] 文久改元
+[main] 辛酉季春
+[main] 假名垣魯文記
+## order
+L preface columns right → left → date → signature (single block, no continuation marks)
+## notes
+Kanagaki Robun's preface to part 3 (spring 1861): this is a children's version, retold in plain Japanese kana, of accounts of the new country (America) drawn from the Chinese 海国図志 (based on the Dutchman 葛拉墨兒's original), 増訳采覧異言, 亜墨利加一統志 and 西洋襍記; now in its third part, rushed out by the publisher. Several furigana are read from small worn kana (e.g. 葛拉墨兒《うるめろし》); the margin page number and the seal beside the roundel 一 are uncertain.

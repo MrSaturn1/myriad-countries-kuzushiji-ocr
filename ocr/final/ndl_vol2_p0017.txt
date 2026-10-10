@@ -1,0 +1,37 @@
+## R
+[margin] 万国二 … 十（半欠）
+[main] つゞき
+あつ〔き?〕さむさ
+とちのよしあしにより
+ておなじからず
+とぞさて又せけん
+日々にいり
+ようの▲
+## L
+[margin] 万国二 … 十三（半欠）
+[caption] 北《きた》亜《あ》墨利《めり》加洲の内合衆国領《がつしゆうこくりやう》〔雪?〕■連の山中より金銀をほり出す図
+[main] ▲ものはとち
+よりせうぜざる
+ものはなしその
+うちにいたつて
+かなめなる△
+[main] △ものは
+きん〴〵な
+り
+[main] あかゞねの
+てつすゞ
+のた〔ぐ?〕ひ
+にすぎ
+たるは
+なし
+むかしは
+あめりかにきん〴〵は
+いたつてすくなしちかごろ
+はじめて北かろりなその⊠
+[main] ⊠ほかところ〴〵におほく
+かな山あることをしりまいねんほりいだす
+きん〴〵あかゞねみつかねあまたなり〔きまゞ?〕は〔つゞく〕
+## order
+R top (つゞき) ▲ → L top-right ▲ … △ → L small △ block → L top-left block ⊠ → L bottom ⊠ → つゞく
+## notes
+Heat and cold vary with the land; of all things people need, gold and silver (きん〴〵) are the most essential, then copper, iron and tin; gold and silver were once scarce in America, but recently mines were found in North Carolina (北かろりな) and elsewhere, yielding much gold, silver, copper and mercury (みつかね) each year; caption: miners digging gold and silver in the mountains of California (加洲), U.S. territory. Unsure: R 「あつ〔き〕さむさ」 (lite read あつささむさ), the end of the last L line before つゞく, and the badly worn caption (the kanji before 連 and most of its furigana, also checked on the Waseda copy).

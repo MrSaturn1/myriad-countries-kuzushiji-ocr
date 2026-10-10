@@ -1,0 +1,58 @@
+## R
+[margin] 万国初
+[main] 〔つゞき〕九月すてるべきといへるちに
+みゆきしかぢいものゝばしよにさし
+づをくわへ日くれてらくだといへる
+ところにかゝるしんかすにん
+こぶねにのりてかはを
+わたるにかぜあらく
+なみたかくきし
+にあがる
+ことあた
+はずふね
+まさに
+くつがへ
+らんと
+するを
+見て
+みかどみづ
+からみづのなか
+にとびいりて
+廿四人ンのしんかを
+すくひいだししろ
+にかへり給ふより
+またやまひおこり
+くるしむといへども
+なをやまひをしのびて
+まつりのれいをおこなひ
+## L
+[margin] 万国初
+[main] 二月八日やまひ
+ます〳〵はげしく
+そのとし五十二
+さいにてつひに
+むなしくなり給ふ
+ばんみんのなげき
+さけぶこゑせんりの
+そとにきこへて
+おびたゞしかくて
+きさきかたり
+なみかどの
+くらゐを
+つぎまつり
+ごとをとりて
+くによく
+おさまり
+しよりやう
+のくに〴〵
+なびき
+した
+がひ
+ける
+が
+〔次へ〕
+[caption] ○魯西亞《おろしあ》帝水中《すゐちう》に士卒を救ふ
+## order
+R top 〔つゞき〕 → L top (continues directly) → 〔次へ〕; caption at L bottom left
+## notes
+In September (1724) the emperor (Peter the Great) visited a place called すてるべき and an iron(?)-works, then at らくだ (Lakhta) saw a boat of his men about to capsize in rough water, leapt into the water and rescued 24 of them; his illness returned, and on 8 February he died aged 52 amid universal mourning; Empress Katarina (かたりな) succeeded him and governed well. Caption: "The Russian emperor saves his soldiers in the water." Unsure: しかぢいもの (agreed by both tools, meaning unclear); かぜ dakuten; furigana on the caption partly read from the Waseda copy; page numbers cut off.

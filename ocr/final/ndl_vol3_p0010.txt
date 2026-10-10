@@ -1,0 +1,79 @@
+## R
+[margin] 万国三
+[margin] 七
+[caption] 米理幹
+[caption] 巴利那
+[main] つゞき十八といへるころいぎりす女王にめしいだ
+されおんそばちかくつかへけるがめりけんこのとし
+はたちにしていぎりすいちのびなんなればきう
+ちうにみやづかへするあまたのこしもとこのめり
+けんにこゝろをかけぬは
+なかりしがこゝに女王の
+こしもとにはりな
+といへるは
+そのとしも
+さきでる
+はなの
+つぼみに
+ひとしく
+すがた
+〔か?〕たちのたへなること
+とほやまの
+まゆやな
+ぎの
+ほそ
+ごし
+ひと
+たび
+ゑめ
+ば
+国
+## L
+[margin] 万国三
+[margin] 八
+[caption] 布魯礼
+[main] を
+かた
+むく
+ふ
+えう
+の
+まな
+じりたを
+やうにて世にもまれなる
+びぢよなりしが日
+ごろめりけんが
+さいちすぐれ
+きりやうあるに
+れんぼなしその
+ひまあらば
+いひよらんと
+あけくれ
+こゝろをかく
+れどもひと
+めのせきは
+ことくに
+もかはら
+ねこひ
+のみち
+ま〔ぞ?〕や◀
+[main] ◀ちゞにこゝろを
+くだけどもいひよるひま
+もなかりしがあるとしの
+なつ国王■のかねて
+ふかくあいしたまふ夜
+光のたまにかぜ
+いれてそのしつけをはら
+はせらるゝにいとも
+まれなるめい
+ぎよく
+なればかぜ
+いれの日は
+かのめりけん
+にたまのしゆ
+ごのやくを
+[caption] つぎへ
+## order
+R main block つゞき十八といへるころ… → R bottom staggered line まゆやなぎのほそごし…国 → L bottom staggered line をかたむく…まな → L bottom block じりたを…ま〔ぞ?〕や◀ → L top ◀ちゞにこゝろを…ごのやくを → つぎへ box
+## notes
+At eighteen Meriken (めりけん, labelled 米理幹) is summoned to serve the English queen; at twenty he is the handsomest man in England and all the court ladies are drawn to him, above all the queen's maid Harina (はりな, 巴利那), a peerless beauty who longs to approach him but is kept off by the eyes of others, until one summer the queen's treasured night-shining jewel is to be aired and Meriken is assigned to guard it (the figure labelled 布魯礼 appears on the left page). Unsure: the small glyph after 国王 (■; looks like a small 弓う with dakuten), the small furigana beside 光 (夜光, read only as やく…), 〔か?〕たち (glyph looks like お), the R-bottom glyph read as 国 (Lite くに), ね in かはらねこひ (print shows ね, sense wants ぬ), and the last column ま〔ぞ?〕や.

@@ -1,0 +1,114 @@
+## R
+[margin] 万国三
+[margin] 十〔八?〕
+[main] ［つゞき］めでにつるぎをふりあげていま
+いちにんをからだけわりかへすしら
+はにのこりのぞくのむなもとぐつとさし
+つらぬきしがいをそこへけかへして
+つるぎのちしほをしづかにぬぐひ
+さやにおさめてふるへゐるおとめが
+そばにたちよりて
+しさいをとはんと
+なす▲
+[main] ▲をりし
+もかたへのほこらの
+戸をけはなしあら
+はれいでたるひとり
+のくせものかしら
+にいぎやうのかさ
+ふかくかつぎて
+おもてをぬのもて
+つゝみわしんとん
+が▲
+[main] △ことありといへどもかなたは
+みゝにもかけずなほうちかゝる
+しゆれんのての⊠
+[main] ⊠うち
+こなたは
+このとき二三げん
+とぶよと見へしが
+かたへのほこらのまへにたちたる
+いとふとくながやりなるいしの
+ばうじを
+かろ〴〵と
+ひき⊠
+[main] ⊠さげつゝわしんとん
+がうちくだすつる
+ぎをがつきと
+うけとむるに
+このときかつ
+ぎしかさ
+とれてはじ
+めてあら
+はすその
+さうばう
+ゐふうりん
+〳〵ゐき
+とう〳〵
+としのよは
+ゐはみそ
+ぢにちかく
+いろしろく
+まなこつぶ
+らにしゝむら
+こへ〔て?〕身の
+たけたかく
+これぞいつこの
+ゑいゆうとしら
+れしかれが
+ありさまの
+よあけ
+## L
+[margin] 万国三
+[margin] 十〔九?〕
+[caption] 話聖東
+[main] ▲つるぎ
+のさやを
+つかみてあとへ
+ひきもどせば
+わしんとん
+はまだ
+ぞくのしのび
+をりしが
+いできた
+りし〔と?〕〔て?〕
+身をひね
+りてふり⊗
+[main] ⊗返
+ふたゝび
+つるぎをぬきはなしかのものめがけていな
+つまのきらめくごとくうつてかゝればこなたは
+はやく身をさけてぬけつくゞりつなすといへども
+わしんとんが手のうちのいとするどくてこれを
+さけかね「ヤヨわかものしばらくまちねいふ△
+[main] にけれ
+ばよく
+見へ
+わた
+れど
+わしん
+とんは
+ぞ〔く?〕と
+のむれ
+とおも
+へばちつ
+ともゆだん
+せずその
+すきあらば
+うちとらん
+となほも◇
+[main] ◇つるぎ
+の手をゆるめず
+このときまで
+もかた
+はらに
+うちふしゐたる
+さいぜんの
+おとめは◎
+[main] ◎すこしく
+かしらをもたげかのます
+らをのおもてを［つぎへ］
+## order
+R top (つゞき) ▲ → R upper centre ▲をりし…わしんとんが▲ → L top ▲つるぎ…ふり⊗ → L main ⊗返…いふ△ → R middle right △ことあり…ての⊠ → R centre ⊠うち…ひき⊠ → R bottom ⊠さげつゝ…ありさまのよあけ → L bottom (にけれ…となほも) ◇ → L bottom left ◇つるぎ…おとめは◎ → L ◎すこしく…おもてを (つぎへ)
+## notes
+Washington cuts down the two bandits and turns to the maiden, when a masked bandit chief bursts from the shrine and grabs his scabbard; Washington shakes free and fights, calling "Wait, young man, I have something to say", but the chief, a skilled fighter, attacks with a huge stone pole; as dawn breaks his hat falls off revealing a fair, imposing hero of nearly thirty, yet Washington, taking him for a bandit, keeps his guard while the maiden lifts her head to look at the man's face. Unsure: ⊗返 (kanji 返 alone before ふたゝび), りし〔と〕〔て〕, ぞ〔く〕と, こへ〔て〕身の; continuation marks rendered approximately (⊠ used for two different box-hourglass marks).

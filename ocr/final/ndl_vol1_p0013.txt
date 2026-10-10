@@ -1,0 +1,33 @@
+## L
+[margin] 万国初（丁付は綴じ際で切れ）
+[main] 〔つゞき〕ぶね川ぐちにあつまり
+ならびてみづのおもておかの
+ごとしじやうかのにんべつおほ
+よそ一百れい五まんにん
+あまれりとそおほき
+なるがくもんじよにある
+ところのともがらへいせい
+すまんにんなんしのうまれ
+つききはめてりこうはつ
+めいにしてとほきおもんばかり
+をぎやうとしつねにおほき
+なるふねをつくり〔て?〕ばんごくに
+わたりもろ〳〵のしな〴〵を▲
+[main] ▲かうえき
+しておほいなる
+もうけをはかりその
+あきなひぶねのかず二万八千
+八十よそうふねのな〔か?〕にはたらく
+ものやくにんをはじめとしてその
+にんじゆ十八万五千にん国王の
+てぶね八百よそう
+ふねのしるしは
+みな十のじを
+そめいだす赤青
+白の三いろありて
+なかんづくあかいろ
+をもつてたつとき〔つゞく〕
+## order
+L top つゞき ▲ → L lower block ▲ つゞく (left page only)
+## notes
+Continues London: merchant ships crowd the river mouth so the water looks like dry land; the city's population is about 1,050,000, with tens of thousands of students at the great schools; the English are clever and far-sighted, build great ships and trade with all countries — 28,080 merchant ships, 185,000 men working aboard, 800 royal ships, all flying a cross in red, blue and white, red being most honoured. Unsure: つくり〔て〕 (both tools read そ), ふねのな〔か〕に, and 一百れい五まん (read as 1,050,000).

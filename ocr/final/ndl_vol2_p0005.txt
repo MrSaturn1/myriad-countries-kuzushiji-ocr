@@ -1,0 +1,30 @@
+## R
+[caption] おさな絵解《ゑとき》
+ばん国《こく》ばなし
+弐へん 下の巻
+かな垣ろふん作
+孟斎よし虎画
+[caption] 山田屋
+[caption] 寿梓
+## L
+[margin] 万国二
+[margin] 一
+[caption] ■
+[caption] 北亞墨利加合衆國《きたあめりかがつしゆうこく》
+華盛都府《わしんとんふ》
+風船之圖《ふうせんのづ》
+[main] 昔々《むかし〳〵》の赤本《あかほん》に。脚色《しくみ》も浅《あさ》き朝比奈《あさひな》が。
+島巡《しまめぐ》りてふ戯作《げさく》あり。足長手長《あしながてなが》の
+春日《ながきひ》を。慰《なぐさ》む小人《こども》の童子《どうじ》等《ら》が。宜《よき》
+翫《もてあそ》びなりけるが。物換《ものかは》り星移《ほしうつ》り。
+當時《いまどき》の千歳児《せんざいじ》ハ。
+飴《あめ》の棒《ぼう》の甘口《あまくち》な。
+事ではゆかぬと品《しな》を替《かへ》。萬国噺《ばんこくばなし》の
+聴取学文《きゝとりがくもん》。國字《かな》に譯《やく》して取次《とりつぎ》の。請《うけ》
+賣《う》をなすものならじ
+辛酉春
+假名垣魯文記
+## order
+R title page → L balloon label → L preface (R→L) → L signature
+## notes
+Right: title page of part 2, lower volume (Kanagaki Robun, Ichimōsai Yoshitora, publisher Yamadaya) with a chess-problem diagram; left: Robun's preface dated spring 1861 (辛酉), saying that where children once enjoyed the old red-book tale of Asahina's island voyages to the lands of the long-legged and long-armed, today's children want more than sweets, so he renders hearsay learning about the nations into kana. The preface sits on a picture of the balloon at Washington, North America (北亞墨利加合衆國 華盛都府 風船之圖). The ALT scan's right page differs (it pairs the preface with the Holland/Nanjing picture) but its left page matches and confirmed the last column. The balloon banner's Latin letters are garbled and upside down (■); unsure: the furigana for 小人, 春日, 脚色 and 品/替, and な at the end of col. 6.

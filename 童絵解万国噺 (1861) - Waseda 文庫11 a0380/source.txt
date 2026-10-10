@@ -1,0 +1,24 @@
+Title:        童絵解万国噺 (Osana etoki bankoku banashi) 初,2-4編 — cover title 「童繪解萬國噺 全」 (二冊之内一/二)
+Author:       仮名垣魯文 作 / Illustrator: 一孟斎芳虎 (歌川芳虎) 画
+Publisher:    [江戸] 南伝馬町 : 錦橋堂, 万延2 [1861]; colophon at end of each 冊 also names
+              東都 地本錦絵問屋 山田屋庄次郎 (i.e. a 山田屋 issue/re-binding of the 4 編 into 2 冊)
+Notes (catalogue): 2冊 ; 19cm. 合巻. 書名は題簽による. 版心書名:万国. 一部色刷 朱書入あり. 柳田泉旧蔵.
+Contents:     vol1 = 初編 + 二編 (柱 "万国初" / "万国二"), 43 images
+              vol2 = 三編 + 四編 (柱 "万国三" / "万国四"), 43 images
+              Each image = one opening (spread); p0001 = front cover, p0043 = back cover.
+              The rebinding drops/reorders some original front matter (title pages, some colour frontispieces):
+              compare the NDL 207-1695 copy.
+Institution:  Waseda University Library (早稲田大学図書館), 古典籍総合データベース
+Call number:  文庫11 A0380
+Source pages: https://www.wul.waseda.ac.jp/kotenseki/html/bunko11/bunko11_a0380/index.html  (catalogue record)
+              https://archive.wul.waseda.ac.jp/kosho/bunko11/bunko11_a0380/index.html        (image index)
+              https://archive.wul.waseda.ac.jp/kosho/bunko11/bunko11_a0380/bunko11_a0380_0001/bunko11_a0380_0001.html
+              https://archive.wul.waseda.ac.jp/kosho/bunko11/bunko11_a0380/bunko11_a0380_0002/bunko11_a0380_0002.html
+              (pages are Shift-JIS; full-size image = the linked .jpg, "…s.jpg" = thumbnail)
+              PDFs: …/bunko11_a0380_0001/bunko11_a0380_0001.pdf (27.1MB), …_0002.pdf (25.8MB)
+Manifest:     none (Waseda's database is static HTML, no IIIF manifest)
+Images:       full-size JPEGs as published, 2592 x 1728 px
+Rights:       "公開者 Copyright: 早稲田大学図書館 (Waseda University Library)". Free to view/download; publication
+              and other secondary use require application — see https://www.waseda.jp/library/user/using-images/
+              (Underlying work is public domain, 1861.)
+Downloaded:   2026-10-08 (86 images; downloaded earlier in this project, source.txt added 2026-10-08)

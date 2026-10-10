@@ -1,0 +1,15 @@
+## R
+[margin] 万国三
+[margin] 十二
+[margin] ■ (faint round seal in top margin)
+[caption] 船子
+[caption] 巴利那
+## L
+[margin] 〔万国三?〕
+[margin] 〔十三?〕
+[caption] 水主
+[caption] 米理幹
+## order
+Full-page picture (no running text): R labels 船子 (sailor, upper right) → 巴利那 (Harina, centre) → L labels 水主 (sailor, left) → 米理幹 (Meriken, lower centre).
+## notes
+The storm scene of p0015 in picture form: the three-headed demon descends in clouds over the ship, sailors (船子, 水主) lie sprawled and fainted on the deck, Harina (巴利那) has collapsed, and Meriken (米理幹) stands braced beside the chained mast. Labels are clear in both copies (Waseda vol2/p0015 cross-checked); R page number 十二 is clear in Waseda, L margin is cut at the fold (only parts of 万国三 and a number, presumably 十三, remain); the round mark at the top of R (also in Waseda) is too faint to read (perhaps the censor seal / circled number seen on p0013).

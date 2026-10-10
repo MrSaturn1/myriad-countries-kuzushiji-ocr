@@ -1,0 +1,66 @@
+## R
+[margin] 十三
+[caption] 猪《ぶた》
+[main] （つゞき）よくおひしげりせきたんは
+へんせいふあにいといへるところ
+よりいづるいたつて
+上ひんにてかつたく
+さんなれども
+そのはじめはとち
+ひろくたみすく
+なきゆへにくさ
+木のみとりもち
+ひてせきたんは
+もちひずちかごろ
+はじんかおほくな
+れどもくさ木は
+いぜんのごとくにして
+へることなししをは
+はまよりせいし
+いだし山の
+なかに
+しを
+の▲
+## L
+[margin] 万国二
+[margin] 十四
+[caption] 野馬
+[caption] 犬《いぬ》
+[caption] 羊《ひつじ》
+[caption] 野猪《ゐのしゝ》
+[caption] 野牛
+[caption] 羅紗《らしや》めん
+[main] ▲いけしをいし
+ありてみなしほに
+せいすなりべつに一ツの山ありて
+その山のしみづあぶらのけ
+ありくすりとなる又はともしび
+をてんじしよくもつをたくなり
+およそきん〔ぎん?〕あかゞね
+せきたんしをのたぐひは
+ひと〴〵かつてにとりてもかまひ
+なしとぞじゆ木《も》くはたいてい
+百三十よしゆありたかきものは
+三丈
+よも
+あり
+その
+うち
+いたつてたかき
+ものは九丈
+なるものあり
+これをもちひてふねを
+つくりほは〔じ?〕らをつくる
+にもつともめうなりまた
+う〔るし?〕ありそのよき■■■▲
+[main] △〔さ?〕■■■■
+〔い?〕〔き?〕木〔を?〕■■
+みあつめての
+■■く■■■
+■■く
+ありと
+いへり
+## order
+R top つゞき → L top ▲ → L bottom △ (small block left of the gutter, ending いへり)
+## notes
+Continuation on America's natural resources: Pennsylvania (へんせいふあにい) coal, once unused because the land was wide and people few; salt from the shore and from a salt pond and salt rocks in the mountains; a mountain whose spring water carries oil (petroleum) used as medicine and for lamps and cooking; gold, silver, copper, coal and salt free for anyone to take; about 130 species of trees, some 3 to 9 jō tall, excellent for ships and masts. Pictures of a wild horse, dog, sheep, wild boar, wild ox, rashamen sheep and a pig. Unsure: the last top column (う〔るし?〕…) and most of the small bottom block (worn in both scans; read from the Waseda copy, same spread); きん〔ぎん?〕; ほは〔じ?〕ら (帆柱?); 野馬/野牛 rubies not read.

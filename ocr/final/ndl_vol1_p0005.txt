@@ -1,0 +1,27 @@
+## R
+[margin] 万国初　一
+[caption] 魯西亞國《おろしやこく》
+[main] 此国《このくに》は欧邏巴洲《ゑうろつぱしう》と亜細亜洲《あじあしう》にまたがりたる
+[main] 地にして本都《みやこ》を伯徳《ぺと》ろと中興《ちうこう》の太祖帝《たいそてい》
+[main] アレキハ
+[main] 才徳《さいとく》すぐれ大いに其版圖《そのりやうぶん》
+[main] を開《ひら》き帝の位を保つ帝崩るゝ
+[main] 後妃《のちのきさき》加太里那《かたりな》女帝の位に即《つき》まつりことを
+[main] 執《とつ》てより其国ます〳〵開《ひら》けりとぞ
+## L
+[margin] 万国初　二
+[caption] 英吉利國《いぎりすこく》
+[main] 此国《このくに》は欧邏《ゑうろつ》
+[main] 巴洲西の方の海中に
+[main] ある大島国《おほしまぐに》なり
+[main] 中興版圖《ちうこうりやうぶん》大いに
+[main] ひろがり女王益那《によわうあんな》の
+[main] 世に當りて思可齋亜《すこしや》島
+[main] 意而蘭土《いゝるらんど》島を併有《あはせ》總称《そうしよう》して
+[main] 大蒲利丹尼亜《■ぶりたにや》といふ其都府《そのみやこ》は
+[main] 囒頓《ろんどん》とて〔爹?〕樸河《てむすがは》の上にあり
+[main] 地を分ちて五十二州となす
+## order
+R title → R text (top, right → left; アレキハ is a short column after 太祖帝, then the second block 才徳… beside the figure) → L title → L text
+## notes
+Russia (R): spanning Europe and Asia, capital 伯徳ろ (Petersburg); the restoring founder-emperor (アレキハ — the short katakana column, perhaps an attempted name) was talented and greatly enlarged the realm, and after his death his consort Catherine (加太里那) took the throne and the country flourished further. England (L): a large island nation west of Europe; under Queen Anne (益那) it united Scotland (思可齋亜) and Ireland (意而蘭土) as Great Britain (大蒲利丹尼亜), capital London (囒頓) on the Thames, divided into 52 counties. Unsure of the first character of the Thames name (〔爹?〕, OCR 多) and the first furigana kana on 大蒲利丹尼亜; ALT_SCAN not needed.

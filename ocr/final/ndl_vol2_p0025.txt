@@ -1,0 +1,51 @@
+## R
+[margin] 万国二　〔二十?〕
+[caption] 魯文譯
+[caption] 芳虎畫圖
+[caption] CONSTITUTION
+[main] つゞき　なし
+あるひは大
+ぶねにのりて
+ばんこくにわたり
+かうえきをなし
+せうがいこれ
+を〔か?〕ぎやうと
+せり▲
+[main] ▲そのはじめいぎりすのために〔はなはだ?〕
+たみふかくくるしめにあひたりし〔を?〕
+○わしんとんふらんきりんあ〔ゝだ?〕
+むすの三人の〔ちゆうぎ?〕により〔て?〕
+そのこゝろざしをたつし千七百八十
+三年ふらんすのみやこ〔ば?〕りすに
+おいてわぼくのときがうしゆうこくの
+みづからたつることを〔ゆるさ?〕■すにいた
+れるはまことにせかいのくに〴〵へびめい
+をかゞやかすの大こうといふべくめで
+たかりけることどもなりめでたし〳〵
+○第三へんはおらんだいすぱにや
+とるこのものがたりより四へん
+五へんとひきつゞきくに〴〵の
+ありさまをもろ〳〵のしよもつの
+うちよりぬきいだしお子さまがた
+お女中さまがたにわかりやすく
+ときやわらげごらんにいれ候あいだ
+あいかはらず御もとめのほど
+ねがひあげたてまつりそろ
+## L
+[caption] 安政七庚申年春新板目録
+[caption] (publisher's mark)
+[main] 柳幕魁双紙《やなぎまくさきがけさうし》　初ゟ八追尾　為永瓢長作　一寿齊國貞画
+都鳥汀松若《みやこどりながれのまつわか》　初　二　三よみ切　柳水亭種清作　同
+初紅葉小倉色紙《はつもみぢおぐらのしきし》　初　同　五よみ切　同
+蝶鵆亀山染《てふちどりかめやまぞめ》　初　同　二　三　同
+義経千本櫻《よしつねせんぼんざくら》　初　同　二よみきり　三　同
+作　画　作　画　作　画　作　画
+釜ヶ渕水外石川《かまがふち■■いしかは》　初　花笠文京作　二　三よみ切　一勇齊國芳画
+縁綱詞花咲《えんのつなことばのはなさき》　二冊よみ切　半文字英寿作　一松齊芳宗画
+當利生一網《あたりりしやうのひとあみ》　二冊よみ切　為永瓢長作　歌川國盛画
+濡衣女鳴神《ぬれぎぬをんななるかみ》　四冊出板　一　二瓢長改　三為永千章作　一寿齊國貞画
+地本艸紙問屋　江戸両國横山町三丁目　辻岡屋文助　金松堂
+## order
+R top (つゞき, from the previous spread's すなどりを) → せり▲ → R main ▲ block (ending めでたし〳〵, then the notice of the next instalments) → L publisher's catalogue (top row right→left, then bottom row right→left, then imprint)
+## notes
+End of the volume on America: some people sail to all countries to trade; first oppressed by England, the people, through Washington, Franklin and Adams, achieved their aim, and at the 1783 peace in Paris (ぱりす) the United States' independence was recognised, a great deed shining across the world; the next parts (3rd: Holland/Spain, Turkey, 4th and 5th) are announced, and the right page shows a balloon labelled CONSTITUTION with the credits 魯文譯 (translated by Robun) and 芳虎畫圖 (pictures by Yoshitora). The left page is the publisher Tsujiokaya Bunsuke (金松堂, Yokoyama-chō, Edo) catalogue of new books for spring Ansei 7 (1860), with authors 為永瓢長, 柳水亭種清, 花笠文京, 半文字英寿, 為永千章 and artists 國貞, 國芳, 芳宗, 國盛. The Waseda alt matches only the right page (its left page is another publisher's back matter). The NDL main block is smudged: the end of col. 1, ちゆうぎ (possibly ちから), the verb in col. 8, and the furigana in the catalogue (especially 釜ヶ渕水外石川, and the volume/よみ切 notes) are uncertain.

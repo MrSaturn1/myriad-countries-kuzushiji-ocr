@@ -1,0 +1,121 @@
+## R
+[margin] 万国三
+[margin] 十五
+[main] つゞきかへる日はたゝかひの
+はうをかうじさとのうちの
+わらべをあつめその身大せう
+のもやうにいでたちとう
+ざいにわらべをつらなしみづ
+からぐんばいをとりてかけ
+ひきなすにそのはういち〳〵
+づにかなひおとなの耳目も
+をおどろかせりわしんどん
+そのとし十八のはるなりしが
+ひるぎにやのひがしにあたりて
+かくまくさんといへるあり
+そのはんふくのがんくつに
+ゐぎやうのへんげすまゐ
+なしをり〳〵しよくをはせ
+めぐりあるときは木のうへに
+よぢのぼりまたは
+むらざとにたちあら
+はれあめになき
+かぜに
+さけ
+び▲
+[main] ▲よにあきれてちまたにきたり
+いへ〳〵の門戸《もん》をたゝき人の
+ねむりをさますにいたるその
+ありさま身のたけおよそ二丈
+余《よ》ふたつのかしらかさなり
+あひうへのかしらにふたつの
+まなこをひらき下のかしらに
+三ツのまなこをひらく二ツの
+手二ツのあしともに四ツのゆび
+ありてそのつめするどきこと
+きりのごとしかつうへのかしらに
+おほいなるくちありてあをき
+けむりをはきいだす人〳〵このけむり
+のきにふるゝときは日をへずしてかならず
+死《し》すひるぎにやのひやくせうらその
+とくきをうけ死するものすひやくにんに
+およべりそうしんにみどりのいろの△
+[main] △う〔ろ?〕〔こ?〕〔を?〕〔お?〕〔ひ?〕く
+かたきこときん
+てつもおよばず
+かりうどら
+心をあはせかの
+へんげのいづるを
+うかゞひてつぽう
+をむけこれに⊗
+[main] ⊗せまりつゝさきそろへてうちかく
+〔る?〕そのたま身にあたれどもつら
+ぬかずへんげはこのをりうへのくち
+より
+あを
+き
+けむ
+りを
+はき
+だ
+す
+に
+かりうど
+らはけむりに
+ふれたち
+まち
+いのち
+を
+はた
+せり
+わ
+し
+ん
+とんこのことを
+ふ〔く?〕〔う?〕〔見?〕
+て［四の巻へ］
+## L
+[margin] ㊃
+[margin] 万国三
+[margin] 十六
+[caption] 話聖東
+[main] ［三の巻より］ちゝにも
+つけずある日一ツてうの
+てつほうをかたにうち
+かけけものがりにゆく
+よしにてちゝはゝにいとま
+をこひかくまくざんの▲
+[main] ▲ふもとに
+いたりへんげの
+いづるをまつほどに
+その日もにしにかたむきて⊠
+[main] ⊠手もと
+ほのくらくなる
+にいたれどいまだ
+へんげのかた
+ち
+を△
+[main] △見ずさては
+よにいりていづるならん
+とかたへの小たかき山の
+なかば木ぐのしげりし
+あひだにかくれていまや
+おそしとまつほどに夜は
+はやくれてあやめもわかずきゞ
+ふきさそふ山おろしこだまに
+ひゞくましらのさけびいとしん
+〳〵たるをりもあれなま
+ぐさきかぜ山のうへよりふき
+おこるとひとしく山のなかばに
+きら〳〵ときらめくもの四ツ五ツ
+そのひかりまなこをゐてあたり
+もまばゆく見へ〔す?〕にぞ
+わしんとんはひとみをさだめ
+かなたをきつと見てあれば
+あをきけむりのをりくた〔る?〕
+にぞこれなんへんげのどくきな
+らんちかよりてはかの［つぎへ］
+## order
+R top (つゞき) ▲ → R middle ▲…△ → R small block right of gun △…⊗ → R bottom ⊗, ending in short columns along the bottom edge (四の巻へ) → L top (三の巻より) ▲ → L upper-lower ▲…⊠ → L bottom right ⊠…△ → L bottom left △ (つぎへ)
+## notes
+Washington, at 18, organises village boys into drill; a monster in a cave on Mount かくまく east of Virginia (2 jo tall, two heads, five eyes, iron-hard green body, breathing poisonous blue smoke that has killed hundreds of villagers and the hunters who shot at it) — Washington, telling only his parents he is going hunting, takes a musket to the mountain and at night sees glittering lights and blue smoke. Unsure: first column of the small block (うろこ…?), the column before 四の巻へ (ふくう見 ?), 見へ〔す〕にぞ, the end of をりくた〔る〕; the ▲/△/⊗/⊠ marks are rendered approximately.

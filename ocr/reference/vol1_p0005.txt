@@ -1,0 +1,49 @@
+## R
+[margin] 万国初
+[margin] 二
+[caption] 阿蘭陀國《おらんだこく》
+[caption] 大清國南京人《たいしんこくなんきんじん》
+[main] 此国《〔おらんだ?〕》は人民《〔じんみん?〕》専《〔もつぱ?〕》ら枝藝《ぎげい》に
+[main] 妙《めう》をえ通商《つうしやう》をことゝし能《よく》天文《てんもん》
+[main] 地理《ちり》に通じ格物《〔かくぶつ?〕》究理《きうり》の
+[main] 学《がく》に達《〔たつ?〕》じ諸国《しよこく》の産物《さんぶつ》
+[main] 異類《いるい》奇品《きひん》を
+[main] 集《あつめ》て
+[main] 互市《ごし》
+[main] の大利《たいり》
+[main] を究《きは》む
+## L
+[margin] 万国〔初?〕
+[margin] 一
+[caption] 一
+[caption] 北亞墨利《きたあめり》
+[caption] 加合衆國《かがつしゆうこく》
+[caption] 華盛都府《わしんとんふ》
+[caption] 風船之圖《ふうせんのづ》
+[main] 昔々《むかし〳〵》の赤本《あかほん》に。脚色《し〔くみ?〕》も浅《あさ》き朝比奈《あさひな》が。
+[main] 島巡《しまめぐ》りてふ戯作《げさく》あり。足長《あしなが》手長《てなが》の
+[main] 春日《ながきひ》を。慰《なぐさ》む小人《こびと》の童子等《どうじら》が。宜《〔よろし?〕》
+[main] 翫《もてあそ》びなりけるが。物換《もの〔かは?〕》り星移《ほしうつ》り。
+[main] 當時《いまどき》の千歳児《せんざいじ》は。
+[main] 飴《あめ》の棒《ばう》の甘口《あまくち》な。
+[main] 事《こと》ではゆかぬと品《しな》を替《〔かへ?〕》。萬国噺《ばんこくばなし》の
+[main] 聴取《きゝとり》学文《がくもん》國字《かな》に譯《やく》して取次《とりつぎ》の。請《うけ》
+[main] 賣《うり》をなすものならじ
+[main] 辛酉春　假名垣魯文記
+## notes
+(a) Summary: The right page, headed 阿蘭陀國 "Holland" and showing a seated Dutchman reading a book beside a standing "man of Nanjing, Great Qing", says the Dutch devote themselves to arts and skills, make trade their business, are versed in astronomy, geography and natural philosophy, and gather rare goods from every country to reap the great profits of foreign trade. The left page shows a balloon labelled "Balloon of Washington, United States of North America" and closes the author's preface: the old red-books' tales (Asahina's island travels, the Long-legs and Long-arms, the dwarfs) that once amused children no longer satisfy today's sharp youngsters, so the author changes his wares and, retailing "tales of all nations" gathered from hearsay and learning and rendered into kana, offers them second-hand. Signed 辛酉春 (spring 1861) 假名垣魯文記.
+
+Image sources: R page read from the Waseda scan only. The NDL image (vol2/p0005) is NOT the same spread: its right page is a different leaf (the vol.2 title/cover-slip page おさな絵解 ばん国ばなし 弐へん 下の巻 … with a chess-board picture and 山田屋/寿梓), while its LEFT page is the same woodblock as the Waseda left page (balloon + preface end). The L page was therefore read from the sharper NDL image and checked against Waseda; the R page has no NDL counterpart. NDL candidates' R-page text is therefore not comparable to this reference.
+
+Non-text / decorative items not transcribed: (1) the band around the top of the balloon carries decorative pseudo-Latin capitals (roughly "ELVSHLUBIOↃƧNӨT" as printed, apparently a garbled/mirrored "THE UNITED STATES…"); (2) a round seal-script stamp beside the boxed 一 at the top of L (printed, illegible to me; possibly 酒/滴-like); (3) a diamond-shaped seal after 假名垣魯文記; (4) the NDL copy also has red Imperial Library ownership stamps, which are not part of the print.
+
+Transcription choices: hentaigana normalised (八→は particle, 尓-shaped→に, 江→え, 乃→の, 奈-shaped→な, 弖-shaped→て, 遠-shaped "戋" glyph→を in 春日を and 賣をなす, ヿ ligature→こと in ことゝし). 事 is printed as the variant 古+又 form; 甘 in 甘口 is printed in a 井-like form (furigana あまくち confirms 甘). 枝藝 is printed with 木-radical 枝 (for 技). 達じ / 通じ / ならじ keep the dakuten as printed. Old/new character forms kept as printed: 國 in captions and 國字, but 国 in 此国/諸国/萬国; 浅 (not 淺); 亞 in 北亞墨利. The L-page boxed 一 above the balloon and the outer-margin 一 are both recorded; the 柱 on L is cut off in both copies (万国 + probably 初). Uncertain furigana: 此国《おらんだ?》 (glyphs look like お-ら-ん-だ, matching the お of 阿蘭陀國's gloss; このくに is the alternative v3 gives); 人民 and 専 glosses partly illegible; 格物 shows only く-ぶ clearly; 宜 shows よ-ろ-(し?) before the flag covers the column foot; 脚色《し…》 second part is a single zig-zag glyph (くみ?); 換 and 替 glosses uncertain.
+
+(b) Confidence: main-text and caption characters ~97% (only a handful of variant-form decisions); furigana ~85%; overall ~92% of characters certain.
+
+(c) Candidate errors (main text unless noted):
+- NDL v3 on Waseda (ocr/ndl_v3/waseda_vol1): good reading order and kanji. Errors: 万国神 (初→神), 元 for え, 五市 (互), 大和 (大利), 南京二 (人→二), たいかゝ, 北黒 (亞墨→黒), 島巡りては (てふ→ては), ばんこくばなと; DROPS the whole first L column after 昔々 (の赤本に脚色も浅き朝比奈が, 13 chars); modernises 藝/國/當/萬/譯/賣/假 to 芸/国/当/万/訳/売/仮 (~10); furigana interleaved unmarked as plain text, partly misattached (宜きたあめり mixes the caption gloss), some furigana missed (宜, 戯作, 脚色, 赤本 etc.). Roughly 25 wrong/missing main-text chars + ~13 dropped.
+- NDL v3 on NDL scan (ndl_vol2): R page is a different leaf (not comparable). L page: very good; errors 北墨利 (亞 dropped), 宜しき (added しき), もてあそ流び (翫 dropped, 流 inserted), 万国新 (噺→新), ○ for の, とりつぎろけ noise, trailing 一日 noise, same modernisations (當/萬/國/譯/賣/假 → 当/万/国/訳/売/仮, ~8). ~10 errors on L plus modernisation.
+- NDL Lite on Waseda (ocr/ndl/vol1): best main-text fidelity on the Waseda copy: correct 万国初, 妙をえ, 島巡りてふ, 春日を, 宜, 翫びなりけるが, keeps punctuation 。. Errors: 五市, 南京久 (人→久), ゆりぬ (か→り), 記念 (seal read as 念), Ａ北亜墨利 (亜 for 亞, noise Ａ), 風船之図 (圖), modernisations (國/當/萬/譯/賣/假, ~8); noise lines (くるにおきはまつ, 六〇, 囁きたあめり) from furigana fragments; almost all furigana dropped; captions interleaved. ~8 real errors + ~20 noise chars.
+- NDL Lite on NDL scan (ndl_lite_ndlcopy/vol2): R page different leaf with many □. L page near-perfect: errors 一昔々 (spurious 一), 北亜墨利, 風船之図, ゆりぬ, 記念, modernisations; furigana dropped. ~5 errors + modernisation.
+- Claude by eye (ocr/claude): only candidate with furigana, captions and margins, and keeps old character forms. Errors: 〔主?〕とし for ことゝし, 島巡り〔の?〕 (misses てふ), 春日〔殘?〕《〔あづまひ?〕》 for 春日《ながきひ》を, ■ for 宜, ありけるが for なりけるが, 井口《〔まをち?〕》〔ゑ?〕 for 甘口《あまくち》な, 〔古?〕 for 事, 譯しく for 譯して, 〔殘?〕あ〔ん?〕めのあ〔ら?〕じ for をなすものならじ, 淺 for 浅, hentaigana ハ not normalised, several furigana guesses wrong ((た)ひり, きハ). ~20 wrong main-text chars, ~15 wrong furigana chars.

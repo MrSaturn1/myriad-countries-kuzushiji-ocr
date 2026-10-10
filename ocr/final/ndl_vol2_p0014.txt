@@ -1,0 +1,78 @@
+## R
+[margin] 万国二
+[caption] ○華盛頓《わしんとん》の城下《じやうか》繁栄《はんえい》の図《づ》
+[main] つゞき
+しそん
+にいたりかしこ
+からずまつ
+りごと
+に〔日?〕
+おこたり
+おごりにふけり
+[main] ▲ところ〴〵のたみへつげしらしめふたゝび
+ひやうぎすることいちねんにして又〔ゐる?〕
+ぎやにいたりていよ〳〵さう〔だん?〕けつ
+ちやくし文くわん武くわんそのいんず
+をさだめしなりこの
+ときいまだみやこに
+しろなしよつておの〳〵
+ひやうぎしてゐるぎにや
+と○まれいらんど
+とのさかい○ほとま〔く?〕
+川といふところにおい
+てめぐり三十五りのちをかいにはじ
+めて都城《とじやう》をきづくこゝにおいて
+しんこくのはつとすでにそなはり
+つうづるせいどをさだめくに
+たみをして四かいは一ツ
+けのごとくばんこくは
+いつたいのごとく
+おもはしめもし
+ほかのくにゝことあり
+てあらそふときは
+さうはうへわぼくを
+すゝめてんかをして
+やすくしづかなら
+しむるをだい一と
+## L
+[margin] 万国二 … 二（半欠）
+[main] あしきおこ
+なひをなす
+ものいでき
+なばくには
+たちまちみだる
+べしそのときいづ
+れのよきはかり
+ごとありてながく
+やすきことを
+たもたんや
+こゝにおいてとし
+よりたちひやうぎ
+にやのちにおいて
+しゆうぎ
+なしわしん
+とんを
+くにの〔を?〕
+〔さ?〕となし
+みないちどう
+ひやうぎのうへにて
+けんしやをえらびて
+かはりとなし四かねんを
+かぎりとなすべしとおの〳〵ひやうぎ
+いつけつしてとしよりたちおのれ〳〵の
+くにへもどりそのびやうぎするところをもつて▲
+[main] なすこゝにおいて
+ゑうらつぱのしよ
+こくあじあのくに〴〵
+とまじはりつるひのわう
+らいありてかうえきの
+みちさかんとなりくに
+うるほひたみゆたかにして
+まことにあたらしきよき
+くにとはなりにけるこれ
+あめりかくにをたてるのはじ
+めなりとぞ
+## order
+R top (つゞき) → L top ▲ → R bottom ▲ → L bottom (ends とぞ)
+## notes
+Washington's descendants proving unwise, the elders deliberate, choose a wise man as head with a four-year term, settle the civil and military offices, and build the capital on 35 ri of land by the Potomac (ほとまく) between Virginia (ゐるぎにや) and Maryland (まれいらんど); with laws in place, trade with Europe and Asia makes America a prosperous new nation. Unsure: R top 「に〔日?〕」, L top 「くにの〔を〕〔さ〕となし」 (glyphs read as をさ? = head), R bottom col 2–3 end 「又〔ゐる?〕ぎや」 and 「さう〔だん?〕けつ」 (NDL very faint there; read mostly from Waseda copy).
