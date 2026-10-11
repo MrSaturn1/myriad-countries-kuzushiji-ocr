@@ -14,7 +14,7 @@ English translation, 2026, made with Claude Opus 5.5 (Anthropic's AI model) and 
 Seven years after Perry's ships opened Japan, the popular writer Kanagaki Robun
 set out to tell children "and women" about the foreign countries now arriving
 at Japan's ports. He worked from Japanese and Chinese digests of Western
-geography (his Part 3 preface names *Haiguo tuzhi* and other works), retold in
+geography (his Part 3 preface names *Kaikoku zushi* and other works), retold in
 easy kana with a picture on every page.
 
 The four parts translated here move from fact toward fable:
@@ -79,7 +79,10 @@ closely on the story, the names and the numbers. Theirs also caught four things
 this one missed, which have been corrected here with credit: the Dutch source
 Kramers in the Part Three preface, Columbus's standing in Spain as a guest
 retainer, the real lookout Rodrigo de Triana, and the printed form *Harumata*
-for Bermuda. Many thanks to them both.
+for Bermuda. After the translation was published, u/CauliflowerFew7729 kindly sent more
+corrections (the Japanese reading *Kaikoku zushi*, Takeda Ointment, the Daisō
+lending-library stamp, and the albatross), which have also been made with credit.
+Many thanks to them both.
 
 ## Conventions
 

@@ -1,8 +1,8 @@
 ## R
 [caption] 童繪解萬國噺《おさなゑときばんこくばなし》 三編
 [caption] 上
-[caption] 大■■本
+[caption] 大惣かし本
 ## order
 R title cartouche text (right → left) → 上 roundel → seal
 ## notes
-Picture frontispiece (right half): a Western woman in a feathered headdress and tiered skirt holding a peacock-feather fan, with the title 童絵解万国噺 三編 and the volume mark 上 (vol. 1). The small seal-like label below 上 is faint; only 大 … 本 are legible.
+Picture frontispiece (right half): a Western woman in a feathered headdress and tiered skirt holding a peacock-feather fan, with the title 童絵解万国噺 三編 and the volume mark 上 (vol. 1). The small seal below 上 is the owner's stamp 大惣かし本 (Daisō lending library), read by u/CauliflowerFew7729; it is not part of the printing.

@@ -14,7 +14,7 @@ English translation, 2026, made with Claude Opus 5.5 (Anthropic's AI model) and 
 Seven years after Perry's ships opened Japan, the popular writer Kanagaki Robun
 set out to tell children "and women" about the foreign countries now arriving
 at Japan's ports. He worked from Japanese and Chinese digests of Western
-geography (his Part 3 preface names *Haiguo tuzhi* and other works), retold in
+geography (his Part 3 preface names *Kaikoku zushi* and other works), retold in
 easy kana with a picture on every page.
 
 The four parts translated here move from fact toward fable:
@@ -79,7 +79,10 @@ closely on the story, the names and the numbers. Theirs also caught four things
 this one missed, which have been corrected here with credit: the Dutch source
 Kramers in the Part Three preface, Columbus's standing in Spain as a guest
 retainer, the real lookout Rodrigo de Triana, and the printed form *Harumata*
-for Bermuda. Many thanks to them both.
+for Bermuda. After the translation was published, u/CauliflowerFew7729 kindly sent more
+corrections (the Japanese reading *Kaikoku zushi*, Takeda Ointment, the Daisō
+lending-library stamp, and the albatross), which have also been made with credit.
+Many thanks to them both.
 
 ## Conventions
 
@@ -390,7 +393,7 @@ independence, how the government is organised, and the land, its products and th
 - *Love-Plovers in the May Rains at Susono* (戀鵆裾野皐月雨) [?], Part 2: text by Ryūentei Tanehisa; pictures from Part 1 on by Ikkeisai Yoshiiku.
 - *The Seven Transformations of the Golden Cat* (金花七變化), Parts 1, 2 and 3: text by Kakutei Shūga; pictures by Baichōrō Kunisada.
 
-*Takeda Plaster* (武田膏): large shell 100 [mon] each [?], small shell 20 copper mon, medium shell 48 copper mon.
+*Takeda Ointment* (武田膏), sold in shells: large shell 100 [mon] each [?], small shell 20 copper mon, medium shell 48 copper mon.
 Carefully made by Iijima Keizaburō, Ningyō-chō street, Edo.
 
 *Divine Unicorn Pills* (神仙 一角丸): a restorative and antidote, good for the five infant ailments and all sorts of illness.
@@ -728,7 +731,7 @@ Part Three begins with Columbus's voyage and the naming of America after Americu
 - *Butterflies and Plovers: May Rains at Susono* (蝶鵆裾野皐月雨), part [?]. Text by Ryūentei Tanehisa; pictures from part 1 on by Ikkeisai Yoshiiku.
 - *The Seven Transformations of the Golden Cat* (金花七變化). Text by Kakutei Shūga; pictures for parts 2 and 3 by Baichōrō Kunisada.
 
-*Takeda Plaster* (武田膏): large shell 100 mon [?], small shell 20 copper mon, medium shell 48 copper mon. Carefully made by Iijima Keizaburō, Ningyō-chō street, Edo.
+*Takeda Ointment* (武田膏), sold in shells: large shell 100 mon [?], small shell 20 copper mon, medium shell 48 copper mon. Carefully made by Iijima Keizaburō, Ningyō-chō street, Edo.
 
 *Divine Unicorn Pills* (神仙 一角丸): a restorative and antidote, good for the five infant ailments and all sorts of illness. Made up by Ōno Denbei, Tōgane-machi, Kazusa province.
 
@@ -742,24 +745,24 @@ Wholesaler of picture-books: Tsujiokaya Bunsuke (Kinshōdō), Yokoyama-chō 3-ch
 
 ### Part 3, colour frontispiece — ndl_vol3_p0003  (scan: 童絵解万国噺 (1861) - NDL 207-1695/vol3/p0003.jpg)
 
-**Captions:** "*Picture Tales of the Myriad Countries*, Part Three" / "Upper" / "Dai[…]hon"
+**Captions:** "*Picture Tales of the Myriad Countries*, Part Three" / "Upper"
 
-[T.N. The picture shows a Western woman in a feathered headdress and tiered skirt, holding a peacock-feather fan. The small seal under "Upper" is faint, and only its first and last characters (大 … 本) can be read.]
+[T.N. The picture shows a Western woman in a feathered headdress and tiered skirt, holding a peacock-feather fan. The small seal under "Upper" reads 大惣かし本, "Daisō lending-library book" (read by u/CauliflowerFew7729). It was stamped by an owner, not printed. Daisō (Ōnoya Sōhachi) of Nagoya was the most famous lending library of the Edo period; when it closed around 1899 much of its stock went to the Imperial Library, now the National Diet Library, which is probably how this copy reached the NDL. The same stamp is on the Part Four frontispiece.]
 
 ### Part 3, leaf 1: lower-volume title and Robun's preface — ndl_vol3_p0004  (scan: 童絵解万国噺 (1861) - NDL 207-1695/vol3/p0004.jpg)
 
 **Right page:** *Picture Tales of the Myriad Countries*, Part Three, lower volume.
-**Caption:** "Name of the bird: […]"
+**Caption:** "The bird is called *tōkurō*" (albatross)
 
-[T.N. The right page was read from the scan; it is not in the transcription. Its picture shows three long-necked birds flying over a ship's paddle wheel and waves. The katakana bird name in the label is only partly legible.]
+[T.N. The right page was read from the scan; it is not in the transcription. Its picture shows three long-necked birds flying over a ship's paddle wheel and waves. The label トウクロウト云, *tōkurō to iu*, gives the bird's name: *tōkurō* (藤九郎) is an old Japanese name for the albatross (read by u/CauliflowerFew7729).]
 
 **Left page: preface.**
 
-The heart of the popular historical tale is to take its matter from things near at hand and to draw from it the lesson that good is rewarded and evil punished; that is what an author must keep in mind. Be that as it may, though this book follows the usual fashion of our storybooks in its form, it does not set out fables or empty fictions. It rests on the *Haiguo tuzhi*, which a Chinese scholar translated from the original work of the Dutchman Kramers, and on other books besides, such as the *Zōyaku Sairan igen*, the *Amerika ittōshi* and the *Seiyō zakki*. So that children and women may read it easily, I have softened these rare tales and strange reports into plain kana in our own country's language. I have searched out the true facts of that new country, and so they take their place among the new publications. This is already the third part. In this busy world there is hardly time to smoke a pipe, and the publisher has hurried the author along to get it on sale.
+The heart of the popular historical tale is to take its matter from things near at hand and to draw from it the lesson that good is rewarded and evil punished; that is what an author must keep in mind. Be that as it may, though this book follows the usual fashion of our storybooks in its form, it does not set out fables or empty fictions. It rests on the *Kaikoku zushi*, which a Chinese scholar translated from the original work of the Dutchman Kramers, and on other books besides, such as the *Zōyaku Sairan igen*, the *Amerika ittōshi* and the *Seiyō zakki*. So that children and women may read it easily, I have softened these rare tales and strange reports into plain kana in our own country's language. I have searched out the true facts of that new country, and so they take their place among the new publications. This is already the third part. In this busy world there is hardly time to smoke a pipe, and the publisher has hurried the author along to get it on sale.
 
 Written by Kanagaki Robun, in the last month of spring, Year of the Rooster, the year the era was renamed Bunkyū.
 
-[T.N. *Haiguo tuzhi* (海国図志, "Illustrated Treatise on the Maritime Countries") is Wei Yuan's Chinese world geography of 1843, much read in Japan in the 1850s. The original author's name, 葛拉墨兒, is a Chinese spelling of Kramers, as u/CauliflowerFew7729 identified in a translation on Reddit (see the Introduction). The small, worn kana beside it were misread for this translation as *Urumero-shi*. *Zōyaku Sairan igen* (1802) and *Seiyō zakki* are Japanese works on the West by Yamamura Saisuke. *Amerika ittōshi* ("Gazetteer of America") has not been identified.]
+[T.N. *Kaikoku zushi* (海国図志, "Illustrated Treatise on the Maritime Countries"), glossed with its Japanese reading in the preface, is Wei Yuan's Chinese world geography of 1843 (*Haiguo tuzhi* in Chinese), much read in Japan in the 1850s. The original author's name, 葛拉墨兒, is a Chinese spelling of Kramers, as u/CauliflowerFew7729 identified in a translation on Reddit (see the Introduction). The small, worn kana beside it were misread for this translation as *Urumero-shi*. *Zōyaku Sairan igen* (1802) and *Seiyō zakki* are Japanese works on the West by Yamamura Saisuke. *Amerika ittōshi* ("Gazetteer of America") has not been identified.]
 
 ### Part 3, picture: the demon of the storm — ndl_vol3_p0005  (scan: 童絵解万国噺 (1861) - NDL 207-1695/vol3/p0005.jpg)
 
@@ -1597,8 +1600,8 @@ the transcription pass; translators add new entries under their part.
 | Eishō 3 / Eishō 5 | 永正〔寅?〕三年 / 永正五年 | 1506 / 1508 |
 | Kyōhō era | 享保年間 | 1716–1736 |
 | Bunkyū 1 | 文久辛酉, 文久改元 | 1861 |
-| Haiguo tuzhi | 海國圖志 | Wei Yuan's world geography, cited in Robun's preface |
-| Urumero (?) | 葛拉墨兒氏 うるめろし | "the Dutchman" whose work underlies Haiguo tuzhi, per the preface; unidentified |
+| Kaikoku zushi | 海國圖志 (かいこくづし) | Wei Yuan's world geography (Chinese *Haiguo tuzhi*), cited in Robun's preface |
+| Kramers | 葛拉墨兒氏 | "the Dutchman" whose work underlies *Kaikoku zushi*, per the preface; identified by u/CauliflowerFew7729 (the worn ruby was misread here as うるめろし) |
 | Zōyaku Sairan igen; Seiyō zakki; Amerika ittōshi | 増譯采覧異言; 西洋襍記; 亜墨利加一統志 | sources named in the preface |
 | Kansendō | 甘泉堂 | publisher whose catalogue ends Part 3 (Izumiya Ichibei) |
 | Takai Ranzan | 高井蘭山 | editor of the Edo maps in the catalogue |

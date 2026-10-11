@@ -236,8 +236,8 @@ the transcription pass; translators add new entries under their part.
 | Eishō 3 / Eishō 5 | 永正〔寅?〕三年 / 永正五年 | 1506 / 1508 |
 | Kyōhō era | 享保年間 | 1716–1736 |
 | Bunkyū 1 | 文久辛酉, 文久改元 | 1861 |
-| Haiguo tuzhi | 海國圖志 | Wei Yuan's world geography, cited in Robun's preface |
-| Urumero (?) | 葛拉墨兒氏 うるめろし | "the Dutchman" whose work underlies Haiguo tuzhi, per the preface; unidentified |
+| Kaikoku zushi | 海國圖志 (かいこくづし) | Wei Yuan's world geography (Chinese *Haiguo tuzhi*), cited in Robun's preface |
+| Kramers | 葛拉墨兒氏 | "the Dutchman" whose work underlies *Kaikoku zushi*, per the preface; identified by u/CauliflowerFew7729 (the worn ruby was misread here as うるめろし) |
 | Zōyaku Sairan igen; Seiyō zakki; Amerika ittōshi | 増譯采覧異言; 西洋襍記; 亜墨利加一統志 | sources named in the preface |
 | Kansendō | 甘泉堂 | publisher whose catalogue ends Part 3 (Izumiya Ichibei) |
 | Takai Ranzan | 高井蘭山 | editor of the Edo maps in the catalogue |

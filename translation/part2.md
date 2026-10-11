@@ -20,7 +20,7 @@ independence, how the government is organised, and the land, its products and th
 - *Love-Plovers in the May Rains at Susono* (戀鵆裾野皐月雨) [?], Part 2: text by Ryūentei Tanehisa; pictures from Part 1 on by Ikkeisai Yoshiiku.
 - *The Seven Transformations of the Golden Cat* (金花七變化), Parts 1, 2 and 3: text by Kakutei Shūga; pictures by Baichōrō Kunisada.
 
-*Takeda Plaster* (武田膏): large shell 100 [mon] each [?], small shell 20 copper mon, medium shell 48 copper mon.
+*Takeda Ointment* (武田膏), sold in shells: large shell 100 [mon] each [?], small shell 20 copper mon, medium shell 48 copper mon.
 Carefully made by Iijima Keizaburō, Ningyō-chō street, Edo.
 
 *Divine Unicorn Pills* (神仙 一角丸): a restorative and antidote, good for the five infant ailments and all sorts of illness.
